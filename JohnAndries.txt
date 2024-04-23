@@ -1,0 +1,9 @@
+District of Columbia (Washington, DC)
+CRIMINAL DOCKET FOR CASE #: 1:21-cr-00093-RC All Defendants
+
+1 	JOHN D. ANDRIES 	Pending 	18:1752(a)(1); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building (1)
+1 	JOHN D. ANDRIES 	Pending 	18:1752(a)(2); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building (2)
+1 	JOHN D. ANDRIES 	Pending 	40:5104(e)(2)(D); FEDERAL STATUTES, OTHER; Violent Entry and Disorderly Conduct at the Grounds and in a Capitol Building (3)
+1 	JOHN D. ANDRIES 	Pending 	40:5104(e)(2)(E); FEDERAL STATUTES, OTHER; Impeding Passage Through the Capitol Grounds or Buildings (4)
+1 	JOHN D. ANDRIES 	Pending 	40:5104(e)(2)(G); FEDERAL STATUTES, OTHER; Parading, Demonstrating, and Picketing in a Capitol Building (5)
+1 	JOHN D. ANDRIES 	Complaint 	COMPLAINT in Violation of 18:1752(a)(1)&(2) and 40:5104(e)(2)(D)(E)&(G)

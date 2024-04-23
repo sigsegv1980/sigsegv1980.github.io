@@ -1,0 +1,226 @@
+Pagination
+*	F. Supp. 3d
+**	BL
+
+
+Majority Opinion >
+
+
+UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA
+
+UNITED STATES OF AMERICA v. JENNY LOUISE CUDD and ELIEL ROSA, Defendants.
+
+Case No. 1:21-cr-00068 (TNM)
+
+April 21, 2021, Filed
+
+April 21, 2021, Decided
+
+
+
+For JENNY LOUISE CUDD, also known as JENNY L. HANING, Defendant: Marina Medvin, LEAD ATTORNEY, MEDVIN LAW PLC, Alexandria, VA.
+
+For ELIEL ROSA, also known as ROSA B. ELIEL, Defendant: Michelle M. Peterson, LEAD ATTORNEY, FEDERAL PUBLIC DEFENDER FOR THE DISTRICT OF COLUMBIA, Washington, DC.
+
+For USA, Plaintiff: Amanda Fretto, LEAD ATTORNEY, U.S. ATTORNEY'S OFFICE FOR THE DISTRICT OF COLUMBIA, Washington, DC.
+
+
+
+HONORABLE TREVOR N. McFADDEN, United States District Judge.
+
+TREVOR N. McFADDEN
+
+[*51] MEMORANDUM OPINION
+Defendant Jenny Cudd faces charges relating to her alleged participation in the January 6, 2021 riot at the U.S. Capitol. The Government has obtained (and continues to obtain) voluminous amounts of information as a result of its broad investigation of the January 6 events, including video footage, tips, and law-enforcement reports. To expedite its disclosure of potentially discoverable materials to Cudd and other similarly situated defendants, the Government moves for a protective order limiting the use, dissemination, and reproduction of sensitive information. Cudd opposes the motion, contending (among other things) that it is overbroad, improperly conceals information from the public, and otherwise prejudices her. Because the Court finds that the Government has shown good cause for the protective order, it will grant the Government's motion.
+
+I.
+There are numerous criminal cases stemming from the January 6 events. The Government asserts that "[t]he investigation and prosecution of the Capitol Attack will likely be one of the largest in American history, both in terms of the number of defendants prosecuted and the nature and volume of the evidence." Gov't Mot. for Protective Order ("Gov't Mot.") at 2, ECF No. 34.1 Over 300 individuals have already been charged, and the Government says that it will likely prosecute at least 100 more. Id.
+
+The volume of potentially discoverable information arising from the January 6 cases is staggering. The Government has obtained
+
+(a) more than 15,000 hours of surveillance and body-worn camera footage from multiple law enforcement agencies; (b) approximately 1,600 electronic devices; (c) the results of hundreds of searches of electronic communication providers; (d) over 210,000 tips; and (e) over 80,000 reports and 93,000 attachments related to law enforcement interviews of suspects and witnesses and other investigative steps.
+Id. at 3. The Government contends that these materials are likely to contain sensitive information. Id. At least some of this sensitive information will be personal information of defendants in this and other cases.
+The proposed protective order is necessary, the Government argues, to "facilitate the [G]overnment's ability to provide voluminous discoverable materials expeditiously, while adequately protecting the United States' legitimate interests." Id. at 5. It would cover information in the Government's [**2] possession that the Government has identified as "Sensitive" or "Highly Sensitive." Protective Order Governing Discovery ("Protective Order") at 1, ECF [*52] No. 36-1.2 Materials that might fall under these designations include:
+
+a. Personal identity information as identified in Rule 49.1 of the Federal Rules of Criminal Procedure , as well as telephone numbers, email addresses, driver's license numbers, and similar unique identifying information;
+b. Information regarding the government's confidential sources;
+c. Information that may jeopardize witness security;
+d. Contact information for, photographs of, and private conversations with individuals that do not appear to be related to the criminal conduct in this case;
+e. Medical or mental health records;
+f. Sources and methods law-enforcement officials have used, and will continue to use, to investigate other criminal conduct related to the publicly filed charges;
+g. Surveillance camera footage from the U.S. Capitol Police's extensive system of cameras on U.S. Capitol grounds;
+h. Repair estimates from the Architect of the Capitol;
+i. Materials designated as "security information" pursuant 2 U.S.C. § 1979 ; and
+j. Tax returns or tax information.
+Id. at 1-2 (cleaned up).
+Cudd opposes the proposed order.3 See Def.'s Opp'n to Gov't Req. for Protective Order ("Def.'s Opp'n"), ECF No. 35. The Government's motion is ripe for adjudication.
+
+II.
+Federal Rule of Criminal Procedure 16 "requires the Government to produce, upon the defendant's request, any documents and data that are material to preparing the defense." United States v. Dixon, 355 F. Supp. 3d 1 , 3 (D.D.C. 2019) (citing Fed. R. Crim. P. 16(a)(1)(A) -(G) ). The rule also provides that "[a]t any time the court may, for good cause, deny, restrict, or defer discovery or inspection, or grant other appropriate relief." Fed. R. Crim. P. 16(d) . Entering a protective order falls under this provision. See id.
+
+"In determining whether good cause exists, courts have considered whether (1) disclosure of the materials in question would pose a hazard to others; (2) the defendant would be prejudiced by a protective order; and (3) the public's interest in disclosure outweighs the possible harm." Dixon, 355 F. Supp. 3d at 4 ; see also United States v. Cordova, 806 F.3d 1085 , 1090 , 420 U.S. App. D.C. 138 (D.C. Cir. 2015) ("[A]mong the considerations to be taken into account by the court will be the safety of witnesses and others, a particular danger of perjury or witness intimidation, and the protection of information vital to national security." (cleaned up)). "[O]nce a showing of good cause has been made, the court has relatively unconstrained discretion to fashion an appropriate protective order." United States v. Johnson, 314 F. Supp. 3d 248 , 251 (D.D.C. 2018).
+
+Protective orders are used "not only to resolve individual discovery disputes, [*53] but also to expedite the flow of discovery in cases involving a large amount of sensitive information." Id. at 252 (cleaned up). They "are expressly designed to assure that a defendant's right to a fair trial [is] not overridden by the confidentiality and privacy interests of others." United States v. O'Keefe, No. 06-cr-0249-PLF, [2007 BL 11862], 2007 U.S. Dist. LEXIS 31053 , [2007 BL 11862], 2007 WL 1239204 , at *2 (D.D.C. Apr. 27, 2007). So a "trial court can and should, where appropriate, place a defendant and his counsel under enforceable orders against unwarranted disclosure of the materials which they may be entitled to inspect." Alderman [**3] v. United States, 394 U.S. 165 , 185 , 89 S. Ct. 961 , 22 L. Ed. 2d 176 (1969).
+
+The Government has the burden to show good cause here, as it is the party seeking the protective order. See Cordova, 806 F.3d at 1090 . This showing must be "particularized" and "specific." Dixon, 355 F. Supp. 3d at 4 (cleaned up). "The nature of the showing of particularity, however, depends upon the nature or type of protective order at issue." United States v. Bulger, 283 F.R.D. 46 , 52 (D. Mass. 2012). That is why some courts have found that broad "blanket" protective orders, which cover all materials produced by a party, "may be entered 'without a particularized showing to support the claim for protection.'" Johnson, 314 F. Supp. 3d at 252 (quoting Bulger, 283 F.R.D. at 52 ).
+
+III.
+A.
+The Court first considers the Government's assertion of good cause—in particular, whether "disclosure of the materials in question would pose a hazard to others." Dixon, 355 F. Supp. 3d at 4 . The Government crosses this threshold.
+
+The Government contends, and Cudd does not appear to dispute, that the amount of discovery here "is simply huge." Gov't Reply in Supp. of Mot. for Protective Order ("Gov't Reply") at 2, ECF No. 36; cf. United States v. Smith, 985 F. Supp. 2d 506 , 546 (S.D.N.Y. 2013) ("[T]he Government represents, and Defendants do not dispute, that it has provided and will provide a vast amount and array of discovery materials, including audio recordings, transcripts, computer files, business records, telephone records, and other materials."). Indeed, "[t]he investigation already involves thousands of hours of video, over a thousand electronic devices, thousands of reports, and the numbers continue to grow as more suspects are identified and arrested." Gov't Reply at 2. The materials in the hands of the Government—including video footage, electronic devices, tips, witness interviews, and law-enforcement reports, see Gov't Mot. at 3—are very likely to contain sensitive information. This could include personal identifying information, data relating to persons unrelated to the alleged criminal conduct, and medical and financial records. See Protective Order at 1-2 .
+
+A broad protective order is thus appropriate "[g]iven the large-scale nature of the discovery involved in this case and the attendant monumental burden on the Government involved in reviewing and making redaction decisions with respect to all these materials." Smith, 985 F. Supp. 2d at 546 (cleaned up). Requiring the Government to perform this review prior to disclosure would cause a substantial delay in discovery, which "is inconsistent with rules requiring efficient and expeditious discovery." Dixon, 355 F. Supp. 3d at 8 ; see also LCrR 5.1(a) (requiring the Government to "make good-faith efforts to disclose" information that could favor the accused "as soon as reasonably possible after its existence is known, so as to enable the defense to make effective use of the disclosed information [*54] in the preparation of its case" (emphasis added)).
+
+Courts maintain "considerable discretion" under Federal Rule of Criminal Procedure 16(d) "to regulate discovery, and protective orders are a useful tool for expediting the flow of pretrial discovery materials." Dixon, 355 F. Supp. 3d at 8 (cleaned up). The proposed order is necessary to facilitate speedy disclosure here. That—and not some attempt at "a public information blackout," Def.'s Opp'n at 1—drives the Government's [**4] proposed order. Cudd remains free to object to the designation of certain documents as sensitive or to seek modification of the proposed protective order at any time. See Protective Order at 5; cf. Smith, 985 F. Supp. 2d at 546 ("None of this means that Defendants will not be able to challenge the designation of certain documents, or otherwise request a modification of the Protective Order should circumstances change.").
+
+Cudd appears to raise two challenges to the Government's asserted need for a protective order.
+
+First, she contends that the Government's proffered basis for the protective order is too broad and not tied to the specific circumstances of her case. See, e.g., Def.'s Opp'n at 6-7, 9. Cudd asserts that, although there might be some confidential information in the Government's possession, it "is using this remote evidence as a basis to black out all evidence related to" her. Id. at 7; see also id. at 9-10. Not so. As the Government points out, "Cudd's objections mischaracterize the proposed order as rendering certain categories of evidence as subject to protection." Gov't Reply at 4. But the order includes only "an illustrative list of items that could be subject to a sensitivity designation" and "does not designate any particular category of items as Sensitive or Highly Sensitive." Id. (emphasis added).
+
+The proposed protective order is also limited in important ways. It states that the Government "agrees to make every effort to provide discovery in a manner that will allow for most discovery to be produced without such designations." Protective Order at 2 (emphasis added). The Government represents, for example, that it produced preliminary discovery to Cudd, "all without any sensitivity designation." Gov't Reply at 4 n.2. And the order provides that the Government "will agree to redaction" as an alternative when it "will resolve the basis for which a sensitivity designation was applied." Protective Order at 4. The Government has therefore not proposed an impermissibly broad or unspecific order, as Cudd argues.
+
+Second, Cudd suggests that the information covered under the protective order is mostly not sensitive because the January 6 events have been highly publicized. See Def.'s Opp'n at 7. How well the Capitol riot has been publicized is beside the point. That does not make the items that the protective order might cover—including "[p]ersonal identity information" or information about "individuals that do not appear to be related to the criminal conduct in this case," Protective Order at 1—any less worthy of protection.
+
+More, that some information about the events is publicly available does not mean that other, more specific information could not be subject to protection. For example, that video footage of the January 6 events is publicly available does not diminish the need for confidentiality of the footage from the U.S. Capitol Police's ("USCP") "sophisticated closed circuit video (CCV)" network of security cameras used to monitor the Capitol Grounds. Decl. of Thomas A. DiBiase ("DiBiase Decl.") ¶ 2, ECF No. 34-1 . Even if some information about the U.S. Capitol's layout [**5] is available online, USCP's footage provides far more detailed [*55] information, which could raise security concerns if copied and publicized. See id. ¶ 14 (explaining that "providing unfettered access to hours of extremely sensitive information . . . will result in the layout, vulnerabilities and security weaknesses of the U.S. Capitol being collected, exposed and passed on to those who might wish to attack the Capitol again").
+
+B.
+Cudd also argues that the proposed protective order prejudices her in several ways. The Court disagrees.
+
+First, Cudd broadly contends that the Government's proposed order "is an unhinged governmental attempt at interfering with the attorney-client relationship." Def.'s Opp'n at 3. But she does not specify how this is so.
+
+The proposed protective order does limit Cudd's ability to have unfettered access to some discovery. It restricts the dissemination, reproduction, and storage of sensitive materials—even between defense counsel and Cudd. See, e.g., Protective Order at 3 ("Defense counsel may not provide a copy of Highly Sensitive materials to Defendant or permit Defendant to view such materials unsupervised by defense counsel or an attorney, investigator, paralegal, or support staff person employed by defense counsel."); see also id. at 2-4 (listing other restrictions). But these limits on the use of sensitive information are appropriate here, given the privacy and security concerns at stake. Accord Dixon, 355 F. Supp. 3d at 7 (rejecting defendant's argument "that he has an unfettered right to [sensitive material] in perpetuity and for any purpose" and finding that "[t]here is nothing per se improper with limiting the material defense counsel can provide to his client").
+
+Notably, Cudd and her "legal defense team"—defined broadly to include "defense counsel . . . and any attorneys, investigators, paralegals, support staff, and expert witnesses who are advising or assisting defense counsel in connection with this case," Protective Order at 2—have access (although restricted access, in some instances) to all information that is subject to the order to use in formulating a defense, cf. Cordova, 806 F.3d at 1090-91 (explaining that a protective order did not prejudice defendants, in part, because "defense counsel had full and unfettered access to the Jencks materials at all relevant times, and the protective order did not otherwise limit their ability to discuss the materials with [the defendants] or to obtain their input" notwithstanding that defendants' "individual use and access were subject to conditions"). "And most important, [Cudd] may seek a modification of the order at any time," Dixon, 355 F. Supp. 3d at 6-7 , or object to the Government's designation of materials as sensitive, see Protective Order at 5.
+
+Second, Cudd suggests that the proposed protective order infringes on her Sixth Amendment rights. See Def.'s Opp'n at 2. She cites the importance of a public trial and public suppression hearings and argues that the Government "is not entitled to keep their investigative and public surveillance techniques secretive." Id. at 3-4; see also id. at 8.
+
+For starters, Cudd's references to the [**6] standard for closing public hearings are irrelevant here. See, e.g., id. at 8, 10. There is no suggestion by the Government that any hearings or any trial in her case will be closed to the public. The Court would be highly skeptical of such a request, in any event. More, the proposed protective order states that it "shall not limit either party in the use of the materials in judicial proceedings in this case." Protective Order at 3; Gov't Reply at 5. The order does state that the parties and ultimately, this [*56] Court, will determine the procedures for using sensitive information in hearings or at trial. See Protective Order at 3. But that does not mean that Cudd will be prevented from disclosing in open court materials produced in discovery, which is all that the proposed order covers.
+
+If Cudd's concern is rather about the limitations on her ability to try this case in the court of public opinion pretrial through dissemination of selected evidence, the Court is unmoved. The Court's priority is to ensure fair criminal trials to the Government, Cudd, and other defendants related to the January 6 incident, not cater to parties' interests in selective disclosures to the media. The Court is mindful that pretrial publicity of discovery in this case may injure other defendants, witnesses, and third parties whose personal information was collected in the Government's investigation.
+
+Third, Cudd claims she is prejudiced because the proposed protective order gives the Government "monopolized control over designation of materials as 'Sensitive' or 'Highly Sensitive.'" Def.'s Opp'n at 4. True, the proposed order states that the Government will initially identify sensitive materials. See Protective Order at 1-2 . But crucially, the order also provides that Cudd can object to such designations or seek modification of the order at any time from the Court. See id. at 5. It is thus the Court, not the Government, that retains final say over whether materials require a sensitivity designation. And the order makes clear that "the burden of demonstrating the need for a protective order remains with the [G]overnment at all times." Id. (emphasis added).
+
+Relatedly, Cudd asserts that the proposed order is "plainly insulting" and gives the Government "an unfair positional advantage." Def.'s Opp'n at 6. As an example, she states that she cannot use USCP footage in her pleadings "unless the [G]overnment has already used such footage in [its] pleadings." Id. at 5.
+
+Cudd again misunderstands the proposed protective order. It contains no requirement that she can only use what the Government has used. The order does require both the Government and the defense to file Sensitive or Highly Sensitive materials under seal; but it also provides that this is only the default procedure "[a]bsent prior agreement by the parties or permission from the Court." Protective Order at 3. Cudd thus remains free to agree with the Government on how to file documents containing sensitive information or to request permission from the Court to file such documents on the public docket. See id. She can, of course, [**7] contest the sensitivity designation too or seek modification of the order. See id. at 5. The Government's reply also clarifies that it "has no objection to the defense using still shots from footage in pleadings, just as the [G]overnment has done."4 Gov't Reply at 5.
+
+Fourth, Cudd also argues that the Government is attempting "to shift the burden of [its] responsibility of redacting sensitive information belonging to [its] witnesses onto defense counsel" even though the Government could "find a civil servant, to whom [it] already pay[s] a hefty salary, to redact information." Def.'s Opp'n at 7-8.
+
+Cudd misses the point. The purpose of the proposed protective order is to set up [*57] an initial system to provide for the speedy disclosure of discoverable material. "[T]he Government intends to make voluminous materials available in all pending cases arising out of the" January 6 events, including Cudd's. Gov't Reply at 3. "[I]n a case which involves substantial amounts of discovery," such as this one, "it is consistent with the proper allocation of evidentiary burdens for the Court to construct a broad . . . protective order upon a threshold showing by the Government of good cause." Smith, 985 F. Supp. 2d at 546 (cleaned up) (collecting cases).
+
+It is the Government that would be unnecessarily burdened if the proposed protective order were not entered. As already explained, the Government would face a "monumental burden" in reviewing the vast amount of discovery it possesses before disclosing it to January 6 defendants. Id. (cleaned up). Applying its "considerable discretion to regulate discovery," the Court finds the proposed protective order necessary to facilitate "efficient and expeditious discovery" here. Dixon, 355 F. Supp. 3d at 8 (cleaned up). This order also advances the public's interest in a speedy trial. Cf. 18 U.S.C. § 3161(h)(7)(A) . The Court reiterates that Cudd retains the ability to request modification of the proposed order or contest the sensitivity designation of specific materials at any time. See Protective Order at 5.
+
+C.
+Finally, the Court determines that any public interest in the materials covered under the protective order will not be harmed. Cf. Dixon, 355 F. Supp. 3d at 9 . Issuing a protective order is necessary to facilitate speedy disclosure to the defense while safeguarding sensitive information. The order here is limited in important ways—most notably, by allowing Cudd to seek its modification at any time. See Protective Order at 5.
+
+Cudd makes several sweeping arguments about the public's interest in public trials and judicial proceedings. See, e.g., Def.'s Opp'n at 1-2 . But recall that the proposed order provides that it "shall not limit either party in the use of the materials in judicial proceedings." Protective Order at 3. And the order excludes materials that "[a]re, or later become, part of the public court record, including materials that have been received in evidence in this or other public trials or hearings." Id. at 5; cf. Dixon, 355 F. Supp. 3d at 9 (finding that the public interest was not harmed in part because "[t]he proposed order also excludes any materials that are received as evidence in trial, or that are otherwise made part of the public record").[**8]
+
+At bottom, the proposed order is an appropriate vehicle to allow for speedy discovery while protecting the security and privacy interests of all interested parties. It merely ensures that this information will not be publicized without due consideration of the relevant privacy interests beforehand. The proposed order here has been issued in many other January 6 cases in this District—often by consent. See, e.g., Order, United States v. Pert, No. 21-cr-00139-TNM (D.D.C. Apr. 8, 2021), ECF No. 22; Order, United States v. Fellows, No. 21-cr-00083-TNM (D.D.C. Mar. 29, 2021), ECF No. 18. This case is no exception. The Court finds that the Government's proposed order should likewise govern here.
+
+IV.
+For all of these reasons, the Court will grant the Government's Motion for a Protective Order. A separate order accompanies this memorandum.
+
+Dated: April 21, 2021
+
+/s/ Trevor N. Mcfadden
+
+TREVOR N. McFADDEN, U.S.D.J.
+
+PROTECTIVE ORDER GOVERNING DISCOVERY
+To expedite the flow of discovery material between the parties and adequately protect the United States' legitimate interests, it is, pursuant to the Court's authority under Fed. R. Crim. P. 16(d)(1) and with the consent of the parties, ORDERED:
+
+1. Materials Subject to this Order. This Order governs materials provided by the United States at any stage of discovery during this case and which the United States has identified as either "Sensitive" or "Highly Sensitive." Examples of materials that the United States may designate as "Sensitive" or "Highly Sensitive" pursuant to this Order include but are not limited to:
+
+a. Personal identity information as identified in Rule 49.1 of the Federal Rules of Criminal Procedure , as well as telephone numbers, email addresses, driver's license numbers, and similar unique identifying information;
+b. Information regarding the government's confidential sources;
+c. Information that may jeopardize witness security;
+d. Contact information for, photographs of, and private conversations with individuals that do not appear to be related to the criminal conduct in this case;
+e. Medical or mental health records;
+f. Sources and methods law-enforcement officials have used, and will continue to use, to investigate other criminal conduct related to the publicly filed charges;
+g. Surveillance camera footage from the U.S. Capitol Police's extensive system of cameras on U.S. Capitol grounds;1
+h. Repair estimates from the Architect of the Capitol;
+i. Materials designated as "security information" pursuant 2 U.S.C. § 1979 ; and
+j. Tax returns or tax information.
+This Order will not be used to designate materials as Sensitive or Highly Sensitive unless such designation is necessary for one of the reasons stated in this paragraph or for a similar reason not anticipated by this Order. The government agrees to make every effort to provide discovery in a manner that will allow for most discovery to be produced without such designations.
+2. Defendant. Any reference to "Defendant" herein refers individually to each defendant identified in the caption above.
+
+3. Legal Defense Team. The "legal defense team" includes defense counsel (defined as counsel of record in this case, including any post-conviction [**9] or appellate counsel) and any attorneys, investigators, paralegals, support staff, and expert witnesses who are advising or assisting defense counsel in connection with this case.
+
+4. Rules for the Handling of Sensitive and Highly Sensitive Materials.
+
+a. Limitations on Use. Defendant and the legal defense team may use Sensitive and Highly Sensitive discovery materials solely in connection with the defense of this case and any other case connected to the events at the United States Capitol on January 6, 2021, including any post-conviction or appellate litigation, and for no other purpose, and in connection with no other proceeding, without further order of this Court.
+b. Limitations on Dissemination. No Sensitive or Highly Sensitive materials, or the information contained therein, may be disclosed to any persons other than Defendant, the legal defense team, or the person to whom the Sensitive or Highly Sensitive information solely and directly pertains or his/her counsel, without agreement of the United States or prior authorization from the Court.
+c. Limitations on Reproduction. Defendant, the legal defense team, and authorized persons shall not copy or reproduce the Sensitive or Highly Sensitive materials except in order to provide copies of the materials for use in connection with this case by Defendant, the legal defense team, the person to whom the Sensitive or Highly Sensitive information solely and directly pertains or his/her counsel, and other persons to whom the Court may authorize disclosure (collectively, "authorized persons").
+If defense counsel provides Defendant access to Sensitive or Highly Sensitive materials, defense counsel must advise Defendant that Defendant may not record any personal identity information as identified in Rule 49.1 of the Federal Rules of Criminal Procedure or any telephone numbers, email addresses, driver's license numbers, and similar unique identifying information. By signing the attached affirmation, Defendant agrees not to do so.
+Copies and reproductions, and any notes or records made in relation to the contents of the Sensitive and Highly Sensitive materials, are to be treated in the same manner as the original materials,
+d. Court Filings. Absent prior agreement by the parties or permission from the Court, no party shall disclose materials designated as Sensitive or Highly Sensitive in any public filing with the Court. Such materials shall be submitted under seal in accordance with Local Criminal Rule 49(f)(6) . The Clerk of Court shall accept for filing under seal any filings made in compliance with that Rule and so marked by the parties pursuant to this Order.
+e. Court Hearings. The restrictions in this Order shall not limit either party in the use of the materials injudicial proceedings in this case. The procedures for use of designated Sensitive and Highly Sensitive materials during any hearing or the trial of this matter shall be determined by the parties and the Court in advance of the hearing or trial. No party shall disclose materials designated Sensitive or Highly Sensitive in open [**10] court without agreement by the parties that such materials may be disclosed in open court or prior authorization by the Court.
+5. Additional Rules for Handling of Sensitive Materials. The following additional terms apply to Sensitive materials:
+
+a. Storage. Sensitive materials must be maintained in the custody and control of Defendant, the legal defense team, and authorized persons. This restriction shall not apply to the person to whom the Sensitive information solely and directly pertains or his/her attorney.
+6. Additional Rules for Handling of Highly Sensitive Materials. The following additional rules apply to Highly Sensitive materials:
+
+a. Additional Limitations on Dissemination. Defense counsel may not provide a copy of Highly Sensitive materials to Defendant or permit Defendant to view such materials unsupervised by defense counsel or an attorney, investigator, paralegal, or support staff person employed by defense counsel. The parties agree that defense counsel or an attorney, investigator, paralegal, or support staff person employed by defense counsel, may supervise Defendant by allowing access to Highly Sensitive materials through a cloud-based delivery system that permits Defendant to view the materials but does not permit Defendant the ability to download; provided that, prior to doing so, defense counsel first provides notice to the United States and allow the United States to file an objection with the Court if no agreement is reached.
+b. Additional Limitations on Reproduction. Counsel agrees that prior to showing materials to Defendant designated as Highly Sensitive, counsel or an attorney, investigator, paralegal, or support staff person employed by defense counsel will read Defendant the relevant parts of this Order, and remind Defendant of the consequences of violating the Order. If Defendant takes notes regarding Highly Sensitive materials, counsel or an attorney, investigator, paralegal, or support staff person employed by defense counsel must take reasonable steps to determine whether Defendant has copied any personal identity information as identified in Rule 49.1 of the Federal Rules of Criminal Procedure or any telephone numbers, email addresses, driver's license numbers, and similar unique identifying information.
+c. Storage. Highly Sensitive materials must be maintained in the custody and control of the legal defense team and authorized persons. This restriction shall not apply to the person to whom the Highly Sensitive information solely and directly pertains or his/her attorney.
+7. Viewing by Incarcerated Defendants. If Defendant is in the custody of the United States Marshals Service, defense counsel is authorized to provide a copy of discovery materials to the appropriate point of contact so that the defendant can view the discovery materials, subject to the terms of this Order.
+
+8. Disputes. The parties shall make a good faith effort to resolve any dispute about a sensitivity designation before requesting the Court's intervention. The United States may agree to remove or reduce [**11] a sensitivity designation without further order of this Court. Whenever the redaction of specified information will resolve the basis for which a sensitivity designation was applied, the United States will agree to redaction, and such redaction will render the materials no longer subject to this Order. Any agreement to reduce or remove a sensitivity designation or to redact specific information shall be memorialized in writing.
+
+9. Modification Permitted. Nothing in this Order shall prevent any party from seeking modification of this Order nor prevent the defense from contesting a sensitivity designation. The parties agree that the burden of demonstrating the need for a protective order remains with the government at all times.
+
+10. Failure not Waiver. The failure by the United States to designate any materials as Sensitive or Highly Sensitive upon disclosure shall not constitute a waiver of the United States' ability to later designate the materials as Sensitive or Highly Sensitive but the government must separately identify and memorialize the changed status of those materials in writing.
+
+11. Automatic Exclusions from this Order. This Order does not apply to materials that:
+
+a. Are, or later become, part of the public court record, including materials that have been received in evidence in this or other public trials or hearings;
+b. Were derived directly from Defendant or that pertain solely to Defendant. Examples of such materials include Defendant's own financial records, telephone records, digital device downloads, social media records, electronic communications, arrest records, and statements to law enforcement;2 and
+c. Materials that the defense obtains by means other than discovery.
+12. Government's Discovery Obligations. Nothing in this Order modifies the United States' obligations at any stage of discovery in this case pursuant to Federal Rules of Criminal Procedure 16 and 26.2 , Local Criminal Rule 5.1 , 18 U.S.C. § 3500 (the Jencks Act), and the government's general obligation to produce exculpatory and impeachment information in criminal cases,
+
+13. Defense Counsel's Obligations. Defense counsel must provide a copy of this
+
+Order to, and review the terms of this Order with, members of the legal defense team, Defendant, and any other person, before providing them access to Sensitive or Highly Sensitive materials. Defense counsel must obtain a fully executed copy of Attachment A before providing Defendant access to Sensitive or Highly Sensitive materials, and must file a copy with the Court within one week of execution.
+
+14. No Ruling on Discoverability or Admissibility. This Order does not constitute a ruling on the question of whether any particular material is properly discoverable or admissible and does not constitute any ruling on any potential objection to the discoverability or admissibility of any material.
+
+15. Duration. The terms of this Order shall remain in effect after the conclusion of this case and the parties shall be bound by it unless otherwise ordered by the Court.
+
+SO ORDERED this 21 day of April, 2021.
+
+/s/ Trevor N. Mcfadden[**12]
+
+HONORABLE TREVOR N. MCFADDEN
+
+United States District Judge
+
+fn	
+1
+
+All page citations refer to the page numbers that the CM/ECF system generates.
+
+fn	
+2
+
+The Court considers the revised proposed protective order, which the Government submitted along with its reply, to be operative. The changes made appear to be only minor, and the Government seems to have made them to accommodate Cudd. See Gov't Reply in Supp. of Mot. for Protective Order ("Gov't Reply") at 2, ECF No. 36.
+
+fn	
+3
+
+Cudd's co-defendant, Eliel Rosa, consents to the proposed order. See Gov't Mot. at 6.
+
+fn	
+4
+
+Cudd also mentions the Government's "unprecedented endeavor to hide" body-worn camera ("BWC") footage. Def.'s Opp'n at 5. But as she seems to admit, see id. at 4-5, the proposed protective order explicitly states that a "vast amount of" BWC footage "will not" come under the order unless it contains information that the order otherwise describes as sensitive, Protective Order at 1 n.1.
+
+fn	
+1
+
+To be clear, this does not include footage from body worn cameras from other police departments that responded on January 6, 2021, the vast amount of which the United States will not designate as Sensitive or Highly Sensitive. (Body worn camera footage will be marked Sensitive or Highly Sensitive only if it contains material described in para graph one above or for a similar reason not anticipated by this Order.)
+
+fn	
+2
+
+Discoverable materials that were derived directly from Defendant or that pertain solely to Defendant are exempt from this Order regardless of whether the United States has designated any such materials as "Sensitive" or "Highly Sensitive" because the same materials are being provided or made available to co-defendants or other persons charged in connection with the events at the United States Capitol on January 6, 2021.

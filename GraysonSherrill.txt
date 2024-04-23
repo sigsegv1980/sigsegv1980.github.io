@@ -1,0 +1,60 @@
+U.S. District Court
+District of Columbia (Washington, DC)
+CRIMINAL DOCKET FOR CASE #: 1:21-cr-00282-TSC All Defendants
+
+1 	GRAYSON SHERRILL 	Pending 	18:1752(a)(1); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds. (1)
+1 	GRAYSON SHERRILL 	Pending 	18:231(a)(3); CIVIL DISORDER; Civil Disorder. (1s)
+1 	GRAYSON SHERRILL 	Pending 	18:1752(a)(2); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds. (2)
+1 	GRAYSON SHERRILL 	Pending 	18:111(a)(1) and (b); ASSAULTING/RESISTING/IMPEDING OFFICERS/EMPLOYEES; Assaulting, Resisting, or Impeding Certain Officers Using a Deadly or Dangerous Weapon. (2s)
+1 	GRAYSON SHERRILL 	Pending 	40:5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Building. (3)
+1 	GRAYSON SHERRILL 	Pending 	18:1752(a)(1) and (b)(1)(A); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds with a Deadly or Dangerous Weapon. (3s)
+1 	GRAYSON SHERRILL 	Pending 	40:5104(e)(2)(G); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Parading, Demonstrating, or Picketing in a Capitol Building. (4)
+1 	GRAYSON SHERRILL 	Pending 	18:1752(a)(2) and (b)(1)(A); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds with a Deadly or Dangerous Weapon. (4s)
+1 	GRAYSON SHERRILL 	Pending 	18:1752(a)(4) and (b)(1)(A); TEMPORARY RESIDENCE OF THE PRESIDENT; Engaging in Physical Violence in a Restricted Building or Grounds with a Deadly or Dangerous Weapon. (5s)
+1 	GRAYSON SHERRILL 	Pending 	40:5104(e)(2)(F); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Act of Physical Violence in the Capitol Grounds or Buildings. (6s)
+1 	GRAYSON SHERRILL 	Pending 	40:5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Building. (9s)
+1 	GRAYSON SHERRILL 	Pending 	40:5104(e)(2)(G); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Parading, Demonstrating, or Picketing in a Capitol Building. (10s)
+1 	GRAYSON SHERRILL 	Complaint 	COMPLAINT in Violation of 18:1752(a)(1), 18:1752(a)(2) and 40:5104(e)(2)
+2 	ELLIOT BISHAI 	Pending 	18:1752(a)(1); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds. (7s)
+Disposition
+Description
+Defendant sentenced to FOURTEEN (14) days of incarceration; TWELVE (12) months of Supervised Release and a Special Assessment of $25.00.
+2 	ELLIOT BISHAI 	Terminated 	18:1752(a)(1); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds. (1)
+Disposition
+Description
+Oral motion by government to dismiss; heard and GRANTED.
+2 	ELLIOT BISHAI 	Terminated 	18:1752(a)(2); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds. (2)
+Disposition
+Description
+Oral motion by government to dismiss; heard and GRANTED.
+2 	ELLIOT BISHAI 	Terminated 	40:5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Building. (3)
+Disposition
+Description
+Oral motion by government to dismiss; heard and GRANTED.
+2 	ELLIOT BISHAI 	Terminated 	40:5104(e)(2)(G); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Parading, Demonstrating, or Picketing in a Capitol Building. (4)
+Disposition
+Description
+Oral motion by government to dismiss; heard and GRANTED.
+2 	ELLIOT BISHAI 	Terminated 	18:1752(a)(2); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds. (8s)
+Disposition
+Description
+Oral motion by government to dismiss; heard and GRANTED.
+2 	ELLIOT BISHAI 	Terminated 	40:5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Building. (9s)
+Disposition
+Description
+Oral motion by government to dismiss; heard and GRANTED.
+2 	ELLIOT BISHAI 	Terminated 	40:5104(e)(2)(G); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Parading, Demonstrating, or Picketing in a Capitol Building. (10s)
+Disposition
+Description
+Oral motion by government to dismiss; heard and GRANTED.
+2 	ELLIOT BISHAI 	Complaint 	COMPLAINT in Violation of 18:1752(a)(1), 18:1752(a)(2) and 40:5104(e)(2)
+3 	ELIAS IRIZARRY 	Pending 	18:1752(a)(1); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds. (1)
+3 	ELIAS IRIZARRY 	Pending 	18:1752(a)(2); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds. (2)
+3 	ELIAS IRIZARRY 	Pending 	40:5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Building. (3)
+3 	ELIAS IRIZARRY 	Pending 	40:5104(e)(2)(G); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Parading, Demonstrating, or Picketing in a Capitol Building. (4)
+3 	ELIAS IRIZARRY 	Pending 	18:1752(a)(1); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds. (7s)
+3 	ELIAS IRIZARRY 	Pending 	18:1752(a)(2); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds. (8s)
+3 	ELIAS IRIZARRY 	Pending 	40:5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Building. (9s)
+3 	ELIAS IRIZARRY 	Pending 	40:5104(e)(2)(G); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Parading, Demonstrating, or Picketing in a Capitol Building. (10s)
+3 	ELIAS IRIZARRY 	Complaint 	COMPLAINT in Violation of 18:1752(a)(1), 18:1752(a)(2) and 40:5104(e)(2)
+

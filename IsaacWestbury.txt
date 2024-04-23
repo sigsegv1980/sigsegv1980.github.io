@@ -1,0 +1,25 @@
+U.S. District Court
+District of Columbia (Washington, DC)
+CRIMINAL DOCKET FOR CASE #: 1:21-cr-00605-RC All Defendants
+
+
+1 	ISAAC WESTBURY 	Pending 	18:231(a)(3); CIVIL DISORDER; Civil Disorder. (1)
+1 	ISAAC WESTBURY 	Pending 	18:111(a)(1) and (b); ASSAULTING/RESISTING/IMPEDING OFFICERS/EMPLOYEES; Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon. (2)
+1 	ISAAC WESTBURY 	Pending 	18:1752(a)(1) and (b)(1)(A); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds with a Deadly or Dangerous Weapon. (3)
+1 	ISAAC WESTBURY 	Pending 	18:1752(a)(2) and (b)(1)(A); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds with a Deadly or Dangerous Weapon. (5)
+1 	ISAAC WESTBURY 	Pending 	18:1752(a)(4) and (b)(1)(A); TEMPORARY RESIDENCE OF THE PRESIDENT; Engaging in Physical Violence in a Restricted Building or Grounds. (7)
+1 	ISAAC WESTBURY 	Pending 	40:5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Building. (8)
+1 	ISAAC WESTBURY 	Pending 	40:5104(e)(2)(F); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Act of Physical Violence in the Capitol Grounds or Buildings. (9)
+1 	ISAAC WESTBURY 	Pending 	40:5104(e)(2)(G); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Parading, Demonstrating, or Picketing in a Capitol Building. (10)
+2 	AARON JAMES 	Pending 	18:231(a)(3); CIVIL DISORDER; Civil Disorder. (1)
+2 	AARON JAMES 	Pending 	18:111(a)(1) and (b); ASSAULTING/RESISTING/IMPEDING OFFICERS/EMPLOYEES; Assaulting, Resisting, or Impeding Certain Officers Using a Dangerous Weapon. (2)
+2 	AARON JAMES 	Pending 	18:1752(a)(1) and (b)(1)(A); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds with a Deadly or Dangerous Weapon. (3)
+2 	AARON JAMES 	Pending 	18:1752(a)(2) and (b)(1)(A); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds with a Deadly or Dangerous Weapon. (5)
+2 	AARON JAMES 	Pending 	18:1752(a)(4) and (b)(1)(A); TEMPORARY RESIDENCE OF THE PRESIDENT; Engaging in Physical Violence in a Restricted Building or Grounds. (7)
+2 	AARON JAMES 	Pending 	40:5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Building. (8)
+2 	AARON JAMES 	Pending 	40:5104(e)(2)(F); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Act of Physical Violence in the Capitol Grounds or Buildings. (9)
+2 	AARON JAMES 	Pending 	40:5104(e)(2)(G); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Parading, Demonstrating, or Picketing in a Capitol Building. (10)
+3 	ROBERT WESTBURY 	Pending 	18:1752(a)(1); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds. (4)
+3 	ROBERT WESTBURY 	Pending 	18:1752(a)(2); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds. (6)
+3 	ROBERT WESTBURY 	Pending 	40:5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Building. (8)
+3 	ROBERT WESTBURY 	Pending 	40:5104(e)(2)(G); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Parading, Demonstrating, or Picketing in a Capitol Building. (10)

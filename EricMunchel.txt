@@ -1,0 +1,11 @@
+District of Columbia (Washington, DC)
+CRIMINAL DOCKET FOR CASE #: 1:21-cr-00118-RCL All Defendants
+
+1 	ERIC GAVELEK MUNCHEL 	Pending 	18 U.S.C. 1512(c)(2), (k); TAMPERING WITH A WITNESS, VICTIM OR INFORMANT; Obstruction of an Official Proceeding (1)
+1 	ERIC GAVELEK MUNCHEL 	Pending 	18 U.S.C. 1752(a)(1)-(2), (b), 2; TEMPORARY RESIDENCE OF THE PRESIDENT; Restricted Building or Grounds (2)
+1 	ERIC GAVELEK MUNCHEL 	Pending 	40 U.S.C. 5104(e)(1), (2), 2; FEDERAL STATUTES, OTHER; Violent Entry or Disorderly Conduct (3)
+1 	ERIC GAVELEK MUNCHEL 	Complaint 	COMPLAINT in Violation of 18:371, 18:231(a)(3), 18:1752(a), and 40:5104(e)(2)
+2 	LISA MARIE EISENHART 	Pending 	18 U.S.C. 1512(c)(2), (k); TAMPERING WITH A WITNESS, VICTIM OR INFORMANT; Obstruction of an Official Proceeding (1)
+2 	LISA MARIE EISENHART 	Pending 	18 U.S.C. 1752(a)(1)-(2), (b), 2; TEMPORARY RESIDENCE OF THE PRESIDENT; Restricted Building or Grounds (2)
+2 	LISA MARIE EISENHART 	Pending 	40 U.S.C. 5104(e)(1), (2), 2; FEDERAL STATUTES, OTHER; Violent Entry or Disorderly Conduct (3)
+2 	LISA MARIE EISENHART 	Complaint 	COMPLAINT in Violation of 18:371, 18:231(a)(3), 18:1752(a), and 40:5104(e)(2)

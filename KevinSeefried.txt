@@ -1,0 +1,20 @@
+U.S. District Court
+District of Columbia (Washington, DC)
+CRIMINAL DOCKET FOR CASE #: 1:21-cr-00287-TNM All Defendants
+
+1 	KEVIN SEEFRIED 	Pending 	18 U.S.C. 1512(c)(2) and 2; TAMPERING WITH A WITNESS, VICTIM OR INFORMANT; Obstruction of an Official Proceeding and Aiding and Abetting (1)
+1 	KEVIN SEEFRIED 	Pending 	18 U.S.C. 1752(a)(1); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds (2)
+1 	KEVIN SEEFRIED 	Pending 	18 U.S.C. 1752(a)(2); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds (3)
+1 	KEVIN SEEFRIED 	Pending 	40 U.S.C. 5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Building (4)
+1 	KEVIN SEEFRIED 	Pending 	40 U.S.C. 5104(e)(2)(G); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Parading, Demonstrating, or Picketing in a Capitol Building (5)
+1 	KEVIN SEEFRIED 	Complaint 	COMPLAINT in VIOLATION of 18 U.S.C. 1752 (a); 40 U.S.C. 5104(e)
+2 	HUNTER SEEFRIED 	Pending 	18 U.S.C. 1512(c)(2) and 2; TAMPERING WITH A WITNESS, VICTIM OR INFORMANT; Obstruction of an Official Proceeding and Aiding and Abetting (1)
+2 	HUNTER SEEFRIED 	Pending 	18 U.S.C. 1752(a)(1); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds (2)
+2 	HUNTER SEEFRIED 	Pending 	18 U.S.C. 1752(a)(2); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds (3)
+2 	HUNTER SEEFRIED 	Pending 	40 U.S.C. 5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Building (4)
+2 	HUNTER SEEFRIED 	Pending 	40 U.S.C. 5104(e)(2)(G); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Parading, Demonstrating, or Picketing in a Capitol Building (5)
+2 	HUNTER SEEFRIED 	Pending 	18 U.S.C. 1752(a)(4); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds with Physical Violence Against Property (6)
+2 	HUNTER SEEFRIED 	Pending 	18 U.S.C. 1361; GOVERNMENT PROPERTY OR CONTRACTS >; Destruction of Government Property (7)
+2 	HUNTER SEEFRIED 	Pending 	40 U.S.C. 5104(e)(2)(F); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Act of Physical Violence in a Capitol Grounds or Buildings (8)
+2 	HUNTER SEEFRIED 	Complaint 	COMPLAINT in VIOLATION of 18 U.S.C. 1361; 18 U.S.C. 1752 (a); 40 U.S.C. 5104(e)
+

@@ -1,0 +1,23 @@
+U.S. District Court
+District of Columbia (Washington, DC)
+CRIMINAL DOCKET FOR CASE #: 1:21-cr-00367-RDM All Defendants
+
+1 	JALISE MIDDLETON 	Pending 	18 U.S.C. 111(a)(1); ASSAULTING/RESISTING/IMPEDING OFFICERS/EMPLOYEES; Assaulting, Resisting, or Impeding Certain Officers (1-2)
+1 	JALISE MIDDLETON 	Pending 	18 U.S.C. 231(a)(3); CIVIL DISORDER; Civil Disorder (3)
+1 	JALISE MIDDLETON 	Pending 	18 U.S.C. 1512(c)(2) and 2; TAMPERING WITH A WITNESS, VICTIM OR INFORMANT; Obstruction of an Official Proceeding and Aiding and Abetting (4)
+1 	JALISE MIDDLETON 	Pending 	18 U.S.C. 1752(a)(1); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds (5)
+1 	JALISE MIDDLETON 	Pending 	18 U.S.C. 1752(a)(2); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds (6)
+1 	JALISE MIDDLETON 	Pending 	18 U.S.C. 1752(a)(4); TEMPORARY RESIDENCE OF THE PRESIDENT; Engaging in Physical Violence in a Restricted Building or Grounds (7)
+1 	JALISE MIDDLETON 	Pending 	40 U.S.C. 5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Grounds or Buildings (8)
+1 	JALISE MIDDLETON 	Pending 	40 U.S.C. 5104(e)(2)(F); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Act of Physical Violence in a Capitol Grounds or Buildings (9)
+1 	JALISE MIDDLETON 	Complaint 	COMPLAINT in Violation of 18:111(a)(1), 18:231(a)(3), 18:1512(c)(2) and 2, 18:1752(a)(1), 18:1752(a)(2) and 18:1752(a)(4)
+2 	MARK MIDDLETON 	Pending 	18 U.S.C. 111(a)(1); ASSAULTING/RESISTING/IMPEDING OFFICERS/EMPLOYEES; Assaulting, Resisting, or Impeding Certain Officers (1-2)
+2 	MARK MIDDLETON 	Pending 	18 U.S.C. 231(a)(3); CIVIL DISORDER; Civil Disorder (3)
+2 	MARK MIDDLETON 	Pending 	18 U.S.C. 1512(c)(2) and 2; TAMPERING WITH A WITNESS, VICTIM OR INFORMANT; Obstruction of an Official Proceeding and Aiding and Abetting (4)
+2 	MARK MIDDLETON 	Pending 	18 U.S.C. 1752(a)(1); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds (5)
+2 	MARK MIDDLETON 	Pending 	18 U.S.C. 1752(a)(2); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds (6)
+2 	MARK MIDDLETON 	Pending 	18 U.S.C. 1752(a)(4); TEMPORARY RESIDENCE OF THE PRESIDENT; Engaging in Physical Violence in a Restricted Building or Grounds (7)
+2 	MARK MIDDLETON 	Pending 	40 U.S.C. 5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Grounds or Buildings (8)
+2 	MARK MIDDLETON 	Pending 	40 U.S.C. 5104(e)(2)(F); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Act of Physical Violence in a Capitol Grounds or Buildings (9)
+2 	MARK MIDDLETON 	Complaint 	COMPLAINT in Violation of 18:111(a)(1), 18:231(a)(3), 18:1512(c)(2) and 2, 18:1752(a)(1), 18:1752(a)(2) and 18:1752(a)(4)
+

@@ -1,0 +1,1140 @@
+Pagination
+*	F. Supp. 3d
+**	BL
+
+
+Majority Opinion > Appendix >
+
+
+UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF NEW YORK
+
+UNITED STATES OF AMERICA, - against - BRENDAN HUNT, Defendant.
+
+21-CR-86 (PKC)
+
+April 15, 2021, Filed
+
+April 15, 2021, Decided
+
+
+
+For Brendan Hunt also known as, X-Ray Ultra, Defendant: Leticia Maria Olivera, LEAD ATTORNEY, Jan Alison Rostal, Federal Defenders of New York, Inc., Brooklyn, NY.
+
+For USA, Plaintiff: David K. Kessler, LEAD ATTORNEY, United States Attorney's Office, Brooklyn, NY; Francisco J Navarro, LEAD ATTORNEY, United States Attorney's Office, Brooklyn, NY; Ian C. Richardson, LEAD ATTORNEY, U.S. Attorney's Office, Eastern District of New York, Brooklyn, NY.
+
+
+
+Pamela K. Chen, United States District Judge.
+
+Pamela K. Chen
+
+[*239] MEMORANDUM & ORDER
+PAMELA K. CHEN, United States District Judge:
+
+On February 16, 2021, Defendant Brendan Hunt was indicted on one count of threatening to assault and murder members of the United States Congress in violation of 18 U.S.C. § 115(a)(1)(B) . (Indictment, Dkt. 6.) The Complaint, dated January 18, 2021, alleges that Defendant made four statements on social media websites between December 6, 2020, and January 12, 2021, that "threatened, or incited[*240] others, to murder members of Congress who were engaged in the performance of their official duties and in retaliation for such officials' performance of their official duties."1 (Complaint and Affidavit in Support of Application for Arrest Warrant ("Compl."), Dkt. 1, ¶ 3.) Before the Court are the parties' motions in limine, filed on April 7, 2021, in anticipation of trial, which is scheduled to begin on April 19, 2021. (Defendant's Motions in Limine ("Def.'s MIL"), Dkt. 46; Government's Motions in Limine ("Gov.'s MIL"), Dkt. 47.)
+
+In his motion, Defendant seeks: (1) an in camera inspection of the grand jury minutes to ensure that the grand jury did not indict Defendant on a theory of incitement; (2) a determination that three of the four statements underlying the charge amount to incitement and cannot, as a matter of law, constitute a "true threat"; (3) to preclude the Government from introducing expert testimony on white supremacist beliefs and anti-Semitic propaganda; (4) to preclude the Government from introducing, pursuant to Federal Rule of Evidence ("Rule") 404(b) , (i) Defendant's statements relating to the 2020 presidential election and the January 6, 2021 riot at the U.S. Capitol, (ii) Defendant's knowledge of white supremacist and anti-Semitic propaganda, symbols, and beliefs, and (iii) evidence of Defendant's "violent tendencies and incarceration"; (5) to preclude the Government, as a sanction for alleged spoliation, from introducing the video entitled "Kill Your Senators" that Defendant made and posted to the platform BitChute, which is one of the four charged threats; and (6) justification by the Government of the redactions contained in the discovery and materials provided pursuant to 18 U.S.C. § 3500 . (Def.'s MIL, Dkt. 46, at 6-17.)
+
+In its motion, the Government seeks: (1) an instruction to the jury in advance of opening statements about what constitutes a "true threat" and the distinction between "true threats" and political speech; (2) to introduce evidence of (i) Defendant's statements about the 2020 presidential election and the U.S. [**2] Congress, (ii) Defendant's knowledge of white supremacist and anti-Semitic propaganda, symbols, and beliefs, and (iii) evidence of Defendant's incarceration, if Defendant argues that responses to the alleged threats by law enforcement, victims, or other individuals were deficient or delayed; (3) to introduce evidence regarding the 2020 presidential election and January 6, 2021 attack on the U.S. Capitol as background information; (4) to introduce evidence to explain how "collective threats," i.e., threats against members of Congress collectively, may constitute "true threats" that impede, intimidate, and interfere with the official duties of members of Congress; (5) to introduce evidence regarding Defendant's social media accounts pursuant to business-records certifications and foreign-records certifications; (6) to preclude cross-examination of law enforcement witnesses about specific methods or procedures they use to carry out their protective functions; (7) to preclude Defendant from arguing (i) that he did not intend to carry out his alleged threats, or (ii) that he is a peaceful person or lacks violent tendencies; and (8) to preclude any evidence of threats or inflammatory statements made by uncharged individuals. (Gov.'s MIL, Dkt. 47, at 7-38.)
+
+The Court held oral argument on the motions on April 12 and 13, 2021. (4/12/2021 Minute Entry; 4/13/2021 Minute[*241] Entry.) At oral argument, the Court directed the parties to submit marked exhibits of all statements going to Defendant's state of mind and/or intent that they respectively intended to introduce at trial. (4/12/2021 Minute Entry; 4/13/2021 Minute Entry.) The parties submitted these exhibits on April 14, 2021.2 (See Dkts. 63, 64.) The Court assumes the parties' familiarity with the relevant facts.
+
+DISCUSSION
+18 U.S.C. § 115(a)(1)(B) provides that
+
+[w]hoever . . . threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section, with intent to impede, intimidate, or interfere with such official, judge, or law enforcement officer while engaged in the performance of official duties, or with intent to retaliate against such official, judge, or law enforcement officer on account of the performance of official duties, shall be punished[.]
+18 U.S.C. § 115(a)(1)(B) . "Although the statute criminalizes certain speech, the Supreme Court has held that the First Amendment does not afford protection to speech that constitutes a 'true threat.'" United States v. Santos, 801 F. App'x 814 , 816 (2d Cir. 2020) (summary order) (quoting Watts v. United States, 394 U.S. 705 , 708 , 89 S. Ct. 1399 , 22 L. Ed. 2d 664 (1969)). "This Circuit's test for whether conduct amounts to a true threat 'is an objective one—namely, whether an ordinary, reasonable recipient who is familiar with the context of the [communication] would interpret it as a threat of injury.'"3,4 United [*242] States v. Turner, 720 F.3d 411 , 420 (2d Cir. 2013) (alteration in original) (quoting United States v. Davila, 461 F.3d 298 , 305 (2d Cir. 2006)). "In general, 'whether a given writing constitutes a threat is an issue of fact for the trial jury.'" Davila, 461 F.3d at 304 (quoting United States v. Malik, 16 F.3d 45 , 49 (2d Cir. 1994)); see also United States v. Amor, 24 F.3d 432 , 436 (2d Cir. 1994) ("[W]hether [**3] [the] words used are a true threat is generally best left to the triers of fact." (internal quotation marks and citation omitted)).
+In addition to its "true threat" component, § 115(a)(1)(B) also contains a subjective element, under which the Defendant must have made the threat "with [the] intent to impede, intimidate, or interfere with [the federal official] while engaged in the performance of official duties, or with intent to retaliate against [the official] on account of the performance of official duties." 18 U.S.C. § 115(a)(1)(B) .
+
+The Complaint alleges that Defendant violated § 115(a)(1)(B) by making the following four statements on various social media platforms:
+
+• Posting on his Facebook account on December 6, 2020, the following message:
+Trump, we want actual revenge on democrats. Meaning, we want you to hold a public execution of pelosi aoc schumer5 etc. And if you dont do it, the citizenry will. We're not voting in another rigged election.[*243] Start up the firing squads, mow down these commies, and lets take america back!
+(Compl., Dkt. 1, ¶ 4.)
+• Responding from his Facebook account on December 6, 2020, to a New York Daily News article "about a Staten Island resident who allegedly used his vehicle to run over a law enforcement officer who had come to arrest the resident for violating" COVID-19-related regulations, with the following comment:
+Fuck the lockdown po-lice! Yeah booiii run those pigs over! Anyone enforcing this lockdown mask vaccine bullshit deserves nothing less than a bullet in their fucking head! Including cops! If you're going to shoot someone tho, go after a high value target like pelosi schumer or AOC. They really need to be put down. These commies will see death before they see us surrender! USA!!
+( Id. ¶ 5.)
+• Posting on the video-sharing platform BitChute on January 8, 2021 (two days after the January 6, 2021 riot at the U.S. Capitol), an 88-second video entitled "KILL YOUR SENATORS" with the summary "Slaughter them all," wherein Defendant stated, in relevant part:
+We need to go back to the U.S. Capitol when all of the Senators and a lot of the Representatives are back there, and this time we have to show up with our guns. And we need to slaughter these motherfuckers . . . [O]ur government at this point is basically a handful of traitors . . . so what you need to do is take up arms, get to D.C., probably the inauguration . . . so called inauguration of this motherfucking communist Joe Biden . . . [T]hat's probably the best time to do this, get your guns, show up to D.C., and literally just spray these motherfuckers . . . like, that's the only option . . . [T]hey're gonna come after us, they're gonna kill us, so we have to kill them first . . . [S]o get your guns, show up to D.C., put some bullets in their fucking heads. If anybody has a gun, give me it, I'll go there myself and shoot them and kill them . . . [W]e have to take out these Senators and then replace them with actual patriots . . . [T]his is a ZOG6 government . . . [T]hat's basically all I have to say, but take up arms against them.
+( Id. ¶ 7.)
+• Responding, on January 12, 2021, to two messages on the social media website Parler, the first of which stated, "America fought a good fight. Our great Country is resilient & we will get thru this difficult time. Acting [**4] responsibly at this moment is what all Americans must do. During the past 4 tough years, I found faith, family and true friends,"7 and the second of which stated, "I am tired of this ambiguous bullshit. Our feet are in the fire. If there is a plan tell us it. If not get the hell out of our way. The Republic will not survive[*244] lukewarm platitudes and half hearted action," with the following comment:
+exactly, enough with the "trust the plan" bullshit. lets go, jan 20,8 bring your guns #millionmilitiamarch[.]
+( Id. ¶ 10.)
+I. Defendant's Private Text Messages
+The Government's request to introduce Defendant's text messages is granted to the extent those messages relate to Defendant's intent when he made the alleged threats. Section 115(a)(1)(B) requires a showing that Defendant intended "to impede, intimidate, or interfere with [the federal officials] while engaged in the performance of official duties," or "to retaliate against such official[s] . . . on account of the performance of official duties." 18 U.S.C. § 115(a)(1)(B) . Because "criminal intent may be prove[n] by circumstantial evidence alone," United States v. Heras, 609 F.3d 101 , 106 (2d Cir. 2010) (collecting cases), "prior act evidence is generally admissible to prove that the defendant acted with the state of mind necessary to commit the offense charged," United States v. Brand, 467 F.3d 179 , 197 (2d Cir. 2006) (citation omitted).
+
+The alleged threats reference, for example, "want[ing] actual revenge on democrats" (Compl., Dkt. 1, ¶ 4), a "rigged election" ( id.), "go[ing] back to the U.S. Capitol when all of the Senators and a lot of Representatives are back there" ( id. ¶ 7), and the "so called inauguration" of President Biden ( id.). In seeking to prove Defendant's intent to impede, intimidate, interfere with, or retaliate against federal officials when he made these statements, the Government offers the following text message exchange between Defendant and his father:
+
+• 11/5/2020 2:16:47 a.m. - Defendant:
+Trump should just declare martial law, cancel the transfer of power, and round up the domestic enemies of our republic. The military and the american people would back him. During hitlers first term in office, circumstances were such that it was necessary for him to override the democratic process and become the absolute leader of his country. Trump should prob do the same if necessary or they will throw his family in jail and destroy the country.
+• 11/5/2020 2:30:19 a.m. - Defendant's father:
+All of these election issues have to and will be resolved through a legal process. This will play out over the coming days and weeks - right now, Trump campaign's argument about outstanding votes in Arizona is already showing merit. Trump's lawsuits already in progress.
+• 11/5/2020 2:38:48 a.m. - Defendant:
+As trump said: "The damage has already been done to the integrity of our system, and to the Presidential Election itself" - all these corrupt journos pols and disinfo traitors will still be in place to sabotage the country even if he wins. They have to be removed somehow or this will all happen again in 4 years only worse
+• 11/5/2020 2:43:01 a.m. - Defendant's father:
+No need to panic. I trust Trump to handle this through legal means and he will. PS Keep your eye on Arizona [**5] - vote[*245] count has moved in his direction as his team said it would.
+• 11/5/2020 2:47:13 a.m. - Defendant:
+Yeah ive been keeping track of AZ. I am confident Trump and his team can secure the presidency (hopefully thru the courts if needed) but thats just the first step. We would still have a major corruption problem in the country with these whacked out mobs and a corrupt ruling elite.
+• 11/5/2020 2:50:06 a.m. - Defendant's father:
+The corrupt elite has unfortunately been around forever.
+• 11/5/2020 2:53:12 a.m. - Defendant:
+I suppose but they've gotten completely out of control and need to be reigned in before our great nation is brought to ruin
+• 11/5/2020 2:54:34 a.m. - Defendant's father:
+Half the country voted for Trump - people have gotten it.
+• 11/5/2020 2:58:27 a.m. - Defendant:
+Id say much more than half, but our voices have been stifled or silenced by this communist-marxist bloc of elites and their useful idiots. It is a mind virus that they have infected our friends and families with. It needs to be eliminated the same way theyve done with the fake covid virus used to destroy trump. We need to lock down the super spreaders
+• 11/5/2020 3:12:59 a.m. - Defendant:
+The media is prob going to claim that biden is pres elect, so the important thing for trump to do is establish this is totally illegitimate before that announcement is made. Otherwise it will just make it harder to fight.
+• 11/5/2020 4:23 a.m. - Defendant's father:
+Trump's got a smart campaign team - I trust they will do everything necessary. He's no pushover. One key is count in Arizona - if that gets turned around, as Trump team predicts, it changes everything.
+• 11/5/2020 8:38:37 p.m. - Defendant:
+Its ludicrous that AZ is taking until friday night to release their vote count. And the media are sticking by their call for Biden even tho it was way premature. The FOX decision desk was being run by a dem who donated thousands of dollars to that party, and FOX was the first to call that race... The only reason they are delaying the vote counts in these states is bc they're trying to find some way to get Biden ahead with fake ballots or throwing out enough trump ballots. These democrat a-holes are out for blood. Trump should invoke the insurrection act. This is a fake election bc of the dems and their mail in plot to seize the country and destroy us.
+• 11/6/2020 2:13:58 a.m. - Defendant's father:
+Latest count in Arizona has Trump closing and picking up steam.
+• 11/6/2020 2:29:04 a.m. - Defendant:
+The damage is done. Our election has already been contaminated. These treasonous democrats and their media/antifa cohorts need to be arrested and utterly destroyed. We also need to start rounding up illegals and just shipping them out of the US. They are domestic enemies to the republic, they are trying to kill our nation and they will not stop until someone makes them.
+(Gov. Exs. 40A—C.)
+These statements shed light on whether Defendant intended his alleged threats to "retaliate against" members of[*246] Congress "on account of the performance of [their] duties," as well as whether he intended "to impede, intimidate, or interfere with [them] while engaged in the performance of official duties." See 18 U.S.C. § 115(a)(1)(B) . These text messages [**6] are therefore relevant to the subjective-intent element of § 115(a)(1)(B) .9
+
+Although Defendant does not "disput[e] the relevance of [his] public statements or political beliefs," he argues his private text messages are "merely shorter versions of the statements he has made online," and are therefore "irrelevant and needlessly cumulative." (Def.'s MIL, Dkt. 46 at 12.) But Defendant fails to explain why his private statements relating to intent are any less relevant than his public statements. Nor are his private text messages needlessly cumulative of his public statements; because the private statements may reflect Defendant's views unfiltered for publication, they provide a different perspective on his state of mind than those he made publicly. The Government may therefore introduce Government Exhibits 40A, 40B, and 40C.10
+
+II. White-Supremacist and Anti-Semitic Propaganda, Beliefs, and Symbols
+The Government seeks to introduce evidence that Defendant held white-supremacist and anti-Semitic views, and to contextualize the white-supremacist and anti-Semitic propaganda, beliefs, and symbols referenced in Defendant's communications and statements through the testimony of Mr. Oren Segal, an expert on that topic. (Gov.'s MIL, Dkt. 47, at 15-22.) It argues that at least one of Defendant's alleged threats was motivated by such views. (See Gov.'s MIL, Dkt. 47, at 18.) In the 88-second BitChute video entitled "Kill Your Senators," Defendant referenced "a[*247] ZOG government," allegedly referring to the anti-Semitic term "Zionist occupied government." (Compl., Dkt. 1, ¶ 7.) In that video, Defendant stated, "they're gonna come after us, they're gonna kill us, so we have to kill them first," and "[i]f anybody has a gun, give me it, I'll go there myself and shoot them and kill them." ( Id.)
+
+Because the Government must prove that Defendant made his statements with the "intent to impede, intimidate, or interfere with [the officials] while engaged in the performance of official duties," or "to retaliate against such official[s] . . . on account of the performance of official duties," the bases for his word-choices are relevant. 18 U.S.C. § 115(a)(1)(B) . Further, Defendant's alleged white-supremacist and anti-Semitic views help contextualize the purportedly white-supremacist and anti-Semitic rhetoric in his alleged threats. See United States v. Viefhaus, 168 F.3d 392 , 398 (10th Cir. 1999) (affirming admission of "racist and inflammatory literature and materials found in [defendant's] house" to contextualize his alleged bomb threat, which included racist remarks).
+
+The Government is also permitted to introduce expert testimony to explain the alleged coded references in Defendant's purported threats. "Generally, expert testimony may be admissible if it is helpful to the trier of fact. Expert witnesses are often uniquely qualified in guiding the trier of fact through a complicated morass of obscure terms and concepts." United States v. Duncan, 42 F.3d 97 , 101 (2d Cir. 1994) (citing Fed. R. Evid. 702 ). Although "an expert witness [in a criminal case] must not state an opinion about whether the defendant did or did not have a mental state or condition that constitutes an element of the crime [**7] charged or of a defense," Fed. R. Evid. 704 , an expert witness may explain relevant "code words" for the jury, see United States v. Dukagjini, 326 F.3d 45 , 53 (2d Cir. 2003).
+
+The Government argues that testimony by Mr. Segal will help explain such symbols to the extent they appeared in Defendant's alleged threats. (See Gov.'s MIL, Dkt. 47, at 17-18.) According to the Government, Mr. Segal will explain that "ZOG," which Defendant references in his BitChute video, means "Zionist Occupied Government," and that because the number 88 signifies "Heil Hitler" to the white supremacist community, the 88-second length of the video could be a reference to that phrase. ( Id. at 18.) As noted, these references are relevant to Defendant's intent and the context of his words. The Government is therefore permitted to ask Mr. Segal to explain these alleged "code[s]" because they bear on the elements of the charge, and the jury would be unlikely to understand them otherwise. See Dukagjini, 326 F.3d at 53 .
+
+Defendant argues his alleged white-supremacist and anti-Semitic views are irrelevant because "[t]he [G]overnment does not allege that [his] statements were motivated by bigotry" or "directed . . . to bigoted individuals." (Def.'s MIL, Dkt. 46, at 10.) But, as the Government contends, the testimony may "provide[] necessary context that establishes the meaning that [Defendant] ascribed to the statements" (Gov.'s MIL, Dkt. 47, at 20), and may be potentially relevant to the seriousness and genuineness of Defendant's intent. The Government is permitted to argue at trial that Defendant's views provide such context and suggest he intended to impede, intimidate, interfere with, or retaliate against the officials referenced in the alleged threats. See 18 U.S.C. § 115(a)(1)(B) .
+
+Even so, Defendant is correct that evidence that he holds white-supremacist and anti-Semitic views is likely to be unduly prejudicial if it extends beyond explaining[*248] the references in his alleged threats. Under Rule 403 , "[t]he court may exclude relevant evidence if its probative value is substantially outweighed by a danger of . . . unfair prejudice, confusing the issues, misleading the jury, undue delay, wasting time, or needlessly presenting cumulative evidence." Fed. R. Evid. 403 . Given the likelihood of undue prejudice, the Government may introduce such evidence only to the extent necessary to explain the meaning of the references in Defendant's alleged threats and Defendant's knowledge of those meanings.
+
+The Court thus allows:
+
+• Government Exhibits 40D11 and 40E,12 which reflect text messages Defendant allegedly sent near the time of the 2020 presidential election, and which may bear on whether he wished to retaliate against public officials—based on white supremacist and anti-Semitic beliefs—for their performance of official duties.
+• Government Exhibits 30 and 30T, which are a video and transcript in which Defendant explains his use of coded messages on his YouTube channel. This evidence is relevant to show Defendant's intent in using coded language in his alleged threats and to show Defendant's beliefs as to the breadth of his audience. See Turner, 720 F.3d at 427 (noting that "[t]he degree to which [the defendant]'s statements [**8] were widely read and noted publicly was relevant to whether [he] intended for his threats to reach—and thus to intimidate—[the targets]").
+• Government Exhibits 41A, 41B, and 41C, in which Defendant references, inter alia, "a big zionist" who "only funds repubs who will work on israels interests," and notes that "Trump is very pro Israel" but that "you cant really talk about this stuff too openly in america bc once you start mentionibg israel everyones ears perk up like ur about to say some hitler type stuff lol." (Gov. Ex. 41A.) This evidence is also relevant insofar as Defendant discusses his interest in the writings of Adolph Hitler (Gov. Exs. 41A—C), which the Government intends to connect to his 88-second BitChute video.
+• To a limited extent, Government Exhibit 50, which is Defendant's digital copy of convicted murderer Dylann Roof's manifesto. The Government may introduce only those pages that contain "88," "14," and/or anti-Semitic symbology (e.g., a swastika) it seeks to associate with Defendant's alleged threats. Further, the Government may not introduce evidence of the authorship of the manifesto, as the probative value of that evidence would be substantially outweighed by the prejudice stemming from[*249] Roof's notoriety as a convicted hate crimes murderer, and the lack of evidence indicating that Defendant approved of Roof's conduct or views. Again, the Government will be permitted to introduce excerpts from Roof's manifesto for the limited purpose of showing that Defendant knew the significance of the "88" symbol. Finally, the Court will instruct the jury that Defendant did not author the document containing the symbol and that there is no evidence that Defendant himself drew that symbol.
+• Government Exhibit 51, which the Government claims reflects Defendant's visit history to "a website used to spread and discuss white supremacist and anti-Semitic propaganda, beliefs, and symbols." (Dkt. 64, at 4 (citation omitted).) Evidence that Defendant visited such websites may be probative of his intent and knowledge in referencing anti-Semitic and white supremacist terms in his alleged threats. To the extent Defendant contests his reasons for visiting the website, he may present that argument to the jury.
+• Government Exhibit 52, which consists of a record of a file with the name "Protocols of Learned Elders of Zion Part 01 of 01. pdf" that was deleted from Defendant's cellphone. (Gov. Ex. 52.) As with Exhibit 51, this is potentially probative of Defendant's intent and knowledge, and Defendant is free to argue to the jury regarding the inference to be drawn, if any, from his possession of the document.
+The Court will not allow the following to be introduced:
+
+• Government Exhibit 40F, which includes an additional text message Defendant sent to his father. Exhibit 40F is more inflammatory than Exhibits 40D and 40E, and it sheds no more light on Defendant's motives than those two exhibits. It is thus unduly prejudicial and needlessly cumulative.
+• Government Exhibits 150H, 150I, and 150J, which contain anti-Semitic remarks. To the extent these records suggest that Defendant [**9] was serious about the anti-Semitic remarks in his alleged threats, they are more prejudicial than, needlessly cumulative of, and less probative than the Government's other evidence on the topic.
+III. Evidence of Law Enforcement Reaction
+The Court notes that the parties intend to introduce evidence of law enforcement's response to Defendant's statements to show whether officers took those statements as serious threats. (Transcript of Oral Argument, 4/12/2021, at 78:24-79:14; Transcript of Oral Argument, 4/13/2021, at 220:13-22, 225:9-226:7; Gov. MIL, Dkt. 47, at 22-23.) Although "proof of the effect of the alleged threat upon the addressee is highly relevant," Malik, 16 F.3d at 49 , and "the reaction of the victim and other listeners" may be probative in some cases, see People ex rel. Spitzer v. Kraeger, 160 F. Supp. 2d 360 , 373 (N.D.N.Y. 2001), the relevant inquiry is "whether an ordinary, reasonable recipient who is familiar with the context of the communication would interpret it as a threat of injury," Turner, 720 F.3d at 420 (alteration, quotation marks, and citation omitted).
+
+The Government alleges that Defendant threatened public officials, not law enforcement officers. The law enforcement officers who were alerted to his statements were agents with specialized training in[*250] responding to potential danger, not "ordinary, reasonable recipient[s]." Id. (citation omitted). Thus, how these agents interpreted Defendant's statements bears little relevance to the objective inquiry in assessing whether "conduct amounts to a true threat." See id. As the Ninth Circuit noted in United States v. Hanna for example, "law enforcement officers [a]re particularly unqualified to comment on what the 'reasonable person' would have foreseen" given "their extensive training, experience and expertise." 293 F.3d 1080 , 1086 (9th Cir. 2002). As in Hanna, evidence of the law enforcement response to Defendant's statements might "create[] a significant danger that the jurors would conclude erroneously that they were not the best qualified to assess the foreseeable reaction to" the statements in question, and "that they [w]ould second guess their own judgment." Id. at 1087 .
+
+However, the parties appear to agree that law enforcement's reaction to Defendant's alleged threats may be relevant to the context of Defendant's statements and the jury's determination of whether his statements constituted threats in that context. (Defendant's Response in Opposition to Government's Motions in Limine ("Def.'s Opp."), Dkt. 49, at 5 (arguing that "no one at the Capitol responded" urgently after being alerted to Defendant's statements, and that law enforcement's allegedly delayed response is relevant to whether those statements were threats); (Gov.'s Opp., Dkt. 49, at 17 ("conced[ing]" that Defendant can "highlight the timing of a response by law enforcement as a fact for the jury to consider in applying the 'reasonable person' test," and seeking to rebut that evidence).) The Court has the discretion to, and therefore will, permit the parties to introduce such evidence, but will instruct the jury, in substance, that it is ultimately for them—and not any witnesses, law enforcement or otherwise—to [**10] determine "whether an ordinary, reasonable recipient who is familiar with the context of the communication would interpret it as a threat of injury." Turner, 720 F.3d at 421 (emphasis added) (citation omitted).13
+
+IV. Evidence of "Collective Threats" Against Congressmembers
+The Government also "seeks to introduce the testimony of an official in the Office of the Sergeant-at-Arms of the House of Representatives," Sean Keating, to explain how "collective threats [i.e., those made against members of Congress as a class], even those made on the internet, are perceived by recipients of the threats, and how such threats can impede, intimidate and interfere with the official duties of Members of Congress." (Gov.'s MIL, Dkt. 47, at 26-27.) The Government proffers Mr. Keating's anticipated testimony about (1) "[t]he high volume of threats directed at Members of Congress since January 1, 2021"; (2) "[t]he ways in which Representatives become aware of collective threats publicly posted on the Internet"; (3) "[t]he fact that Representatives regularly attend public events and frequently do so in groups as part of their official duties"; (4) "[t]he limited means that the House Sergeant-at-Arms and law enforcement have to mitigate such collective threats"; (5) "[t]he fact that, after the January 6, 2021 assault on the U.S. Capitol, the House Sergeant-at-Arms became aware of collective threats against Democratic Representatives and that some Representatives chose not to attend the inauguration[*251] of President Biden on January 20, 2021 after expressing safety concerns"; (6) "[i]n broad and non-specific terms, some of the programs that have been implemented to protect Representatives from such threats of collective violence"; and (7) "the ways in which some Representatives have responded to similar collective threats." ( Id. at 27.)
+
+The Court denies the Government's motion to introduce this evidence at trial. First, as explained, the Government alleges that Defendant threatened public officials, not law enforcement officers, let alone Mr. Keating. The Government fails to explain how the protective measures Mr. Keating describes reflect "an ordinary, reasonable recipient['s]" view of Defendant's statements. See Turner, 720 F.3d at 420 (citation omitted).
+
+Second, and more importantly, Mr. Keating's testimony would not address any law enforcement reaction to, or perception of, Defendant's statements. The Government admits that it "does not expect to elicit testimony that the general security measures and responses by some Representatives to collective threats around the inauguration were taken specifically in response to [Defendant's] threats." (Gov.'s MIL, Dkt. 47 at 28.) Instead, the Government argues Mr. Keating would explain general law enforcement reactions to "such threats" and "similar collective threats." ( Id. at 27.) The Government does not specify, however, what "such threats" or "similar collective threats" include. Nor does it explain how law enforcement responses to unspecified "collective threats" are relevant to whether Defendant's statements were threats in the first place. Finally, it would be impossible for the jury [**11] to assess whether these other threats are, in fact, "similar" to the threats alleged here, given the context and fact-specific nature of that determination.
+
+Third, even if Mr. Keating's testimony were relevant to "the capacity of the defendant's threats to achieve their intended purpose of impeding, intimidating and interfering with Members of Congress in the performance of their official duties" ( id. at 28 (emphasis added)), such testimony would have, at most, marginal bearing on whether Defendant intended his statements to have such effects. Section 115(a)(1)(B) concerns the defendant's intent to impede, intimidate, interfere with, or retaliate against, not whether the statements might actually have those effects. See 18 U.S.C. § 115(a)(1)(B) . The Government therefore may not call Mr. Keating to testify about the proposed topics.
+
+V. Defendant's Preparation and Intent to Carry Out Alleged Threats
+Defendant argues that "[e]vidence of his intent or lack of intent to carry out the threat is relevant to proving [his] motive, purpose, or intent in making his social media posts." (Def.'s Opp., Dkt. 49, at 8.) The Second Circuit has recognized that evidence of intent to carry out a threat may bear on whether the defendant intended the recipient to take the threat seriously. See United States v. Bayon, 838 F. App'x 618 , 620 (2d Cir. 2021) (summary order) ("[T]he jury could have reasonably inferred from [the defendant]'s possession of [bomb-making and related] books that he intended to make a genuine threat because he had collected the means and know-how to follow through on that threat. The books were also relevant to disproving [the defendant]'s contention that he did not intend to make a threat but merely chose his words poorly while attempting to convey his political views."); accord United States v. Parr, 545 F.3d 491 , 498 (7th Cir. 2008) (noting that a person making a threat "is more likely to give the impression he is serious if he actually is serious—if[*252] he actually plans to carry out his threat and is able to do so" (citation omitted)). As the Honorable Kiyo A. Matsumoto explained in United States v. Segui,
+
+[e]vidence that one who conveys a threatening communication and takes actions from which a jury could infer that he actually intends to carry out a threat of injury, or considered doing so, is relevant to whether the individual intended to convey a real threat, rather than a hyperbolic or comical statement.
+No. 19-CR-188 (KAM), [2019 BL 516688], 2019 U.S. Dist. LEXIS 230551 , [2019 BL 516688], 2019 WL 8587291 , at *10 (E.D.N.Y. Dec. 2, 2019). Because evidence of steps toward carrying out an alleged threat may be probative for this limited purpose, Defendant may argue the lack of such evidence suggests he did not "intend[] to convey a real threat." See id.
+But, although Defendant may make this argument, he may not suggest to the jury that an intent to carry out his alleged threats is necessary for a conviction. The Court will specifically instruct the jury that this is not required. As the Second Circuit has cautioned, "[w]hether a threat is ultimately carried out is, at best, of marginal relevance to whether the threat was made in the first place; indeed, the speaker need not even have intended or been able to carry out the threat for § 115(a)(1)(B) to apply." [**12] Turner, 720 F.3d at 429 . To the extent necessary, therefore, the Court will instruct the jury to consider this absence of evidence only insofar as it suggests that Defendant did not intend his statements to impede, intimidate, interfere with, or retaliate against the officials named in the alleged threats. See 18 U.S.C. § 115(a)(1)(B) .14
+
+VI. Defendant's Violent and Non-Violent Tendencies
+The Government asks the Court to preclude the defense from offering evidence or argument about whether Defendant is a peaceful person or lacks violent tendencies, such as, for example, witness testimony and videos or statements by Defendant espousing non-violence. (Gov.'s MIL, Dkt. 47, at 35-36 .) Defendant meanwhile asks the Court to exclude evidence suggesting he has "violent tendencies," including his "text exchanges with his cousin and father, and police reports from 2007 and 2014." (Def.'s MIL, Dkt. 46, at 13.) The Court finds that evidence of Defendant's violent or non-violent tendencies that has no relationship, temporally or substantively, to the statements and events at issue in this case is of little to no relevance, see Fed. R. Evid. 401 , and any probative value is substantially outweighed by the danger of unfair prejudice and confusing the issues, see Fed. R. Evid. 403 .
+
+Further, although 18 U.S.C. § 115(a)(1)(B) requires the Government to prove that Defendant threatened to assault, kidnap, or murder, the Court does not view Defendant's general tendency toward non-violence as "pertinent" to the offense, see Fed. R. Evid. 404(a)(2)(A) , which focuses on particular statements by the Defendant and his intent in making those statements, including the context in which the statements were made. In foreclosing the introduction of evidence of Defendant's non-violent tendencies, the Court likewise precludes the introduction of evidence intended to prove Defendant's tendency toward violence, as identified in the Government's Rule 404(b) Notice, including private text messages with family[*253] members, Facebook statements that are unrelated to the alleged threats or events at issue here, and law enforcement records related to domestic violence incidents that are unrelated to the alleged threats or events at issue here. (See Attachment C, Dkt. 44-3.) Not only is this evidence of limited relevance given the passage of time and the lack of connection or similarity between these statements and/or incidents and the statements at issue in this case, but any marginal probative value is substantially outweighed by the risk of unfair prejudice. See United States v. Mundle, No. 15-CR-315 (NSR), 2016 U.S. Dist. LEXIS 34736 , [2016 BL 82219], 2016 WL 1071035 , at *4-5 (S.D.N.Y. Mar. 17, 2016) (precluding evidence of past threats the defendant made because there was "no evidence that the threats all stem[med] from the same dispute or related disputes"). Accordingly, the Court will not permit the introduction of evidence of Defendant's violent or non-violent tendencies.15
+
+VII. Evidence of Inflammatory Statements Made by Others
+The Government moves to preclude evidence and argument regarding threats or inflammatory statements made by other, uncharged individuals as being irrelevant. (See Gov.'s MIL, Dkt. 47, at 38.) At oral argument, however, the Government stated that [**13] this request was not based on anything specific that the defense was going to offer, and in response to the Court's order, the defense has not proffered any particular statements made by others that it intends to introduce. (See generally Dkt. 63.) Therefore, the Court finds that there is no current dispute on this issue; no threats or inflammatory statements by uncharged others will be introduced at trial.
+
+VIII. Authentication and Rule 902 Certification
+The Government has "obtained certified records of the contents of certain of [Defendant]'s accounts from Facebook, Google, Twitter, Parler, and BitChute" (Gov.'s MIL, Dkt. 47, at 29), and requests that it "be permitted to authenticate and admit the records of [Defendant]'s social media and video sharing accounts using certifications" ( id. at 31). The defense has indicated that it does not intend to stipulate to the authenticity or admissibility of any of these records, and insists that a custodian of records or other representative from each of these companies be called to testify at trial. (See id. at 29; see also Def.'s Opp., Dkt. 49, at 8.)
+
+Rule 902 of the Federal Rules of Evidence provides that certain items of evidence are "self-authenticating," meaning that "they require no extrinsic evidence of authenticity" to be admitted. Fed. R. Evid. 902 . These include "domestic record[s] that meet[] the requirements of Rule 803(6)(A) -(C) , as shown by a certification of the custodian or another qualified person that complies with a federal statute or a rule prescribed by the Supreme Court." Fed. R. Evid. 902(11) . Rule 803(6) , in turn, allows business records to be admissible if they are accompanied by a certification of a custodian or other qualified person showing that: (A) "the record was made at or near the time by—or from information transmitted by—someone with knowledge;" (B) "the record was kept in the course of a regularly conducted activity" of the business; and (C) "making the record was a regular practice of that activity." Fed. R. Evid. 803(6) . Similarly, 18 U.S.C. § 3505 [*254] provides for authentication by certification and admissibility of foreign business records in criminal proceedings. See 18 U.S.C. § 3505(a) .
+
+The Government has not made clear the "records" it intends to authenticate and admit via certifications. But to the extent the Government seeks to authenticate and admit the content of messages or videos on Defendant's social media accounts via certifications, such items are not self-authenticating business records that require no extrinsic evidence of authenticity other than a certification from a custodian to be admitted. See United States v. Farrad, 895 F.3d 859 , 879-80 (6th Cir. 2018) (concluding that Facebook photographs were not self-authenticating business records); United States v. Browne, 834 F.3d 403 , 409-11 , 65 V.I. 425 (3d Cir. 2016) (holding that Facebook "chats" were not self-authenticating business records). As the Third Circuit explained in Browne, the business-records exception under Rule 803(6) "is designed to capture records that are likely accurate and reliable in content, as demonstrated by the trustworthiness of the underlying sources of information and the process by which and purposes for which that information is recorded." 834 F.3d at 410 (collecting cases). Yet, with regard to social [**14] media communications, a company such as Facebook
+
+does not purport to verify or rely on the substantive contents of the communications in the course of its business.
+At most, the records custodian employed by the social media platform can attest to the accuracy of only certain aspects of the communications exchanged over that platform, that is, confirmation that the depicted communications took place between certain Facebook accounts, on particular dates, or at particular times.
+Id. at 410-11 (citing United States v. Jackson, 208 F.3d 633 , 637-38 (7th Cir. 2000)); accord Farrad, 895 F.3d at 879 (quoting Browne, 834 F.3d at 410-11 ). Thus, to construe the substance of social media content as a business record would be to misunderstand the business-records exception under Rule 803(6) . See Browne, 834 F.3d at 410 .
+Additionally, "[a]uthentication is essentially a question of conditional relevancy[.]" United States v. El Gammal, 831 F. App'x 539 , 542 (2d Cir. 2020) (summary order) (citing, inter alia, Fed. R. Evid. 901(a) Advisory Committee Notes); see also United States v. Almonte, 956 F.2d 27 , 29-30 (2d Cir. 1992). "The type and quantum of evidence necessary for authentication is thus related to the purpose for which the evidence is offered." United States v. Sliker, 751 F.2d 477 , 488 (2d Cir. 1984). Where, as here, social media content is offered for the purpose of establishing that a person made particular statements—that is, the relevance of the proffered evidence "hinges on the fact of authorship"—a certification by a custodian in itself cannot be sufficient for purposes of authentication because, as already described, such a certification serves a limited role: it simply shows that a record was made at or near a certain time, that the record was kept in the course of a regularly conducted business activity, and that the making of the record was a regular practice of that activity. See Fed. R. Evid. 803(6) ; Browne, 834 F.3d at 410 ; see also Melendez-Diaz v. Massachusetts, 557 U.S. 305 , 322 , 129 S. Ct. 2527 , 174 L. Ed. 2d 314 (2009) (observing that the scope of a certificate of authenticity traditionally was "narrowly circumscribed" to certifying "the correctness of a copy of a record," and did not extend to furnishing an "interpretation of what the record contains or shows" or certifying the record's "substance or effect" (citation omitted)). Indeed, in United States v. Vayner, the Second Circuit held[*255] that a social media profile page was not properly authenticated because the profile page's relevance turned on whether it was created by the defendant, yet the Government offered evidence only that the page existed and not that it belonged to the defendant. 769 F.3d 125 , 132-33 (2d Cir. 2014). Like the Government's evidence in Vayner, a business-records certification shows nothing more than that a record existed or was created at a particular time and that it was regularly kept in the course of a regularly conducted business activity. See Farrad, 895 F.3d at 879 (noting that the Sixth Circuit's approach of requiring more than simply a certification to authenticate social media photographs "accords with" the approach of the Second Circuit in Vayner); Browne, 834 F.3d at 410 (concluding that allowing Facebook chats to be authenticated merely with a certification by a custodian would be inconsistent with Vayner); see also United States v. Hassan, 742 F.3d 104 , 132-34 (4th [**15] Cir. 2014) (concluding that the district court did not abuse its discretion in admitting Facebook pages and YouTube videos because even though the district court concluded that the pages and videos were self-authenticating business records, it also required the Government to link the materials to the defendants).
+
+This is not to say that a certification is irrelevant for purposes of authenticating social media content. Under Rule 901 , there is a wide variety of extrinsic and circumstantial proof that may be used to authenticate evidence, see Fed. R. Evid. 901(b) ; Vayner, 769 F.3d at 130-31 , and there need only be sufficient proof "so that a reasonable juror could find in favor of authenticity or identification," Vayner, 769 F.3d at 129-30 (quoting United States v. Pluta, 176 F.3d 43 , 49 (2d Cir. 1999)). In fact, even though the Third Circuit in Browne concluded that Facebook chats were not self-authenticating records, it nevertheless found that the fact that the Government had obtained certified chat logs directly from Facebook "constitute[d] yet more circumstantial evidence that the records [we]re what the Government claim[ed]." 834 F.3d at 414-15 . Accordingly, the Court concludes that the Government may not rely solely on certifications to authenticate and admit the content of messages or videos on Defendant's social media accounts; such certifications remain one of the many ways the Government may demonstrate authenticity under Rule 901(a) .
+
+Moreover, to the extent that the Government simply seeks to admit records about Defendant's social media content—such as metadata showing times or dates of posting or transmission, or IP addresses—those sorts of records would be self-authenticating. See Browne, 834 F.3d at 411 ("If the Government . . . had sought to authenticate only the timestamps on the Facebook chats, the fact that the chats took place between particular Facebook accounts, and similarly technical information verified by Facebook 'in the course of a regularly conducted activity,' the records might be more readily analogized to bank records or phone records conventionally authenticated and admitted under Rules 902(11) and 803(6) .").
+
+Defendant argues that authenticating records through a certification, instead of live witness testimony, violates his right under the Confrontation Clause of the Sixth Amendment "to confront those who bear testimony against him." (Def.'s Opp., Dkt. 49, at 6-8 (quoting Melendez-Diaz, 557 U.S. at 309 ).) This argument is unavailing. As one court in this district has already held, "the authentication of foreign business records pursuant to [18 U.S.C. ] § 3505 does not violate the Confrontation Clause." United [*256] States v. Qualls, 553 F. Supp. 2d 241 , 245-46 (E.D.N.Y. 2008), aff'd on other grounds, 613 F. App'x 25 , 28-29 (2d Cir. 2015) (summary order). And though the Second Circuit has not squarely addressed the issue, see Qualls, 613 F. App'x at 29 n.1 (stating that the panel "need not reach the issue of whether the Confrontation Clause would be implicated by admitting certifications prepared by records custodians solely to authenticate or lay the foundation for otherwise admissible business records"), the other circuits that have addressed the issue have agreed that certifications [**16] used purely for purposes of authenticating business records are not testimonial and do not implicate the Confrontation Clause. As the Tenth Circuit explained, a certification "[is] 'nothing more than the custodian of records . . . attesting that the submitted documents are actually records kept in the ordinary course of business' and [] the statements in the certification 'merely establish the existence of the procedures necessary to create a business record.'" United States v. Yeley-Davis, 632 F.3d 673 , 680 (10th Cir. 2011) (quoting United States v. Ellis, 460 F.3d 920 , 927 (7th Cir. 2006)). In short, the purpose of a certification is "merely to authenticate [business] records—and not to establish or prove some fact at trial"—and thus, a certification is "too far removed from the 'principal evil at which the Confrontation Clause was directed' to be considered testimonial." Id. (quoting Ellis, 460 F.3d at 927 ). Other circuits have agreed. See United States v. Denton, 944 F.3d 170 , 183-84 (4th Cir. 2019); United States v. Anekwu, 695 F.3d 967 , 976-77 (9th Cir. 2012); United States v. Morgan, 505 F.3d 332 , 339 (5th Cir. 2007); see also Farrad, 895 F.3d at 876 n.11 (noting, but not deciding, that a similar Confrontation Clause argument to the one Defendant here is making was "unlikely" to "have been a winning argument on plain-error review"). Based on this weight of authority, the Court concludes that using certifications prepared by records custodians purely for authentication purposes presents no Confrontation Clause issue.
+
+Defendant contends that the Supreme Court's decision in Melendez-Diaz compels the opposite conclusion, but like the circuits that have decided the issue following Melendez-Diaz, the Court finds that Defendant's contention is misplaced. In Melendez-Diaz, the Supreme Court held that affidavits sworn to before a notary public and attesting to the results of forensic analysis on materials seized from the defendant by the police were testimonial and implicated the defendant's right to confrontation under the Confrontation Clause. 557 U.S. at 307-08 , 310-11 . The majority in Melendez-Diaz, however, expressly distinguished between the affidavits at issue in that case and "narrowly circumscribed" certifications used for purposes of authentication: "A clerk could by affidavit authenticate or provide a copy of an otherwise admissible record, but could not do what the analysts did here: create a record for the sole purpose of providing evidence against a defendant." Id. at 322-23 (emphasis in original); see also id. at 311 n.1 ("[W]e do not hold, and it is not the case, that anyone whose testimony may be relevant in establishing the chain of custody, authenticity of the sample, or accuracy of the testing device, must appear in person as part of the prosecution's case."). Indeed, while Defendant views the certifications in this case to be like the affidavits in Melendez-Diaz, the Court's view is that they are more akin to the notary stamps on the affidavits—which, of course, presented no Confrontation Clause [*257] issue.16 Cf. Denton, 944 F.3d at 184 ("Melendez-Diaz . . . 'makes clear that the Sixth Amendment right to confront witnesses does not include the right to confront a records custodian who submits a Rule 902(11) certification [**17] of a record that was created in the course of a regularly conducted business activity.'" (quoting United States v. Mallory, 461 F. App'x 352 , 357 (4th Cir. 2012) (per curiam))); Yeley-Davis, 632 F.3d at 681 ("The [Supreme] Court's ruling in Melendez-Diaz does not change our holding that Rule 902(11) certifications of authenticity are not testimonial.").
+
+In reality, as became clearer at oral argument, Defendant true contention is that the use of written certifications deprives them of the ability to examine live custodian witnesses on issues such as whether there exist other records that the Government might not have requested and/or that were not produced in response to government subpoenas. But the defense misconstrues the scope of authentication and mistakenly believes that they will be able to examine a live custodian witness on issues that have nothing to do with authentication, which is simply incorrect. As already explained, under Rule 803(6) and Melendez-Diaz, the issue of authentication of a business record is narrow in scope. See Fed. R. Evid. 803(6)(A) -(C) ; Melendez-Diaz, 557 U.S. at 322 (observing that the scope of a certificate of authenticity traditionally was "narrowly circumscribed" and did not extend to certifying or interpreting the substance of the record). As the Court reiterated several times at oral argument, the issues that Defendant seemingly wishes to raise and explore are, in fact, discovery issues properly raised in pretrial discovery motions well in advance of trial, not in a motion in limine on the eve of trial or through a custodial witness at trial.17
+
+[*258] In short, to the extent that the Government seeks to authenticate and admit the content of Defendant's social media accounts, it may not do so solely through certifications, although it may rely on such certifications in establishing authenticity under Rule 901(a) . To the extent the Government seeks to authenticate and admit records about the content of Defendant's social media accounts, it may do so through Rule 902(11) and 18 U.S.C. § 3505 . Further, the Court is persuaded by and follows the overwhelming weight of authority to conclude that certifications under Rule 902(11) and 18 U.S.C. § 3505 used purely for purposes of authentication do not present a Confrontation Clause problem. Lastly, for the reasons discussed at oral argument and again here, the Court denies Defendant's request to call custodial witnesses to testify about the service provider records produced to the Government.
+
+IX. Additional Evidence of Threats, Context, or Authentication
+In addition to the specific exhibits discussed above, the Government offers various exhibits in its April 14, 2021 submission that do not fall into the categories of evidence the parties reference in their motions in limine. Government Exhibits 3-6 , 20, 20P, 21, 21P, 21T, 22, 22T, 23, 23T, 24, 24T, 25, 25T, 26, 26T, 27, 27T, 28, 28T, 109, 109B—K, 110, 110A—C, 150B—G, and 151A—B may be introduced because they are the alleged threats, complete or provide important context to the alleged threats, relate to Defendant's state of mind, or may be used for authentication and identification purposes.18
+
+X. Court's Prior Rulings at Oral [**18] Argument
+Although the Court ruled on the following issues during oral argument (see 4/12/2021 Minute Entry; 4/13/2021 Minute Entry), to avoid any possible confusion and for completeness of the record, the Court provides the following written explanation for its rulings.
+
+A. In Camera Inspection of Grand Jury Minutes
+The Court denied Defendant's request to have the Court inspect the Grand Jury minutes in camera to ensure that the Grand Jury did not indict on an incitement theory (Def.'s MIL, Dkt. 46, at 6). (See 4/12/2021 Minute Entry.) Defendant argues that the Government's theory of guilt, as articulated in the Complaint and described in its bail opposition letter, conflates "threat" and "incitement," thereby suggesting that the Government "potentially[*259] gave misleading instructions to the Grand Jury." (Def.'s MIL, Dkt. 46, at 6.)
+
+"The court may authorize disclosure . . . of a grand-jury matter . . . at the request of a defendant who shows that a ground may exist to dismiss the indictment because of a matter that occurred before the grand jury[.]" Fed. R. Crim. P. 6(e) . However, "[i]t is well-settled that a defendant seeking disclosure of grand jury minutes has the burden of showing a 'particularized need' that outweighs the default 'need for secrecy' in grand jury deliberations." United States v. Forde, 740 F. Supp. 2d 406 , 413 (S.D.N.Y. 2010) (quoting United States v. Moten, 582 F.2d 654 , 662 (2d Cir. 1978)). Accordingly, the inspection of grand jury minutes may be appropriate where a defendant has offered specific factual allegations of government misconduct. See United States v. Terry, No. 18-CR-560 (DRH), [2020 BL 505063], 2020 U.S. Dist. LEXIS 243974 , [2020 BL 505063], 2020 WL 7711863 , at *1 (E.D.N.Y. Dec. 29, 2020); United States v. Bergstein, No. 16-CR-746 (PKC), 2017 U.S. Dist. LEXIS 67582 , [2017 BL 147623], 2017 WL 1750392 , at *3 (S.D.N.Y. May 3, 2017). But "[m]ere speculation that . . . the Government may have improperly instructed the grand jury . . . falls far short of the showing to overcome the presumption of secrecy." Forde, 740 F. Supp. 2d at 414 (citations omitted).
+
+Here, Defendant has not alleged, much less specifically alleged, that the Government engaged in misconduct with respect to grand jury proceedings. The Court finds that Defendant's argument—citing a one-off statement in the Complaint and a statement in a footnote in the Government's bail opposition letter19—without more, does not demonstrate that the Government's theory of guilt conflates "incitement" with "threat." These allegations ultimately amount to mere speculation that the Government "potentially" gave a misleading instruction to the grand jury. Thus, the Court concludes that Defendant has failed to demonstrate a particularized need for in camera inspection of the grand jury minutes and denies the request.
+
+B. Excluding "Inciting" Statements
+Defendant requested a determination that three of the four allegedly threatening statements amount only to incitement, and therefore cannot constitute a "true threat" in violation of § 115(a)(1)(B) , as a matter of law. The only statement Defendant made that could possibly be interpreted as a true threat, he argues, is the first-person statement he made in his BitChute video on January 8, 2021: "If anybody has a gun, give me it, I'll go there myself and shoot them and kill them." (Compl., Dkt. 1, ¶ 7.) The three other[*260] statements, according to Defendant, [**19] "merely called on unidentified third persons to commit acts of violence," which may be considered incitement, but not threats. (Def.'s MIL, Dkt. 46, at 7.) At oral argument, the Court denied Defendant's request, declining to make this determination as a matter of law, given the central role of the jury in determining whether statements, made in their factual context, constitute a threat. See Davila, 461 F.3d at 304-05 ; see also Turner, 720 F.3d at 419 ("Most cases [involving alleged threats] are within a broad expanse of varying fact patterns which may not be resolved as a matter of law, but should be left to a jury" (alteration in original) (quoting United States v. Carrier, 672 F.2d 300 , 306 (2d Cir. 1982))). Indeed, as the Government noted at oral argument, Defendant's other statements all similarly included himself—saying "we" or "lets [sic]"—as someone who should or would take action against the targets of the alleged threats. (See Compl., Dkt. 1, ¶¶ 4 ("lets take america back!"), 5 ("The commies will see death before they see us surrender!"), 7 ("[W]e have to take out these Senators and then replace them with actual patriots."), 10 ("lets go, jan 20, bring your guns").)
+
+In Turner, for example, the Second Circuit held that there was sufficient evidence for the jury to find that the defendant's statements constituted a true threat even though the "language, on its face, purported to be directed at third parties, rather than the [alleged victims] themselves." Turner, 720 F.3d at 424 . It is proper here, too, for the jury to be presented with evidence and decide whether Defendant's statements, in their factual context, are objectively threatening.20
+
+C. Instructing Jury on "True Threats" In Advance of Opening Statements
+The parties requested that the jury be instructed prior to opening statements on the difference between "true threats" and First-Amendment-protected speech, although they disagree on what constitutes a true threat. (See Gov.'s MIL, Dkt. 47, at 7-8; Def.'s Opp., Dkt. 49, at 2-3.) The Court declined to deviate from its standard procedure and give the jury a preliminary instruction on a key, but disputed, element in the case. In some cases, particularly where trial is expected to be lengthy and complex, courts have found it appropriate to give substantive preliminary jury instructions. See, e.g., United States v. Stein, 429 F. Supp. 2d 648 , 649 , 651 (S.D.N.Y. 2006) (noting, in a case that was "said to be the largest criminal tax case in history," that "[i]t is only common sense to think that it would be helpful to the jurors to know at the outset of a long trial what they are going to be asked to decide at the end"). Trial in this case is not going to be long or particularly complex. And though the parties disagree on the contours of a true threat, that is not a compelling reason to instruct the jury twice, before and after the presentation of evidence. If anything, it is a reason for the Court to forbear on giving an instruction until after it has had sufficient time to consider the parties' significantly opposing views on this issue.
+
+D. Preclusion of BitChute "Kill Your Senators" Video Because of Alleged Spoliation
+Defendant argues that the Government should be precluded from introducing a copy of the BitChute "Kill Your [**20] Senators"[*261] video because the copy does not include all of the comments that were made in response to the video, thus "depriving the defense, the Court, and the jury of the opportunity to consider the context of the statements and listener's reactions." (Def.'s MIL, Dkt. 46, at 14.) Defendant contends that the Government's failure to preserve all of the comments amounts to spoliation of evidence, and that the proper sanction is preclusion of the video. ( Id. at 14-17.)
+
+Spoliation is "the destruction or significant alteration of evidence, or failure to preserve property for another's use as evidence in pending or reasonably foreseeable litigation." United States v. Walker, 974 F.3d 193 , 208 (2d Cir. 2020) (quoting United States v. Odeh ( In re Terrorist Bombings of U.S. Embassies in E. Africa ), 552 F.3d 93 , 148 (2d Cir. 2008)). Although the issue of spoliation often arises in the context of a motion to dismiss the indictment, even in other contexts, the defendant must show that (1) there was an obligation to preserve the evidence; (2) the evidence was intentionally destroyed; and (3) the evidence would have played a significant role in the defense. See In re Terrorist Bombings of U.S. Embassies in E. Africa, 552 F.3d at 148-49 ; United States v. Barnes, 411 F. App'x 365 , 368-69 (2d Cir. 2011) (summary order); see also Walker, 974 F.3d at 208 (holding in the context of a motion to dismiss for spoliation that failure to show "bad faith" by the Government "is fatal to a defendant's spoliation motion" (citation omitted)). The threshold inquiry, though, is whether the loss of evidence "is 'chargeable to the State.'" Barnes, 411 F. App'x at 369 (quoting Colon v. Kuhlmann, 865 F.2d 29 , 30 (2d Cir. 1988)).
+
+Here, at a minimum, Defendant has failed to show that the failure to preserve comments to the BitChute "Kill Your Senators" video is "chargeable" to the Government or that such failure was intentional. Rather, the record indicates that on January 8, 2021, the FBI sent a letter to the legal department at BitChute, which is based in the United Kingdom, requesting
+
+the preservation of any and all records and other evidence in its possession, to include but not limited to: all graphic and text profile content, emails, text messages, archived chats or chat logs, messages, images, blogs, videos, subscriber information, account history, address book, buddy or friends lists, sign-up IP address and associated time stamp, associated IP addresses, and passwords pertaining to the use of or communications via the account associated with xrayultra or https://www.bitchute.com/channel/wsxbjWgbAzYY from the time period of January 8, 2019 through January 8, 2021.
+(Ex. A to Gov.'s Opp., Dkt. 48-1, at ECF21 1 (emphases in original).) On or about January 9, 2021, Defendant changed the "Kill Your Senators" video to "Hidden (Unpublished)" mode. (Gov.'s Opp., Dkt. 48, at 21 (citing BH-00002495).) Eventually, the Government obtained evidence from Defendant's BitChute Account—including the video at issue and comments made by Defendant on the video, but not comments made by other users—through a United Kingdom court order via a Mutual Legal Assistance Treaty request. ( Id. at 22.) The United Kingdom court order specifically directed BitChute to produce "[a]ll records related to the post titled 'Kill Your [**21] Senators,' posted on or about January 8, 2021, including the video file itself, the number[*262] of views and any comments made." ( Id. (quoting BH-00002499).) Defendant speculates that the government agent who viewed the video in the first instance, following a tip from a BitChute user who called the FBI, "surely took note of the responses and would have paid attention to any that indicated that any 'followers' or 'co-conspirators' were willing to heed the call to take up arms." (Def.'s MIL, Dkt. 46, at 16.) But Defendant presents no evidence that any government agent "took note" of any comments, and even if that were the case, there is nothing to show that the failure to preserve the comments was intentional or done in bad faith. In any event, following Defendant's motion, the Government produced to Defendant additional records the Government thereafter received from BitChute, including what appears to be all of the comments on the "Kill Your Senators" video. (See Dkts. 50, 59.)
+Accordingly, there is no basis to conclude that the Government spoliated evidence, and the BitChute "Kill Your Senators" video is not precluded.
+
+E. Background Evidence Regarding 2020 Presidential Election and Events at the United States Capitol on January 6, 2021
+The Court granted the Government's request to introduce evidence regarding the 2020 presidential election and the January 6, 2021 events at the U.S. Capitol as background information that is necessary for the jury to understand the context for Defendant's alleged threats. (See 4/12/2021 Minute Entry.) Defendant does not object to the introduction of such evidence. (Def.'s Opp., Dkt. 49, at 5.) However, the Court cautioned the Government that in introducing this background evidence, it should not elicit unduly inflammatory or graphic testimony regarding what happened at the Capitol that day. See Fed. R. Evid. 403 . The Government should limit its presentation of background evidence to what is factual and necessary for the jury's understanding of the alleged threats.
+
+F. Cross-Examination of Law Enforcement About Specific Protective Procedures
+The Court granted the Government's request to preclude defense counsel from cross-examining any law enforcement witnesses, to the extent they are called, about specific methods or procedures used to carry out protective functions, i.e., use of "surveillance camera deployments, manpower deployments, weapons utilized, evacuation routes, shelters, or other covert items" (Gov.'s MIL, Dkt. 47, at 32-33). (See 4/12/2021 Minute Entry.) The Court finds that such testimony is irrelevant in that it would not tend to make a fact of consequence in determining this action "more or less probable." See Fed. R. Evid. 401 . Even if testimony regarding specific protective procedures were relevant, though the Court finds it is not, such testimony raises substantial concerns about prejudice to the government's interest in avoiding disclosure of—and therefore compromising—law enforcement techniques and procedures used to carry out their protective functions. See Fed. R. Evid. 403 . For these reasons, the Court granted the Government's request.22
+
+[*263] G. Redactions [**22] in 3500 Material
+Defense counsel requested that the Government justify the "heavy redactions in the 3500 material23 and discovery," but did not identify specific redactions to which they objected. (See Def.'s MIL, Dkt. 46, at 17.) The Government responded that it was "not clear to what redactions [Defendant] is referring," but would confer with defense counsel regarding this issue. (Gov.'s Opp., Dkt. 48, at n.1.) During the April 12, 2021 oral argument, the 3500 material issue was discussed, though defense counsel still did not identify specific redactions to which they have objections, and the Court directed the parties to confer regarding this issue. (See 4/12/2021 Minute Entry.) When oral argument continued on April 13, 2021, the parties did not raise the issue of the 3500 materials and discovery, and the Court therefore assumes that the issue has been resolved. Furthermore, based on the parties' motions and argument during oral argument on April 12, 2021, the Court has no basis to believe that the Government made redactions that are improper under 18 U.S.C. § 3500 .
+
+CONCLUSION
+For the foregoing reasons, the Court grants in part and denies in part the parties' motions in limine. (Dkts. 46, 47.)
+
+SO ORDERED.
+
+/s/ Pamela K. Chen
+
+Pamela K. Chen
+
+United States District Judge
+
+Dated: April 15, 2021
+
+Brooklyn, New York
+
+APPENDIX 1
+21-CR-86 (PKC)
+
+PAMELA K. CHEN, United States District Judge:
+
+The following charts provide a summary of the Court's rulings on the parties' proposed intent and/or state of mind Exhibits.
+
+I. Government's Proposed Exhibits
+GX#
+
+DESCRIPTION
+
+PERMITTED?
+
+(Yes / No)
+
+Defendant's Statements Regarding the 2020 Election, Events of January 6, 2021, and
+
+ 	 
+Aftermath of Those Events
+
+ 	 
+40A
+
+11/5/2020 text messages
+
+Yes
+
+40B
+
+11/5/2020 text messages
+
+Yes
+
+40C
+
+11/6/2020 text messages
+
+Yes
+
+150B
+
+11/4/2020 Facebook post
+
+Yes
+
+150C
+
+11/15/2020 Facebook post
+
+Yes
+
+150D
+
+11/20/2020 Facebook post
+
+Yes
+
+150E
+
+11/27/2020 Facebook post
+
+Yes
+
+150F
+
+12/6/2020 Facebook comment on a post from
+
+Yes1
+
+12/5/2020
+
+GX#
+
+DESCRIPTION
+
+PERMITTED?
+
+(Yes / No)
+
+150G
+
+12/6/2020 Facebook post
+
+Yes2
+
+151A
+
+1/8/2021 Excerpt from Parler Records for Account
+
+Yes3
+
+with Display Name "Xrayultra" and Name
+
+"Brandan Hunt"
+
+151B
+
+Screenshot reflecting statements included in GX
+
+Yes4
+
+151A
+
+20
+
+1/8/2021 BitChute Video: "Kill Your Senators"
+
+Yes5
+
+20P
+
+Image associated with the "Kill Your Senators"
+
+Yes
+
+video
+
+21 / 21T
+
+1/8/2021 BitChute Video: "Kill Your Senators"
+
+Yes
+
+21P
+
+Image associated with the "Kill Your Senators"
+
+Yes
+
+video
+
+22 / 22T
+
+12/21/2020 BitChute Video: "What the media
+
+Yes
+
+won't tell you about Jan 6 2021 ...."
+
+Defendant also proposed this
+
+video as an exhibit. (See Dkt.
+
+63-1.) The parties are permitted
+
+to introduce this video in full or
+
+to introduce portions of the
+
+video.
+
+23 / 23T
+
+1/6/2021 BitChute Video: "HORRIFIC: DC Cops
+
+Yes
+
+Shoot Unarmed Patriot Girl Thru Neck in Capitol
+
+Building!!"
+
+Defendant also proposed this
+
+video as an exhibit. (See Dkt.
+
+63-1.) The parties are permitted
+
+GX#
+
+DESCRIPTION
+
+PERMITTED?
+
+(Yes / No)
+
+to introduce this video in full or
+
+to introduce portions of the
+
+video.
+
+24 / 24T
+
+1/7/2021 BitChute Video: "RAW VIDEO: Patriots
+
+Yes
+
+Enter Capitol to Demand Representation!"
+
+Defendant also proposed this
+
+video as an exhibit. (See Dkt.
+
+63-1.) The parties are permitted
+
+to introduce this video in full or
+
+to introduce portions of the
+
+video.
+
+25 / 25T
+
+1/8/2021 BitChute Video: "REVOLT! Four Dead
+
+Yes
+
+in DC as Patriots Swarm Capitol"
+
+Defendant also proposed this
+
+video as an exhibit. (See Dkt.
+
+63-1.) The parties are permitted
+
+to introduce this video in full or
+
+to introduce portions of the
+
+video.
+
+26 / 26T
+
+1/9/2021 BitChute Video: "CNN: Trump Made
+
+Yes
+
+Video Only Because He Was 'Threatened'"
+
+Defendant also proposed this
+
+video as an exhibit. (See Dkt.
+
+63-1.) The parties are permitted
+
+to introduce this video in full or
+
+to introduce portions of the
+
+video.
+
+27 / 27T
+
+1/9/2021 BitChute Video: "DC cops LET THEM
+
+Yes
+
+IN to Capitol, pushed man off balcony"
+
+Defendant also proposed this
+
+video as an exhibit. (See Dkt.
+
+63-1.) The parties are permitted
+
+to introduce this video in full or
+
+to introduce portions of the
+
+video.
+
+GX#
+
+DESCRIPTION
+
+PERMITTED?
+
+(Yes / No)
+
+28 / 28T
+
+1/16/2021 BitChute Video: "Trump + 'MyPillow
+
+Yes
+
+Guy' plot last min INSURRECTION ACT !?!"
+
+Defendant also proposed this
+
+video as an exhibit. (See Dkt.
+
+63-1.) The parties are permitted
+
+to introduce this video in full or
+
+to introduce portions of the
+
+video.
+
+109
+
+All data (not including images, videos, or other
+
+Yes
+
+user's comments) for Defendant's BitChute
+
+account.
+
+109B -
+
+Metadata and associated content from BitChute
+
+Yes
+
+109K
+
+associated with the aforementioned videos,
+
+including content created by Defendant, such as
+
+video titles, video descriptions, and "hashtags."
+
+110
+
+All comments provided by BitChute associated
+
+Yes
+
+with the aforementioned videos.
+
+110A
+
+All comments posted on the "Kill Your Senators"
+
+Yes
+
+video, which has the identifier
+
+"fdsOKAKBIEaM."
+
+110B
+
+Defendant's posts and immediate context with
+
+Yes
+
+respect to the "Kill Your Senators" video.
+
+(Defendant's identifier is "OQxPUO9NJ8e6").
+
+110C
+
+Two posts Defendant made about videos posted by
+
+Yes
+
+other users.
+
+G3
+
+Screen captures of Defendant's BitChute website.
+
+Yes
+
+G4
+
+Screen captures of Defendant's BitChute website.
+
+Yes
+
+G6
+
+Screen captures of one of Defendant's Facebook
+
+Yes
+
+accounts.
+
+Other Evidence of Defendant's Knowledge of White Supremacist and Anti-Semitic
+
+ 	 
+Propaganda, Beliefs, and Symbols
+
+ 	 
+41A
+
+5/8/2020 text messages
+
+Yes
+
+41B
+
+5/12/2020 text messages
+
+Yes
+
+41C
+
+5/12/2020 text messages
+
+Yes
+
+40D
+
+11/6/2020 text message
+
+Yes
+
+40E
+
+11/6/2020 text message
+
+Yes
+
+40F
+
+1/12/2021 text message
+
+No
+
+150H
+
+8/18/2020 Facebook reply to a comment on a post
+
+No
+
+from 8/16/2020
+
+150I
+
+11/20/2020 Facebook comment
+
+No
+
+150J
+
+11/27/2020 Facebook comment
+
+No
+
+30 / 30T
+
+12/10/2020 Video obtained from Defendant's
+
+Yes
+
+personal computer
+
+50
+
+Dylann Roof's jailhouse manifesto and associated
+
+Yes, in part (see Memorandum
+
+metadata.
+
+& Order)
+
+51
+
+A record of the creation dates of browser cookies
+
+Yes
+
+installed by the website at the domain
+
+"dailystormer.su" on Defendant's cellular
+
+telephone.
+
+52
+
+A record of a file with the name "Protocols of
+
+Yes
+
+Learned Elders of Zion Part 01 of 01.pdf" that was
+
+deleted from Defendant's cellular telephone.
+
+II. Defendant's Proposed Exhibits 6
+DESCRIPTION
+
+PERMITTED?
+
+(Yes / No)
+
+DEFENDANT'S EXHIBIT A (Dkt. 63-1)
+
+ 
+7/4/2020 BitChute Video: "2020 xrayultra update"
+
+Yes
+
+7/4/2020 BitChute Video: "enemies on the left & right"
+
+Yes
+
+10/3/2020 YouTube Video: "is trump part of a (((satanic))) nwo
+
+Yes
+
+noahide plot to destroy amalek!!!.mp4"
+
+12/21/2020 BitChute Video: "What the media won't tell you
+
+Yes
+
+about Jan 6 2021 ...."
+
+As described above, the
+
+Government also seeks to
+
+introduce this video. The
+
+parties are permitted to
+
+introduce this video in fullor to
+
+introduce portions of the video.
+
+12/31/2020 BitChute Video: "I support Trump over Biden... am
+
+Yes
+
+I a zionist shill?"
+
+1/6/2021 BitChute Video: "HORRIFIC: DC Cops Shoot
+
+Yes
+
+Unarmed Patriot Girl Thru Neck in Capitol Building!!"
+
+As described above, the
+
+Government also seeks to
+
+introduce this video. The
+
+parties are permitted to
+
+introduce this video in fullor to
+
+introduce portions of the video.
+
+1/7/2021 BitChute Video: "FIRST BLOOD: Ashli Babbitt
+
+Yes
+
+Murdered as DC Cops Stomp Flags"
+
+1/7/2021 BitChute Video: "RAW VIDEO: Patriots Enter Capitol
+
+Yes
+
+to Demand Representation!"
+
+As described above, the
+
+Government also seeks to
+
+introduce this video. The
+
+parties are permitted to
+
+introduce this video in fullor to
+
+introduce portions of the video.
+
+1/8/2021 BitChute Video: "REVOLT! Four Dead in DC as
+
+Yes
+
+Patriots Swarm Capitol"
+
+As described above, the
+
+Government also seeks to
+
+introduce this video. The
+
+parties are permitted to
+
+introduce this video in fullor to
+
+introduce portions of the video.
+
+1/9/2021 BitChute Video: "CNN: Trump Made Video Only
+
+Yes
+
+Because He Was 'Threatened'"
+
+As described above, the
+
+Government also seeks to
+
+introduce this video. The
+
+parties are permitted to
+
+introduce this video in fullor to
+
+introduce portions of the video.
+
+1/9/2021 BitChute Video: "DC cops LET THEM IN to Capitol,
+
+Yes
+
+pushed man off balcony"
+
+As described above, the
+
+Government also seeks to
+
+introduce this video. The
+
+parties are permitted to
+
+introduce this video in fullor to
+
+introduce portions of the video.
+
+1/10/2021 BitChute Video: "MASS ARRESTS! BOMBS found
+
+Yes
+
+near Capitol, Trump BANNED"
+
+1/13/2021 BitChute Video: "Jacob, Esau, and the END oF
+
+Yes
+
+DAYS !?!?!"
+
+1/14/2021 BitChute Video: "Pelosi's LITERAL Coup +
+
+Yes
+
+PSYOPS officer led Capitol group!!"
+
+1/16/2021 BitChute Video "Trump + 'MyPillow Guy' plot last
+
+Yes
+
+min INSURRECTION ACT !?!"
+
+As described above, the
+
+Government also seeks to
+
+introduce this video. The
+
+parties are permitted to
+
+introduce this video in fullor to
+
+introduce portions of the video.
+
+1/19/2021 BitChute Video: "'Dumb Goy' Guide to Jewish
+
+Yes
+
+Kabbalah — Intro"
+
+DEFENDANT'S EXHIBIT B (Dkt. 63-2)
+
+11/21/2020 Facebook comment
+
+Yes
+
+11/19/2020 Facebook comment
+
+Yes
+
+11/16/2020 Facebook comment
+
+Yes
+
+11/15/2020 Facebook comment
+
+Yes
+
+9/12/2020 Facebook comment 6/10/2020 Facebook comment
+
+Yes
+
+6/10/2020 Facebook comment
+
+Yes
+
+7/23/2020 Facebook comment
+
+Yes
+
+7/3/2020 Facebook comment
+
+Yes
+
+5/2/2020 Facebook comment
+
+Yes
+
+6/5/2020 Facebook comment
+
+Yes
+
+12/31/2020 YouTube comment
+
+Yes
+
+11/24/2020 YouTube comment
+
+Yes
+
+10/10/2020 YouTube comment
+
+Yes
+
+9/26/2020 YouTube comment
+
+Yes
+
+Comments to the 1/8/2021 "Kill Your Senators" video
+
+Yes
+
+4/30/2020 text message 4/27/2020 text messages
+
+Yes
+
+4/27/2020 text messages
+
+Yes
+
+5/8/2020 text messages
+
+Yes
+
+5/10/2020 text messages
+
+Yes
+
+fn	
+1
+
+Though the Indictment contains only a single count alleging a violation of 18 U.S.C. § 115(a)(1)(B) , the Government has confirmed that it will seek to prove at trial that each of the four statements set forth in the Complaint constitutes a threat that violates the statute.
+
+fn	
+2
+
+Appendix 1 summarizes the exhibits submitted by the parties and the Court's rulings on whether each may be introduced at trial, assuming proper foundation is established.
+
+fn	
+3
+
+The parties disagree over whether the "true threat" inquiry also contains a subjective component requiring the speaker to intend to make a threat. (Compare Def.'s MIL, Dkt. 46, at 4-5, with Gov.'s MIL, Dkt. 47, at 4 n.1, and Government's Opposition to Defendants' Motions in Limine ("Gov.'s Opp."), Dkt. 48, at 13 n.2.)
+
+In Virginia v. Black, the Supreme Court invalidated a conviction under a state cross-burning statute where the jury was instructed that the cross-burning, "by itself, [wa]s sufficient evidence from which [it] may infer the required intent" to intimidate. 538 U.S. 343 , 363-64 , 123 S. Ct. 1536 , 155 L. Ed. 2d 535 (2003). "True threats" that are outside the protections of the First Amendment , the Court explained, "encompass those statements where the speaker means to communicate a serious expression of an intent to commit an act of unlawful violence to a particular individual or group of individuals." Id. at 359 (emphasis added) (citing Watts, 394 U.S. at 708 ; R.A.V. v. City of St. Paul, 505 U.S. 377 , 388 , 112 S. Ct. 2538 , 120 L. Ed. 2d 305 (1992)). Similarly, in Elonis v. United States, the Court held that 18 U.S.C. § 875(c) , which "makes it a crime to transmit in interstate commerce 'any communication containing any threat . . . to injure the person of another,'" contains an implicit mens rea requirement that the defendant know "that the communication contains a threat." 575 U.S. 723 , 726 , 734-37 , 135 S. Ct. 2001 , 192 L. Ed. 2d 1 (2015) (quoting 18 U.S.C. § 875(c) ).
+
+The Second Circuit "has yet to address whether the objective test for a true threat has been supplemented with a subjective test by [Black and Elonis], both of which might be read . . . to require that the speaker subjectively intend to communicate a threat or intimidate the threat's recipient." United States v. Wright-Darrisaw, 617 F. App'x 107 , 108 n.2 (2d Cir. 2015) (summary order) (citing, inter alia, Black, 538 U.S. at 359 ; Elonis, 135 S. Ct. at 2012 ); see also Nat'l Coal. on Black Civic Participation v. Wohl, 512 F. Supp. 3d 500 , [2021 BL 50070], 2021 U.S. Dist. LEXIS 27059 , [2021 BL 50070], 2021 WL 480818 , at *9 (S.D.N.Y. 2021) (noting that "it remains unresolved whether 'true threats' must be intended as such" by the defendant). In Turner, the Second Circuit acknowledged the "disagreement . . . among [the] circuits regarding whether Black altered or overruled the traditional objective test for true threats by requiring that the speaker subjectively intend to intimidate the recipient of the threat," but declined to resolve the issue, noting that the outcome in that case "would be the same" because 18 U.S.C. § 115(a)(1)(B) already contains a subjective intent element, and the evidence sufficiently established a true threat "pursuant to both the objective and subjective tests." 720 F.3d at 420 n.4 (citing United States v. Cassel, 408 F.3d 622 , 632-33 (9th Cir. 2005); United States v. Jeffries, 692 F.3d 473 , 479-80 (6th Cir. 2012); United States v. White, 670 F.3d 498 , 508-09 (4th Cir. 2012)).
+
+Defendant argues that though § 115(a)(1)(B) contains a subjective element requiring an intent to impede, intimidate, interfere with, or retaliate against an official with respect to the official's official duties, it is silent, like § 875(c) , "on the required mental state for the threat," and thus a conviction requires a showing that the defendant intended to make the threat. (Def.'s MIL, Dkt. 46, at 5 (emphasis added) (citing Elonis, 575 U.S. at 736 ).) The Government, on the other hand, points out that "[c]ourts have not applied the Elonis subjective-intent standard to [§] 115 ." (Gov.'s MIL, Dkt. 47, at 4 n.1 (citing, inter alia, United States v. Segui, No 19-CR-188 (KAM), [2019 BL 516688], 2019 U.S. Dist. LEXIS 230551 , [2019 BL 516688], 2019 WL 8587291 , at *12 (E.D.N.Y. Dec. 2, 2019)).)
+
+Because, as discussed below, the Court is not going to instruct the jury on what constitutes a "true threat" prior to opening statements, it does not resolve this dispute at this juncture.
+
+fn	
+4
+
+The parties also disagree over whether, in assessing whether a statement constitutes a true threat, the court must ask "whether the threat on its face and in the circumstances in which it is made is so unequivocal, unconditional, immediate and specific as to the person threatened, as to convey a gravity of purpose and imminent prospect of execution[.]" (Def.'s MIL, Dkt. 46, at 4 (internal quotation marks omitted) (quoting N.Y. ex rel. Spitzer v. Operation Rescue Nat'l, 273 F.3d 184 , 196 (2d Cir. 2001)); cf. Gov.'s MIL, Dkt. 47, at 6 n.3 ("The Second Circuit has subsequently made clear that [the 'unequivocal, unconditional, immediate and specific' definition] is not the exclusive definition of 'true threat' and that 'we have still found threats that were both conditional and inexplicit.'" (quoting New York v. Griepp, 991 F.3d 81 , 113 (2d Cir. 2021))).)
+
+The Court does not resolve this issue at this time.
+
+fn	
+5
+
+The Complaint alleges that "'pelosi' is a reference to the Honorable Nancy Pelosi, Speaker of the House of Representatives; the reference to 'aoc' is a reference to Representative Alexandria Ocasio-Cortez, who represents New York's 14th Congressional District in the House of Representatives; and the reference to 'schumer' is a reference to [then-]Senate Minority Leader and New York Senator Charles E. Schumer." (Compl., Dkt. 1, ¶ 4.)
+
+fn	
+6
+
+The Complaint alleges that "ZOG" refers to "Zionist occupied government," an acronym used by white supremacists. (Compl., Dkt. 1, ¶ 7 n.2.)
+
+fn	
+7
+
+The Complaint alleges that this first message, posted under the username @GenFlynn, was written by "former National Security Advisor Michael Flynn, who called on supporters of President Trump to protest [at the U.S. Capitol] on January 6, 2021." (Compl., Dkt. 1, ¶ 10.)
+
+fn	
+8
+
+The Complaint alleges "that 'jan 20' refers to January 20, 2021, the date of the inauguration of President-elect Joseph R. Biden Jr. as President of the United States." (Compl., Dkt. 1, ¶ 10.)
+
+fn	
+9
+
+This evidence is admissible as direct evidence of Defendant's intent under the subjective element of § 115(a)(1)(B) , or as evidence of intent under Rule 404(b) .
+
+Under Rule 404(b) , "[e]vidence of any other crime, wrong, or act . . . may be admissible for [a] purpose[] such as proving motive, opportunity, intent, preparation, plan, knowledge, identity, absence of mistake, or lack of accident." Fed. R. Evid. 404(b) . Courts in the Second Circuit "follow an inclusionary rule, allowing the admission of such evidence for any purpose other than to show a defendant's criminal propensity, as long as the evidence is relevant and satisfies the probative-prejudice balancing test of Rule 403 [.]" United States v. Carboni, 204 F.3d 39 , 44 (2d Cir. 2000) (citation omitted). Further, "Rule 404(b) is not limited to evidence of crimes or wrongs.
+
+By its very terms, Rule 404(b) addresses 'other crimes, wrongs, or acts,'" including sending text messages. See United States v. Scott, 677 F.3d 72 , 78 (2d Cir. 2012) (emphasis in original).
+
+fn	
+10
+
+Defendant may offer rebuttal evidence that he lacked the requisite intent, including all the proposed statements contained in Defense Exhibits A and B. (See Dkts. 63-1, 63-2.) These exhibits are relevant to Defendant's intent in making the alleged threats insofar as they reveal the views that may have motivated his statements. See 18 U.S.C. § 115(a)(1)(B) . The Court notes that the remarks from September 26, 2020, listed in BH-0000008 (Def.'s Ex. B, Dkt. 63-2, at 3), are admissible only to show Defendant's state of mind in making the alleged threats and not for the truth of whether Defendant is "not a liberal or an anarchist," see Fed. R. Evid. 801(d)(2) ; the Court will instruct the jury accordingly if necessary. The Court further notes that Defendant's comment from November 16, 2020, listed in BH-00000009 (Def.'s Ex. B, Dkt. 63-2, at 1), may be relevant to show Defendant's beliefs as to the breadth of his audience and the likelihood that his alleged threats would reach public officials, not for the truth of the matters asserted. See Turner, 720 F.3d at 427 ("The degree to which [the defendant]'s statements were widely read and noted publicly was relevant to whether [he] intended for his threats to reach—and thus to intimidate—[the targets]."). Again, it is not being admitted for its truth, i.e., that Defendant, in fact, had few followers, and the Court will give a limiting instruction as necessary.
+
+fn	
+11
+
+A text message Defendant sent his father on 11/6/2020, at 2:56:35 a.m., stating:
+
+Previous generations were right to be suspicious of immigrants. Look at the mafias that were set up by the jews, italians, and even the irish. New York has been completely taken over by zionist jews who have loyalty to israel not america.
+(Gov. Ex. 40D.)
+fn	
+12
+
+A text message Defendant sent his father on 11/6/2020, at 2:43:58 a.m., stating:
+
+The crime rate soar among second-generation immigrants. They are taking our jobs, our benefits, our birthright, and our culture. They refuse to assimilate, they join gangs and terrorize our citizens, they have no accountability and many if not most of them are actively supporting the overthrow of our president. I don't care if they are "hard-working" they are low IQ mongoloids and they need to go.
+(Gov. Ex. 40E.)
+fn	
+13
+
+The Government shall be permitted to introduce evidence of Defendant's incarceration only if Defendant suggests law enforcement took minimal protective measures after he became incarcerated.
+
+fn	
+14
+
+Because the Court will give any necessary limiting instruction, it rejects the Government's contention that "any possible probative value of evidence about whether [Defendant] intended to carry out his threats would be far outweighed by the risk that such evidence would confuse or mislead the jury[.]" (See Gov.'s MIL, Dkt. 47, at 35.)
+
+fn	
+15
+
+For the reasons stated, to the extent the Government seeks to introduce evidence of Defendant's incarceration as evidence of his violent tendencies, the Court precludes such evidence as irrelevant, likely to confuse the issues, and highly prejudicial. See Fed. R. Evid. 401 , 403 .
+
+fn	
+16
+
+The Court rejects Defendant's argument that the Facebook certification is akin to a report or analysis prepared for litigation and thus testimonial. (See Def.'s Opp., Dkt. 49, at 8.)
+
+That the Facebook certification specifies the particular materials to which it applies does not mean that it is interpreting or even certifying the substance or effect of the records. See Melendez-Diaz, 557 U.S. at 322 . Moreover, although Defendant is correct that the Government may not use a certification to establish chain of custody, "gaps in the chain [of custody] normally go to the weight of the evidence rather than its admissibility." See id. at 311 n.1 (alteration in original) (quoting United States v. Lott, 854 F.2d 244 , 250 (7th Cir. 1988)). "It is up to the prosecution to decide what steps in the chain of custody are so crucial as to require evidence[.]" Id.
+
+fn	
+17
+
+Defendant argues that the Stored Communications Act ("SCA"), 18 U.S.C. § 2701 et seq., limits his ability to subpoena and obtain content from service providers such as Facebook and Google.
+
+[T]he SCA provides that '[a] governmental entity may require' electronic communication service and remote computing service providers to disclose the contents of wire and electronic communication, and records and other information pertaining to a subscriber or customer. . . . The SCA does not, on its face, permit a defendant to obtain such information.
+United States v. Pierce, 785 F.3d 832 , 842 (2d Cir. 2015) (second alteration in original) (citing 18 U.S.C. § 2703 ). Defendant's argument, however, is misplaced and elides the more fundamental issue. If Defendant believes he is missing materials to which he is entitled, he could and should have filed a discovery motion well in advance of trial, rather than attempting to shoehorn the issue into a motion in limine on the unrelated issue of authentication of evidence or Rule 902 certifications. In fact, as the Court expressed several times at oral argument, and has expressed throughout this case, though trial was scheduled within 70 days of indictment based on both parties' expressed readiness and desire to go to trial as soon as possible and Defendant not having filed any pretrial motions, the Court is willing to continue the trial if Defendant believes there are discovery issues that need to be resolved. The Court, however, will not allow discovery issues to be played out or litigated before the jury, or allow the defense to suggest to the jury through purported custodial witnesses that the Government failed to obtain evidence that the defense believes may be material. As stated at oral argument, the Court finds no basis to conclude that the Government has acted improperly in this case, nor is there any basis for an adverse-inference instruction to the jury based on speculation that there exist other materials that the Government should have requested from service providers. Cf. Pierce, 785 F.3d at 842 (rejecting the defendant's "purely speculative" argument that, because of the SCA, he "had no way of knowing whether or not the Facebook records that [he] had . . . were complete" and that "there could have been additional relevant exculpatory material" with respect to the Facebook records). Again, however, if Defendant feels that he has been deprived of relevant or material evidence, the Court will adjourn the trial so that he can properly raise this issue through a pretrial motion.
+fn	
+18
+
+Government Exhibits 22, 22T, 24, 24T, 25, 25T, 26, 26T, 27, 27T, 28, and 28T reflect Defendant's public statements that are also included in Defendant's submission. (Dkt. 63.)
+
+fn	
+19
+
+In support of his argument, Defendant cites the sole reference to "incite" found in the Complaint: "between on or about December 6, 2020, and January 12, 2021, HUNT made a series of posts on various social media websites in which he threatened, or incited others, to murder members of Congress who were engaged in the performance of their official duties and in retaliation for such officials' performance of their official duties." (Compl., Dkt. 1, ¶ 3.) However, the Complaint plainly charged Defendant with making threats, not incitement, in violation of 18 U.S.C. § 115(a)(1)(B) : "On or about and between December 6, 2020, and January 12, 2021, both dates being approximate and inclusive, within the Eastern District of New York and elsewhere, the defendant BRENDAN HUNT, also known as 'X-Ray Ultra,' did knowingly and intentionally threaten to murder a United States official, with intent to impede, intimidate, and interfere with such official while engaged in the performance of official duties, and with intent to retaliate against such official on account of the performance of official duties." ( Id. at 1.) Defendant also cites the bail opposition letter, in which the Government explained, in a footnote, that "the extent to which [Defendant]'s statements may have tended to incite others to violence is relevant in considering the nature of the threats themselves and the danger posed by [Defendant]'s release." (Government's Opposition, Dkt. 31, at 7 n.4.)
+
+fn	
+20
+
+At oral argument, the Court discussed with the parties the possibility of a special verdict form for the jury to indicate which of Defendant's four statements, if any, it finds to be in violation of § 115(a)(1)(B) .
+
+fn	
+21
+
+Citations to "ECF" refer to the pagination generated by the Court's CM/ECF docketing system and not the document's internal pagination.
+
+fn	
+22
+
+Defendant did not raise specific objections to this request, arguing only that the Government did "not adequately describe this category of evidence," or explain why such evidence might confuse the jury or how it would aid individuals plotting attacks against Congress. (Def.'s Opp., Dkt. 49, at 8.) The Court disagrees that the Government failed to adequately describe this category of evidence given the list of "protection specifics" identified in the Government's motion. (Gov.'s MIL, Dkt. 47, at 33.) Ultimately, the Court considers this request largely unopposed in light of Defendant's statement that it "only seeks to cross-examine the government's witnesses on issues relevant to this matter" (Def.'s Opp., Dkt. 49, at 8), and the Court's finding that questions about specific protective procedures are decidedly not relevant.
+
+fn	
+23
+
+"3500 material" refers to "statement[s]" by "any witness called by the United States." 18 U.S.C. § 3500(e) . Such a "statement" includes
+
+(1) a written statement made by said witness and signed or otherwise adopted or approved by him; (2) a stenographic, mechanical, electrical, or other recording, or a transcription thereof, which is a substantially verbatim recital of an oral statement made by said witness and recorded contemporaneously with the making of such oral statement; or (3) a statement, however taken or recorded, or a transcription thereof, if any, made by said witness to a grand jury.
+Id.
+fn	
+1
+
+This is one of the statements identified in the Complaint. (Compl., Dkt. 1, ¶ 4.)
+
+fn	
+2
+
+This is one of the statements identified in the Complaint. (Compl., Dkt. 1, ¶ 5.)
+
+fn	
+3
+
+This includes one of the statements identified in the Complaint. (Compl., Dkt. 1, ¶ 10.)
+
+fn	
+4
+
+This includes one of the statements identified in the Complaint. (Compl., Dkt. 1, ¶ 10.)
+
+fn	
+5
+
+This is one of the statements identified in the Complaint. (Compl., Dkt. 1, ¶ 7.)
+
+fn	
+6
+
+As Defendant did not mark his proposed exhibits, the Court will refer to these unnumbered exhibits by reference to their date, title, and/or description.

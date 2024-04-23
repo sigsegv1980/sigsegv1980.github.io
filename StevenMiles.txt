@@ -1,0 +1,27 @@
+U.S. District Court
+Middle District of Florida (Tampa)
+CRIMINAL DOCKET FOR CASE #: 8:22-mj-01344-AAS All Defendants
+
+1 	Steven Miles 	Complaint 	18:111.F ASSAULTING/RESISTING/IMPEDING OFFICERS/EMPLOYEES, 18:231.F CIVIL DISORDER, 18:1361.F GOVERNMENT PROPERTY OR CONTRACTS > $100, 18:1752.P RESTRICTED BUILDING OR GROUNDS, 40:5104E.M VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS
+
+U.S. District Court
+District of Columbia (Washington, DC)
+CRIMINAL DOCKET FOR CASE #: 1:22-cr-00136-JMC All Defendants
+
+
+1 	STEVEN MILES 	Pending 	18:231(a)(3); CIVIL DISORDER; Civil Disorder (1)
+1 	STEVEN MILES 	Pending 	18:111(a)(1); ASSAULTING/RESISTING/IMPEDING OFFICERS/EMPLOYEES; Assaulting, Resisting, or Impeding Certain Officers (2)
+1 	STEVEN MILES 	Pending 	18:1361; GOVERNMENT PROPERTY OR CONTRACTS (>1000); Destruction of Government Property (3)
+1 	STEVEN MILES 	Pending 	18:1752(a)(1); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds (4)
+1 	STEVEN MILES 	Pending 	18:1752(a)(2); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds (5)
+1 	STEVEN MILES 	Pending 	18:1752(a)(4) and (b)(1)(A); TEMPORARY RESIDENCE OF THE PRESIDENT; Physical Violence in a Restricted Building or Grounds with a Deadly or Dangerous Weapon (6)
+1 	STEVEN MILES 	Pending 	40:5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Building (7)
+1 	STEVEN MILES 	Pending 	40:5104(e)(2)(F); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Act of Physical Violence in the Capitol Grounds or Buildings (8)
+1 	STEVEN MILES 	Pending 	40:5104(e)(2)(G); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Parading, Demonstrating, or Picketing in a Capitol Building (9)
+1 	STEVEN MILES 	Complaint 	COMPLAINT in Violation of 18:111(a)(1), 18:231(a)(3), 18:1361, 18:1752(a)(1) and (b)(1)(A), 18:1752(a)(2) and (b)(1)(A), 18:1752(a)(4) and (b)(1)(A), 40:5104(e)(2)(D), 40:5104(e)(2)(F) and 40:5104(e)(2)(G)
+2 	MATTHEW LEBRUN 	Pending 	18:1752(a)(1); TEMPORARY RESIDENCE OF THE PRESIDENT; Entering and Remaining in a Restricted Building or Grounds (4)
+2 	MATTHEW LEBRUN 	Pending 	18:1752(a)(2); TEMPORARY RESIDENCE OF THE PRESIDENT; Disorderly and Disruptive Conduct in a Restricted Building or Grounds (5)
+2 	MATTHEW LEBRUN 	Pending 	40:5104(e)(2)(D); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Disorderly Conduct in a Capitol Building (7)
+2 	MATTHEW LEBRUN 	Pending 	40:5104(e)(2)(G); VIOLENT ENTRY AND DISORDERLY CONDUCT ON CAPITOL GROUNDS; Parading, Demonstrating, or Picketing in a Capitol Building (9)
+2 	MATTHEW LEBRUN 	Complaint 	COMPLAINT in Violation of 18:1752(a)(1, 18:1752(a)(2), 40:5104(e)(2)(D) and 40:5104(e)(2)(F)(G)
+
