@@ -1800,6 +1800,9 @@
             "verdict": "guilty",
          }
       ],
+      "affiliations": [
+         "proud boys",
+      ],
       "sentence": [
          {
             "duration": "60 months",
@@ -11229,7 +11232,7 @@
             "code": "18:1752(a)(2)"
          },
          {
-            "code": "18:111(a)"
+            "code": "18:111(a)(1)"
          },
          {
             "code": "18:231(a)(3)"
@@ -26484,6 +26487,9 @@
          {
             "code": "40:5104(e)(2)(G)"
          },
+      ],
+      "affiliations": [
+         "proud boys",
       ],
       "sentence": [
          {
