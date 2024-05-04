@@ -519,6 +519,54 @@
          "2:21-mj-01126"
       ]
    },
+   "albuquerque head": {
+      "charges": [
+         {
+            "code": "18:1512(c)(2)"
+         },
+         {
+            "code": "18:2"
+         },
+         {
+            "code": "18:231(a)(3)"
+         },
+         {
+            "code": "18:111(a)(1)",
+            "verdict": "guilty",
+         },
+         {
+            "code": "18:1752(a)(1)"
+         },
+         {
+            "code": "18:1752(a)(2)"
+         },
+         {
+            "code": "18:1752(a)(3)"
+         },
+         {
+            "code": "18:1752(a)(4)"
+         },
+         {
+            "code": "40:5104(e)(2)(E)"
+         },
+         {
+            "code": "40:5104(e)(2)(F)"
+         },
+      ],
+      "sentence": [
+         {
+            "duration": "90 months",
+            "type": "imprisonment"
+         }
+      ],
+      "info": {
+         "sex": "m",
+         "race": "w",
+      },
+      "dockets": [
+         "1:21-cr-00291",
+      ]
+   },
    "alex kirk harkrider": {
       "charges": [
          {
@@ -5738,6 +5786,62 @@
          "1:21-cr-00181"
       ]
    },
+   "daniel rodriguez": {
+      "charges": [
+         {
+            "code": "18:371",
+            "verdict": "guilty"
+         },          
+         {
+            "code": "18:1512(c)(2)",
+            "verdict": "guilty"
+         },
+         {
+            "code": "18:2",
+            "verdict": "guilty"
+         },
+         {
+            "code": "18:1512(c)(1)",
+            "verdict": "guilty"
+         },                   
+         {
+            "code": "18:231(a)(3)",
+         },
+         {
+            "code": "18:111(a)(1)",
+            "verdict": "guilty"
+         },
+         {
+            "code": "18:111(b)",
+            "verdict": "guilty"
+         },
+         {
+            "code": "18:641",
+         },
+         {
+            "code": "18:1361",
+         },
+         {
+            "code": "18:1752(a)(1)",
+         },
+         {
+            "code": "18:1752(b)(1)(A)",
+         },                                 
+      ],
+      "info": {
+         "sex": "m",
+         "race": "h"
+      },
+      "sentence": [
+         {
+            "duration": "151 months",
+            "type": "imprisonment"
+         }
+      ],      
+      "dockets": [
+         "1:21-cr-00246"
+      ]        
+   },
    "daniel scott": {
       "charges": [
          {
@@ -7206,7 +7310,8 @@
             "verdict": "guilty",
          },
          {
-            "code": "18:111(a)(1)"
+            "code": "18:111(a)(1)",
+            "verdict": "guilty",
          },
          {
             "code": "18:1752(a)(1)"
@@ -7713,6 +7818,46 @@
       },
       "dockets": [
          "1:21-cr-00115"
+      ]
+   },
+   "edward badalian": {
+      "charges": [
+         {
+            "code": "18:371",
+            "verdict": "guilty",
+         },
+         {
+            "code": "18:1512(c)(2)",
+            "verdict": "guilty",
+         },
+         {
+            "code": "18:2",
+            "verdict": "guilty",
+         },
+         {
+            "code": "18:1512(c)(1)"
+         },
+         {
+            "code": "18:1752(a)(1)",
+            "verdict": "guilty",
+         },
+         {
+            "code": "18:1752(b)(1)(A)",
+            "verdict": "guilty",
+         },
+      ],
+      "sentence": [
+         {
+            "duration": "51 months",
+            "type": "imprisonment"
+         },
+      ],
+      "info": {
+         "sex": "m",
+         "race": "w",
+      },
+      "dockets": [
+         "1:21-cr-00246"
       ]
    },
    "edward e hemenway": {
@@ -15773,6 +15918,53 @@
          "1:21-mj-00613"
       ]
    },
+   "justin jersey": {
+      "charges": [
+         {
+            "code": "18:111(a)(1)",
+            "verdict": "guilty",
+         },
+         {
+            "code": "18:111(b)",
+            "verdict": "guilty",
+         },
+         {
+            "code": "18:2",
+            "verdict": "guilty",
+         },
+         {
+            "code": "18:231(a)(3)"
+         },
+         {
+            "code": "18:1752(a)(1)"
+         },
+         {
+            "code": "18:1752(b)(1)(A)"
+         },
+         {
+            "code": "18:1752(a)(2)"
+         },
+         {
+            "code": "18:1752(a)(4)"
+         },
+         {
+            "code": "40:5104(e)(2)(F)"
+         },
+      ],
+      "sentence": [
+         {
+            "duration": "51 months",
+            "type": "imprisonment"
+         },
+      ],
+      "info": {
+         "sex": "m",
+         "race": "w",
+      },
+      "dockets": [
+         "1:21-cr-00035",
+      ]
+   },
    "justin mcauliffe": {
       "charges": [
          {
@@ -18307,6 +18499,31 @@
       },
       "dockets": [
          "1:21-cr-00702"
+      ]
+   },
+   "lucas denney": {
+      "charges": [
+         {
+            "code": "18:111(a)(1)",
+            "verdict": "guilty",
+         },
+         {
+            "code": "18:111(b)",
+            "verdict": "guilty",
+         },
+      ],
+      "sentence": [
+         {
+            "duration": "52 months",
+            "type": "imprisonment"
+         }
+      ],
+      "info": {
+         "sex": "m",
+         "race": "w",
+      },
+      "dockets": [
+         "1:22-cr-00070",
       ]
    },
    "luis hallon": {
