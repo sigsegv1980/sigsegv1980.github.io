@@ -7929,7 +7929,7 @@
       ],
       "info": {
          "sex": "m",
-         "race": "w",
+         "race": "h",
       },
       "dockets": [
          "1:21-cr-00483"
@@ -19808,52 +19808,6 @@
          "1:21-cr-00054"
       ]
    },
-   "matthew christian manley": {
-      "charges": [
-         {
-            "code": "18:231(a)(3)"
-         },
-         {
-            "code": "18:111(a)(1)",
-            "verdict": "guilty",
-         },
-         {
-            "code": "18:111(b)",
-            "verdict": "guilty",
-         },
-         {
-            "code": "18:1752(a)(1)"
-         },
-         {
-            "code": "18:1752(b)(1)(A)"
-         },
-         {
-            "code": "18:1752(a)(2)"
-         },
-         {
-            "code": "18:1752(a)(4)"
-         },
-         {
-            "code": "40:5104(e)(2)(D)"
-         },
-         {
-            "code": "40:5104(e)(2)(F)"
-         }
-      ],
-      "sentence": [
-         {
-            "duration": "50 months",
-            "type": "imprisonment"
-         },
-      ],
-      "info": {
-         "sex": "m",
-         "race": "w",
-      },
-      "dockets": [
-         "3:21-mj-00533"
-      ]
-   },
    "matthew clark": {
       "charges": [
          {
@@ -29466,6 +29420,9 @@
             "duration": "42 months",
             "type": "imprisonment"
          }
+      ],
+      "affiliations": [
+         "proud boys",
       ],
       "info": {
          "sex": "m",
