@@ -4780,6 +4780,37 @@
          "1:21-cr-00657",
       ]
    },
+   "cody lee tippett": {
+      "charges": [
+         {
+            "code": "18:1752(a)(1)"
+         },
+         {
+            "code": "18:1752(a)(2)"
+         },
+         {
+            "code": "40:5104(e)(2)(D)",
+            "verdict": "guilty"
+         },
+         {
+            "code": "40:5104(e)(2)(G)",
+            "verdict": "guilty"
+         }
+      ],
+      "sentence": [
+         {
+            "duration": "30 days",
+            "type": "imprisonment"
+         }
+      ],
+      "info": {
+         "sex": "m",
+         "race": "w",
+      },
+      "dockets": [
+         "1:23-cr-00337"
+      ]
+   },
    "cody page carter connell": {
       "charges": [
          {
@@ -6796,6 +6827,36 @@
          "1:21-cr-00289"
       ]
    },
+   "dennis george adams": {
+      "charges": [
+         {
+            "code": "18:1752(a)(1)",
+            "verdict": "guilty",
+         },
+         {
+            "code": "18:1752(a)(2)",
+         },
+         {
+            "code": "40:5104(e)(2)(D)"
+         },
+         {
+            "code": "40:5104(e)(2)(G)"
+         }
+      ],
+      "sentence": [
+         {
+            "duration": "45 days",
+            "type": "imprisonment"
+         },
+      ],
+      "info": {
+         "sex": "m",
+         "race": "w",
+      },
+      "dockets": [
+         "1:23-cr-00396",
+      ]
+   },
    "dennis sidorski": {
       "charges": [
          {
@@ -7703,6 +7764,29 @@
       "dockets": [
          "1:21-cr-00345",
          "1:21-mj-00370"
+      ]
+   },
+   "dustin adams": {
+      "charges": [
+         {
+            "code": "18:1752(a)(1)",
+         },
+         {
+            "code": "18:1752(a)(2)"
+         },
+         {
+            "code": "40:5104(e)(2)(D)"
+         },
+         {
+            "code": "40:5104(e)(2)(G)"
+         },
+      ],
+      "info": {
+         "sex": "m",
+         "race": "w",
+      },
+      "dockets": [
+         "1:23-cr-00326",
       ]
    },
    "dustin byron thompson": {
@@ -11550,6 +11634,27 @@
       "dockets": [
          "1:21-cr-00657",
          "5:21-mj-01978"
+      ]
+   },
+   "james ray epps": {
+      "charges": [
+         {
+            "code": "18:1752(a)(2)",
+            "verdict": "guilty",
+         },
+      ],
+      "info": {
+         "sex": "m",
+         "race": "w",
+      },
+      "sentence": [
+         {
+            "duration": "12 months",
+            "type": "probation"
+         }
+      ],
+      "dockets": [
+         "1:23-cr-00321",
       ]
    },
    "james robert elliott": {
@@ -16137,6 +16242,29 @@
          "1:21-cr-00071"
       ]
    },
+   "karla adams": {
+      "charges": [
+         {
+            "code": "18:1752(a)(1)",
+         },
+         {
+            "code": "18:1752(a)(2)"
+         },
+         {
+            "code": "40:5104(e)(2)(D)"
+         },
+         {
+            "code": "40:5104(e)(2)(G)"
+         },
+      ],
+      "info": {
+         "sex": "f",
+         "race": "w",
+      },
+      "dockets": [
+         "1:23-cr-00326",
+      ]
+   },
    "karol j chwiesiuk": {
       "charges": [
          {
@@ -16533,6 +16661,49 @@
       "dockets": [
          "1:22-cr-00045",
          "3:22-mj-70069"
+      ]
+   },
+   "kenneth bonawitz": {
+      "charges": [
+         {
+            "code": "18:231(a)(3)",
+            "verdict": "guilty",
+         },
+         {
+            "code": "18:111(a)(1)",
+            "verdict": "guilty",
+         },
+         {
+            "code": "18:1752(a)(1)"
+         },
+         {
+            "code": "18:1752(b)(1)(A)"
+         },
+         {
+            "code": "18:1752(a)(2)"
+         },
+         {
+            "code": "18:1752(a)(4)"
+         },
+         {
+            "code": "40:5104(e)(2)(F)",
+         },
+      ],
+      "affiliations": [
+         "proud boys",
+      ],
+      "sentence": [
+         {
+            "duration": "60 months",
+            "type": "imprisonment",
+         },
+      ],
+      "info": {
+         "sex": "m",
+         "race": "w",
+      },
+      "dockets": [
+         "1:23-cr-00055",
       ]
    },
    "kenneth farrel kelly": {
@@ -21809,6 +21980,37 @@
       "dockets": [
          "1:21-cr-00088",
          "1:21-cr-00090"
+      ]
+   },
+   "nhi ngoc mai le": {
+      "charges": [
+         {
+            "code": "18:1752(a)(1)"
+         },
+         {
+            "code": "18:1752(a)(2)"
+         },
+         {
+            "code": "40:5104(e)(2)(D)",
+            "verdict": "guilty",
+         },
+         {
+            "code": "40:5104(e)(2)(G)",
+            "verdict": "guilty",
+         },
+      ],
+      "sentence": [
+         {
+            "duration": "10 days",
+            "type": "imprisonment"
+         },
+      ],
+      "info": {
+         "sex": "f",
+         "race": "a",
+      },
+      "dockets": [
+         "1:23-cr-00317",
       ]
    },
    "nicholas burton reimler": {
