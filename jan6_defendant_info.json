@@ -25293,7 +25293,8 @@
    "russell taylor": {
       "charges": [
          {
-            "code": "18:1512(k)"
+            "code": "18:1512(k)",
+            "verdict": "guilty",
          },
          {
             "code": "18:1512(c)(2)"
@@ -25319,6 +25320,12 @@
       ],
       "affiliations": [
           "three percenters",
+      ],
+      "sentence": [
+         {
+            "duration": "36 months",
+            "type": "probation"
+         }
       ],
       "info": {
          "sex": "m",
