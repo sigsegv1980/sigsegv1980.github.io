@@ -7977,7 +7977,8 @@
    "edward francisco rodriguez": {
       "charges": [
          {
-            "code": "18:111(a)(1)"
+            "code": "18:111(a)(1)",
+            "verdict": "guilty",
          },
          {
             "code": "18:111(b)",
@@ -9593,7 +9594,8 @@
    "geoffrey william sills": {
       "charges": [
          {
-            "code": "18:111(a)(1)"
+            "code": "18:111(a)(1)",
+            "verdict": "guilty",
          },
          {
             "code": "18:111(b)",
@@ -23199,7 +23201,8 @@
             "code": "18:1512(c)(2)"
          },
          {
-            "code": "18:111(a)(1)"
+            "code": "18:111(a)(1)",
+            "verdict": "guilty"
          },
          {
             "code": "18:111(b)",
