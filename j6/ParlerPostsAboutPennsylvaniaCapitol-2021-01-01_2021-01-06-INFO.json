@@ -1,0 +1,26 @@
+{
+   "file": "ParlerPostsAboutPennsylvaniaCapitol-2021-01-01_2021-01-06.ndjson",
+   "start_date": "2021-01-01 00:02:17 UTC",
+   "end_date": "2021-01-06 23:59:09 UTC",
+   "total_post_count": 3730,
+   "total_impression_count": 26181407,
+   "average_impression_count": 7019.14,
+   "average_post_count_per_day": 621.67,
+   "average_impression_count_per_day": 4363567.83,
+   "post_counts_by_date": {
+      "2021-01-01": 451,
+      "2021-01-02": 399,
+      "2021-01-03": 566,
+      "2021-01-04": 991,
+      "2021-01-05": 578,
+      "2021-01-06": 745
+   },
+   "impression_counts_by_date": {
+      "2021-01-01": 3125897,
+      "2021-01-02": 3379453,
+      "2021-01-03": 3069175,
+      "2021-01-04": 3462863,
+      "2021-01-05": 1436739,
+      "2021-01-06": 11707280
+   }
+}
