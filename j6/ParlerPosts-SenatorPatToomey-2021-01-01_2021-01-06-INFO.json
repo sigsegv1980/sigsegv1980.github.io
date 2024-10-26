@@ -1,0 +1,26 @@
+{
+   "file": "ParlerPosts-SenatorPatToomey-2021-01-01_2021-01-06.ndjson",
+   "start_date": "2021-01-01 00:18:54 UTC",
+   "end_date": "2021-01-06 23:34:25 UTC",
+   "total_post_count": 1072,
+   "total_impression_count": 535239081,
+   "average_impression_count": 499290.19,
+   "average_post_count_per_day": 178.67,
+   "average_impression_count_per_day": 89206513.5,
+   "post_counts_by_date": {
+      "2021-01-01": 9,
+      "2021-01-02": 210,
+      "2021-01-03": 658,
+      "2021-01-04": 141,
+      "2021-01-05": 32,
+      "2021-01-06": 22
+   },
+   "impression_counts_by_date": {
+      "2021-01-01": 968,
+      "2021-01-02": 318549869,
+      "2021-01-03": 208459598,
+      "2021-01-04": 8065487,
+      "2021-01-05": 150436,
+      "2021-01-06": 12723
+   }
+}
