@@ -290,6 +290,12 @@
             padding-bottom: 1em;
             line-height: 140%;
         }
+        .table-row {
+            display: flex;
+        }
+        .table-column {
+            flex: 50%;
+        }
     </style>
 </head>
 <body>
@@ -366,7 +372,7 @@
     </div>
     <br><br>
     <div class = 'evidence'>
-        <h2>Summary Of The Evidence (so you can reach your own conclusion)</h2>
+        <h2>Sources Of Evidence (so you can reach your own conclusion)</h2>
         <br>
         The prosecution's evidence mostly centered around Telegram and Parler messages from the defendants, particularly the Telegram messages
         from private chat groups affiliated with a chapter of the <b>Proud Boys</b> called <b><i>“The Ministry of Self Defense” (MOSD)</b></i>. As an organization,
@@ -381,70 +387,75 @@
         Most of the relevant evidence is available publicly. Some of it can be found in
         the <b>Government Exhibits</b> filed electronically with <a href="https://pacer.uscourts.gov/"><b>PACER</b></a>, which I have organized into  
         separate PDF files for each Telegram group (linked below). The
-        Telegram evidence from Government Exhibits only includes excerpts selected by the prosecution which omit most of the surrounding context.
-        Fortunately, we also have a more complete record of some Telegram chats thanks to 
+        Telegram evidence from Government Exhibits usually consists of excerpts selected by the prosecution that omit most of the surrounding context.
+        Fortunately, we also have a more complete record of some Telegram groups thanks to 
         <a href="https://web.archive.org/web/20220827161137/https://t.me/helpstophate/5468"><b><i>leaked documents</i></b></a> (authenticated
         by the <a href="https://web.archive.org/web/20220708221152/https://www.seattletimes.com/seattle-news/times-watchdog/seattle-proud-boy-reveals-he-was-in-chapter-alleged-to-have-planned-jan-6-insurrection/">Seattle Times</a>) containing
         the Telegram chat history recovered by the FBI using forensic software called <a href="https://cellebrite.com/en/home/"><b>Cellebrite</b></a>. Finally, 
-        I have also <i>personally</i> recovered 
+        I have also personally recovered 
         a nearly complete chat history of one of the private <b>MOSD</b> chat groups (<a href="https://sigsegv1980.github.io/j6/ProudBoys-ExportedTelegramChatMOSDOp/messages.html"><b>MOSD Ops</b></a>) 
         from Telegram directly.
         <br><br>
-        <h3>Telegram Evidence from Government Exhibits:</h3>
-        <div class = 'evidence-block'>
-            <h4>MOSD Private Telegram Chat Groups:</h4>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDProspectsSmall.pdf">MOSD Prospects</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDChat-2020-12-20_2021-1-4.pdf">MOSD Leadership Chat</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-Main-2020-12-27_2021-1-4.pdf">MOSD Main (for regular members and leadership)</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD_Op-2020-12-31_2020-1-4.pdf">MOSD Ops</a><br>
-            <br>
-            <h4>MOSD Private Telegram Chat Groups created on January 4, 2021, after Enrique Tarrio was arrested:</h4>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-NewMOSD-2021-1-4_2021-1-13.pdf">New MOSD (Replaced MOSD Leadership Chat)</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN2-2021-1-4_2021-1-5.pdf">MOSD Main 2 (Replaced MOSD Main)</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-BootsOnTheGroundChat.pdf">Boots on the Ground</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDLeaders-Jan9-Chat.pdf">MOSD Leaders (Post Jan 6 discussion)</a><br>
-            <br>
-            <h4>Misc. Private Telegram Chat Groups involving the defendants:</h4>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-SkullAndBonesChat-2020-9-29_2021-1-4.pdf">Skull And Bones</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-EastCoastRallyCommandChat.pdf">East Coast Rally Command</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-OfficialPresidentsChat-2020-8-7_2020-12-31.pdf">Official Presidents Chat</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-OperationDCStreetSweepers-2020-12-19_2020-12-26.pdf">Operation DC Street Sweepers</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-Telegram-FloridaPoorBoysStateChat.pdf">Florida Poor Boys State Chat</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-CroquetaWarsTelegramChat.pdf">Croqueta Wars Chat</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ReconstructionOfStateHeadLeadershipChat.pdf">State Head Leadership Chat</a><br>
-            <br>
-            <h4>Private DMs, Group Chats or Text Messages:</h4>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-TarrioDMsAndGroupChats-2020-12-19_2021-1-4.pdf">Enrique Tarrio Private DMs and Group Chats</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-ZacharyRehlTextMessages.pdf">Zachary Rehl Private DMs and Group Chats</a><br>
+        <div class="table-row">
+            <div class="table-column">
+                <h3>Telegram Evidence from Government Exhibits:</h3>
+                <div class = 'evidence-block'>
+                    <h4>MOSD Private Telegram Chat Groups:</h4>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDProspectsSmall.pdf">MOSD Prospects</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDChat-2020-12-20_2021-1-4.pdf">MOSD Leadership Chat</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-Main-2020-12-27_2021-1-4.pdf">MOSD Main (for regular members and leadership)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD_Op-2020-12-31_2020-1-4.pdf">MOSD Ops</a><br>
+                    <br>
+                    <h4>MOSD Private Telegram Chat Groups created after Enrique Tarrio was arrested on January 4, 2021:</h4>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-NewMOSD-2021-1-4_2021-1-13.pdf">New MOSD (Replaced MOSD Leadership Chat)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN2-2021-1-4_2021-1-5.pdf">MOSD Main 2 (Replaced MOSD Main)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-BootsOnTheGroundChat.pdf">Boots on the Ground</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDLeaders-Jan9-Chat.pdf">MOSD Leaders (Post Jan 6 discussion)</a><br>
+                    <br>
+                    <h4>Misc. Private Telegram Chat Groups involving the defendants:</h4>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-SkullAndBonesChat-2020-9-29_2021-1-4.pdf">Skull And Bones</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-EastCoastRallyCommandChat.pdf">East Coast Rally Command</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-OfficialPresidentsChat-2020-8-7_2020-12-31.pdf">Official Presidents Chat</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-OperationDCStreetSweepers-2020-12-19_2020-12-26.pdf">Operation DC Street Sweepers</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-Telegram-FloridaPoorBoysStateChat.pdf">Florida Poor Boys State Chat</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-CroquetaWarsTelegramChat.pdf">Croqueta Wars Chat</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ReconstructionOfStateHeadLeadershipChat.pdf">State Head Leadership Chat</a><br>
+                    <br>
+                    <h4>Private DMs, Group Chats or Text Messages:</h4>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-TarrioDMsAndGroupChats-2020-12-19_2021-1-4.pdf">Enrique Tarrio Private DMs and Group Chats</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-ZacharyRehlTextMessages.pdf">Zachary Rehl Private DMs and Group Chats</a><br>
+                </div>
+            </div>
+            <div class="table-column" style = "margin-left:1em;">
+                <h3>Leaked Telegram Chat Histories recovered by FBI using Cellebrite:</h3>
+                <div class = 'evidence-block'>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf"><b>MOSD Main</b> Full Chat History (12/27/2020 — 1/1/2021)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-Ops-FullChatMessages-CelebriteExtraction.pdf"><b>MOSD Ops</b> Full Chat History (1/1/2021 — 1/4/2021)</a><br>
+                </div>
+                <h3>Telegram Chat Histories recovered from Telegram directly by author of this webpage:</h3>
+                <div class = 'evidence-block'>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-ExportedTelegramChatMOSDOp/messages.html"><b>MOSD Ops</b> — Full chat history and attached media</b></a><br>
+                </div>
+                <h3>Parler Evidence:</h3>
+                <div class = 'evidence-block'>
+                    <h4>Archived Parler Data Sources:</h4>
+                    <a href="https://doi.org/10.5281/zenodo.4442460"><b>Zenodo Parler Database</b></a> (dataset of over 98 million Parler posts)<br>
+                    <a href="https://web.archive.org/web/20210120012549/https://ddosecrets.com/images/d/de/Parler_2020-01-06_posts-partial.torrent">DDO Secrets scraped Parler data</a><br>
+                    <br>
+                    <h4>Reconstructed Parler Posting Histories:</h4>
+                    <a href="https://sigsegv1980.github.io/j6/ZenodoParlerDump-NobleLeadPosts-2020.html">Reconstructed Parler Posts from <b>Enrique Tarrio</b> (<b>@NobleLead</b>)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ParlerPostsFromEthanNordean-Rufio.html">Reconstructed Parler Posts from <b>Ethan Nordean</b> (<b>@REBELRUFIO</b>)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ParlerDump-PostsFromJoeBiggs.html">Reconstructed Parler Posts from <b>Joseph Biggs</b> (<b>@JoeBiggs</b>)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ParlerDump-TheProudBoys.html">Reconstructed Parler Posts from <b>@TheProudBoys</b></a><br>
+                </div>
+                <h3>Video Evidence:</h3>
+                <div class = 'evidence-block'>
+                    <a href="https://www.youtube.com/watch?v=9HY3IVStIJc">MOSD Leadership Zoom Call (12/30/2020)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-2020-12-30-MOSDZoomMeetingTranscript.pdf">MOSD Leadership Zoom Call Transcript</a><br>
+                    <a href="https://www.youtube.com/watch?v=oSOsG5kN5wc">Jan 6 Livestream — March of the Proud Boys</a><br>
+                </div>
+            </div>
         </div>
-        <h3>Leaked Telegram Chat Histories recovered by FBI using Cellebrite:</h3>
-        <div class = 'evidence-block'>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf"><b>MOSD Main</b> Full Chat History (12/27/2020 — 1/1/2021)</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-Ops-FullChatMessages-CelebriteExtraction.pdf"><b>MOSD Ops</b> Full Chat History (1/1/2021 — 1/4/2021)</a><br>
-        </div>
-        <h3>Telegram Chat Histories recovered from Telegram directly by author of this webpage:</h3>
-        <div class = 'evidence-block'>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-ExportedTelegramChatMOSDOp/messages.html"><b>MOSD Ops</b> — Full chat history and attached media</b></a><br>
-        </div>
-        <h3>Parler Evidence:</h3>
-        <div class = 'evidence-block'>
-            <h4>Archived Parler Data Sources:</h4>
-            <a href="https://doi.org/10.5281/zenodo.4442460"><b>Zenodo Parler Database</b></a> (dataset of over 98 million Parler posts)<br>
-            <a href="https://web.archive.org/web/20210120012549/https://ddosecrets.com/images/d/de/Parler_2020-01-06_posts-partial.torrent">DDO Secrets scraped Parler data</a><br>
-            <br>
-            <h4>Reconstructed Parler Posting Histories:</h4>
-            <a href="https://sigsegv1980.github.io/j6/ZenodoParlerDump-NobleLeadPosts-2020.html">Reconstructed Parler Posts from <b>Enrique Tarrio</b> (<b>@NobleLead</b>)</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ParlerPostsFromEthanNordean-Rufio.html">Reconstructed Parler Posts from <b>Ethan Nordean</b> (<b>@REBELRUFIO</b>)</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ParlerDump-PostsFromJoeBiggs.html">Reconstructed Parler Posts from <b>Joseph Biggs</b> (<b>@JoeBiggs</b>)</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ParlerDump-TheProudBoys.html">Reconstructed Parler Posts from <b>@TheProudBoys</b></a><br>
-        </div>
-        <h3>Video Evidence:</h3>
-        <div class = 'evidence-block'>
-            <a href="https://www.youtube.com/watch?v=9HY3IVStIJc">MOSD Leadership Zoom Call (12/30/2020)</a><br>
-            <a href="https://sigsegv1980.github.io/j6/ProudBoys-2020-12-30-MOSDZoomMeetingTranscript.pdf">MOSD Leadership Zoom Call Transcript</a><br>
-            <a href="https://www.youtube.com/watch?v=oSOsG5kN5wc">Jan 6 Livestream — March of the Proud Boys</a><br>
-        </div>
-
     </div>
     <br><br>
     <div class = 'legend'>

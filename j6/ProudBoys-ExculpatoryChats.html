@@ -217,6 +217,17 @@
             color: #000;
             margin-bottom: 0.5em;
         }
+        .quoted-message {
+            padding-top: 0.5em;
+            padding-left: 0.5em;
+            padding-right: 0.5em;
+            padding-bottom: 0.2em;
+            margin-bottom: 1em;
+            background-color: #80d46c;
+            border-radius: 10px;
+            font-weight: bold;
+            color: #d7691b;
+        }
         .timestamp {
             font-weight: normal;
             text-align: right;
@@ -290,6 +301,72 @@
             padding-bottom: 1em;
             line-height: 140%;
         }
+        .bracket-text {
+            color: #2c3e50;
+        }
+
+        .video_play_bg {
+            background: rgba(0, 0, 0, .4);
+            width: 80px;
+            height: 80px;
+            line-height: 0;
+            position: absolute;
+            z-index: 2;
+            border-radius: 50%;
+            overflow: hidden;
+            margin: -40px auto 0 -40px;
+            top: 50%;
+            left: 50%;
+            pointer-events: none;
+        }
+        .video_play {
+            position: absolute;
+            display: inline-block;
+            top: 50%;
+            left: 50%;
+            margin-left: -10px;
+            margin-top: -18px;
+            z-index: 1;
+            width: 0;
+            height: 0;
+            border-style: solid;
+            border-width: 18px 0 18px 28px;
+            border-color: transparent transparent transparent #fff;
+        }
+        .video_duration {
+            background: rgba(0, 0, 0, .4);
+            padding: 0px 5px;
+            position: absolute;
+            z-index: 2;
+            border-radius: 2px;
+            right: 3px;
+            bottom: 3px;
+            color: #ffffff;
+            font-size: 14px;
+        }
+        .video_file_wrap {
+            position: relative;
+        }
+        .clearfix:after {
+            content: " ";
+            visibility: hidden;
+            display: block;
+            height: 0;
+            clear: both;
+        }
+        .pull_left {
+            float: left;
+        }
+        .media_wrap {
+            padding-bottom: 5px;
+        }
+
+        .table-row {
+            display: flex;
+        }
+        .table-column {
+            flex: 50%;
+        }
     </style>
 </head>
 <body>
@@ -336,6 +413,96 @@
         <br><br>
     </div>
     <br><br>
+    <div class = 'evidence'>
+        <h2>Sources Of Evidence (so you can reach your own conclusion)</h2>
+        <br>
+        The trial evidence mostly centered around Telegram and Parler messages from the defendants, particularly the Telegram messages
+        from private group chats affiliated with a chapter of the <b>Proud Boys</b> called <b><i>“The Ministry of Self Defense” (MOSD)</b></i>. As an organization,
+        the <b>Proud Boys</b> (<a href="https://sigsegv1980.github.io/j6/ProudBoysConstitutionAndBylaws.pdf">Proud Boys International, L.L.C.</a>)
+        were divided into several <a href="https://web.archive.org/web/20201126161545/https://proudboysusa.com/chapters/">autonomous regional chapters</a>, 
+        loosely governed by Chairman <b>Enrique Tarrio</b>. In December of 2020,
+        <b>Enrique Tarrio</b> created <b>“The Ministry of Self Defense”</b> as a new, <i>national-level</i> chapter 
+        for organizing national events. The prosecution argued that <b>Tarrio</b> established the <b>MOSD</b> chapter specifically for the purpose
+        of planning the January 6 insurrection. Therefore, the majority of the prosecution's
+        evidence consists of messages pulled from multiple private Telegram chat groups affiliated with the <b>MOSD</b> chapter of the Proud Boys.
+        <br><br>
+        Most of the relevant evidence is available publicly. Some of it can be found in
+        the <b>Government Exhibits</b> filed electronically with <a href="https://pacer.uscourts.gov/"><b>PACER</b></a>, which I have organized into  
+        separate PDF files for each Telegram group (linked below). The
+        Telegram evidence from Government Exhibits usually consists of excerpts selected by the prosecution that omit most of the surrounding context.
+        Fortunately, we also have a more complete record of some Telegram groups thanks to 
+        <a href="https://web.archive.org/web/20220827161137/https://t.me/helpstophate/5468"><b><i>leaked documents</i></b></a> (authenticated
+        by the <a href="https://web.archive.org/web/20220708221152/https://www.seattletimes.com/seattle-news/times-watchdog/seattle-proud-boy-reveals-he-was-in-chapter-alleged-to-have-planned-jan-6-insurrection/">Seattle Times</a>) containing
+        Telegram chat history recovered by the FBI using forensic software called <a href="https://cellebrite.com/en/home/"><b>Cellebrite</b></a>. Finally, 
+        I have also personally recovered 
+        a nearly complete chat history of one of the private <b>MOSD</b> chat groups (<a href="https://sigsegv1980.github.io/j6/ProudBoys-ExportedTelegramChatMOSDOp/messages.html"><b>MOSD Ops</b></a>) 
+        from Telegram directly.
+        <br><br>
+
+        <div class="table-row">
+            <div class="table-column">
+                <h3>Telegram Evidence from Government Exhibits:</h3>
+                <div class = 'evidence-block'>
+                    <h4>MOSD Private Telegram Chat Groups:</h4>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDProspectsSmall.pdf">MOSD Prospects</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDChat-2020-12-20_2021-1-4.pdf">MOSD Leadership Chat</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-Main-2020-12-27_2021-1-4.pdf">MOSD Main (for regular members and leadership)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD_Op-2020-12-31_2020-1-4.pdf">MOSD Ops</a><br>
+                    <br>
+                    <h4>MOSD Private Telegram Chat Groups created after Enrique Tarrio was arrested on January 4, 2021:</h4>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-NewMOSD-2021-1-4_2021-1-13.pdf">New MOSD (Replaced MOSD Leadership Chat)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN2-2021-1-4_2021-1-5.pdf">MOSD Main 2 (Replaced MOSD Main)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-BootsOnTheGroundChat.pdf">Boots on the Ground</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDLeaders-Jan9-Chat.pdf">MOSD Leaders (Post Jan 6 discussion)</a><br>
+                    <br>
+                    <h4>Misc. Private Telegram Chat Groups involving the defendants:</h4>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-SkullAndBonesChat-2020-9-29_2021-1-4.pdf">Skull And Bones</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-EastCoastRallyCommandChat.pdf">East Coast Rally Command</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-OfficialPresidentsChat-2020-8-7_2020-12-31.pdf">Official Presidents Chat</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-OperationDCStreetSweepers-2020-12-19_2020-12-26.pdf">Operation DC Street Sweepers</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-Telegram-FloridaPoorBoysStateChat.pdf">Florida Poor Boys State Chat</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-CroquetaWarsTelegramChat.pdf">Croqueta Wars Chat</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ReconstructionOfStateHeadLeadershipChat.pdf">State Head Leadership Chat</a><br>
+                    <br>
+                    <h4>Private DMs, Group Chats or Text Messages:</h4>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-TarrioDMsAndGroupChats-2020-12-19_2021-1-4.pdf">Enrique Tarrio Private DMs and Group Chats</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-ZacharyRehlTextMessages.pdf">Zachary Rehl Private DMs and Group Chats</a><br>
+                </div>
+            </div>
+            <div class="table-column" style = "margin-left: 1em;">
+                <h3>Leaked Telegram Chat Histories recovered by FBI using Cellebrite:</h3>
+                <div class = 'evidence-block'>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf"><b>MOSD Main</b> Full Chat History (12/27/2020 — 1/1/2021)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-Ops-FullChatMessages-CelebriteExtraction.pdf"><b>MOSD Ops</b> Full Chat History (1/1/2021 — 1/4/2021)</a><br>
+                </div>
+                <h3>Telegram Chat Histories recovered from Telegram directly by author of this webpage:</h3>
+                <div class = 'evidence-block'>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-ExportedTelegramChatMOSDOp/messages.html"><b>MOSD Ops</b> — Full chat history and attached media</b></a><br>
+                </div>
+                <h3>Parler Evidence:</h3>
+                <div class = 'evidence-block'>
+                    <h4>Archived Parler Data Sources:</h4>
+                    <a href="https://doi.org/10.5281/zenodo.4442460"><b>Zenodo Parler Database</b></a> (dataset of over 98 million Parler posts)<br>
+                    <a href="https://web.archive.org/web/20210120012549/https://ddosecrets.com/images/d/de/Parler_2020-01-06_posts-partial.torrent">DDO Secrets scraped Parler data</a><br>
+                    <br>
+                    <h4>Reconstructed Parler Posting Histories:</h4>
+                    <a href="https://sigsegv1980.github.io/j6/ZenodoParlerDump-NobleLeadPosts-2020.html">Reconstructed Parler Posts from <b>Enrique Tarrio</b> (<b>@NobleLead</b>)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ParlerPostsFromEthanNordean-Rufio.html">Reconstructed Parler Posts from <b>Ethan Nordean</b> (<b>@REBELRUFIO</b>)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ParlerDump-PostsFromJoeBiggs.html">Reconstructed Parler Posts from <b>Joseph Biggs</b> (<b>@JoeBiggs</b>)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ParlerDump-TheProudBoys.html">Reconstructed Parler Posts from <b>@TheProudBoys</b></a><br>
+                </div>
+                <h3>Video Evidence:</h3>
+                <div class = 'evidence-block'>
+                    <a href="https://www.youtube.com/watch?v=9HY3IVStIJc">MOSD Leadership Zoom Call (12/30/2020)</a><br>
+                    <a href="https://sigsegv1980.github.io/j6/ProudBoys-2020-12-30-MOSDZoomMeetingTranscript.pdf">MOSD Leadership Zoom Call Transcript</a><br>
+                    <a href="https://www.youtube.com/watch?v=oSOsG5kN5wc">Jan 6 Livestream — March of the Proud Boys</a><br>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+    <br><br>
     <div class = 'legend'>
         <h2>Key (How to Read this Webpage):</h2>
         <br>
@@ -360,11 +527,56 @@
             <td class="ce8"><p>Assessment/Comments</p></td>
         </tr>
 
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">11/24/20<br>5:24 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://web.archive.org/web/20201124184526/https://parler.com/post/03a1d304d43847feaf669e903139bb9b">Parler</a>:
+                </div>
+                <div class="message">
+                    Enrique Tarrio (@NobleLead):
+                    <div class = "message-body">
+                        You don’t lead a revolution by force...
+                        <br><br>
+                        You lead it through inspiration.
+                        <br><br>
+                        @TheProudBoys inspire others by doing things out of love for our country.
+                        <br><br>
+                        Stay humble. Stay Noble.
+                        <br><br>
+                        <div class ="media_wrap clearfix">
+                            <a class = "video_file_wrap clearfix pull_left" href="ProudBoys-InspirationalVideo.mp4">
+                                <div class = "video_play_bg">
+                                    <div class = "video_play"></div>
+                                </div>
+                                <div class="video_duration">1:27</div>
+                                <img src="ProudBoys-InspirationalVideo-LargeThumbnail.png">
+                            </a>
+                        </div>
+                        <div class='timestamp'>11/24/2020 5:24:07 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+                I include this Parler post from Proud Boy Chairman <b>Enrique Tarrio</b> as a counterexample 
+                to the various Parler posts included in 
+                <a href="https://sigsegv1980.github.io/j6/2022-06-06-USAvEthanNordeanAndJosephBiggsAndZacharyRehlAndEnriqueTarrioAndDominicPezzola-ThirdSupersedingIndictment.pdf">
+                <b>the indictment</b></a> that serve as examples of the <b>Proud Boys'</b> violent or
+                threatening rhetoric in response to Donald Trump's 2020 election loss. While
+                the <b>Proud Boys</b> certainly embraced a culture of <b><i>machismo</i></b> that encouraged
+                threats of (often vague or unspecified) violence, they also occasionally attempted
+                to inspire by appealing to nobler sentiments like patriotism and humility. Additionally,
+                this Parler post demonstrates that the Proud Boys (or at least <b>Enrique Tarrio</b>) did not
+                necessarily conceive of <i>“revolution”</i> as entailing violence.
+            </td>
+        </tr>
+
         <tr class="ro3">
 	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/20/20<br>11:03 AM</a></p></td>
 	        <td class="ce17">
                 <div class = 'full-context'>
-                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDChat-2020-12-20_2021-1-4.pdf">MOSD (Leadership) Telegram group</a> (Govt Exhibit 501-2):
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDChat-2020-12-20_2021-1-4.pdf">MOSD (Leadership) Telegram Group</a> (Govt Exhibit 501-2):
                 </div>
                 <div class="message">
                     John Charles Stewart (Johnny Blackbeard):
@@ -426,18 +638,22 @@
                 <br><br> 
                 This is why, in late December of 2020, the <b>US Park Police</b> released an 
                 <a href="https://sigsegv1980.github.io/j6/2020-12-28-UnitedStatesParkPoliceExecutiveBrief-6January2021-WMADemonstrationsActivity.pdf"><b>intelligence briefing</b></a> 
-                predicting late night street battles between the <b>Proud Boys</b> and <b>Antifa</b> in DC on January 6, 2021: 
+                predicting <b>late night street battles</b> between the <b>Proud Boys</b> and <b>Antifa</b> in DC on January 6, 2021, warning that 
                 <i>“we should expect an event similar to those that occurred on 14 November 2020
-                and 12 December 2020 in Washington, DC”</i>. An earlier intelligence briefing from the <b>US Park Police</b> had correctly 
+                and 12 December 2020 in Washington, DC”</i> and that <i>“we do anticipate street-level confrontation/violence 
+                between [the Proud Boys and counter-protesters]”</i>.
+                An earlier intelligence briefing from the <b>US Park Police</b> correctly 
                 <a href="https://sigsegv1980.github.io/j6/USParkPoliceEventPreBrief-DCProtestsOn9December2020-MillionMAGAMarch-ProudBoysvAntifa.pdf">predicted that violent 
                 street fighting would break out during the December 12th rally</a>, warning that the Proud Boys were likely to clash
-                with a <i>“radical group ... made up of individuals who self-identify with the Antifa identity”</i>,
+                with a <i>“radical group ... made up of individuals who self-identify with the <b>Antifa</b> identity”</i>,
                 and that <b><i>“it is almost a certainty that violent confrontations will occur between members of opposing groups”</i></b>.
                 <br><br>
                 This prognosis is almost certainly what the <b>Proud Boys</b> themselves
                 also believed would happen on January 6, which is why <b>Johnny Blackbeard</b> used the phrase <b><i>“the after party”</i></b>
                 to describe the anticipated late night street fighting with <b>Antifa</b> as a distinct event that would occur <i>after</i> the day time <i>“protest portion”</i>.
-                Previous MAGA rallies that the Proud Boys attended often involved a day time <i>“protest portion”</i> consisting of 
+                Previous MAGA rallies that the Proud Boys attended often involved a 
+                <a href="https://web.archive.org/web/20201213140105/https://nypost.com/2020/12/12/proud-boys-anti-trump-protesters-tangle-in-dc-as-daytime-rallies-end/">
+                day time <i>“protest portion”</i></a> consisting of 
                 <a href="https://web.archive.org/web/20201212185503/https://www.nbcwashington.com/news/trump-supporters-protest-in-dc-crowds-gather-at-freedom-plaza/2475292/">relatively 
                 peaceful</a> organized <a href="https://web.archive.org/web/20201114160836/https://video.parler.com/4v/ga/4vga86G6g0Pq.mp4">marches</a>, 
                 <a href="https://web.archive.org/web/20201120085317/https://www.youtube.com/watch?v=7H9pQB6bGrU">speeches</a> or demonstrations,
@@ -454,12 +670,13 @@
                 prior to the December 12th MAGA rally in DC warning that <i><b>“each side has been preparing for this "rematch"”</b></i>.
                 <br><br>
                 Additionally, <b>Enrique Tarrio's</b> response to <b>Johnny Blackbeard</b> is also exculpatory evidence. The prosecution
-                argued that the <b>MOSD</b> chapter was created for the express purpose of planning the Jan 6 insurrection. But multiple
+                argued that <b>Tarrio</b> created the <b>MOSD</b> chapter for the express purpose of planning the Jan 6 insurrection. But multiple
                 private statements from <b>Enrique Tarrio</b> reveal the true purpose of the <b>MOSD</b> chapter: to prevent aggressive and undisciplined 
-                behavior at national events and to make it easier to control and direct large numbers of Proud Boys while marching in formation at rallies:
+                behavior from “rank-and-file” Proud Boys at national events and to make it easier to control and direct large numbers of Proud Boys while 
+                marching in formation:
                 <br><br>
                 <div class="message">
-                    Enrique Tarrio (Enrique Florida Pb) <span class="in-reply">[in <a href="https://sigsegv1980.github.io/j6/ProudBoys-SkullAndBonesChat-2020-9-29_2021-1-4.pdf">"<b>Skull and Bones</b>" Telegram group</a>]</span>:
+                    Enrique Tarrio (Enrique Florida Pb) <span class="in-reply">[in <a href="https://sigsegv1980.github.io/j6/ProudBoys-SkullAndBonesChat-2020-9-29_2021-1-4.pdf">"<b>Skull and Bones</b>" Telegram Group</a>]</span>:
                     <div class = "message-body">
                     This chapter will be hand selected
                     members. The purpose is to discourage and
@@ -488,41 +705,69 @@
                 squads (timestamp <b>16:59</b>), not wearing the usual Proud Boy colors (timestamp <b>1:01:09</b>), not getting drunk or high during the rally (<b>4:40</b>), 
                 and acting defensively at all times (timestamps <b>7:48</b>, <b>32:03</b>, <b>33:29</b>). These new policies were
                 designed to address issues that came up on December 12th, 2020, during the second <b>“Million MAGA March”</b> rally in DC, when
-                <b>Enrique Tarrio</b> lost control of his “foot soldiers” as they marched through the streets of DC (see 
-                <a href="https://www.youtube.com/watch?v=9HY3IVStIJc"><b>MOSD Zoom call</b></a> or the 
+                <b>Enrique Tarrio</b> lost control during a march (see 
+                <a href="https://www.youtube.com/watch?v=9HY3IVStIJc"><b>MOSD Zoom call</b></a> or 
                 <a href="https://sigsegv1980.github.io/j6/ProudBoys-2020-12-30-MOSDZoomMeetingTranscript.pdf"><b>transcript</b></a> at
-                timestamps <b>7:48</b> and <b>33:29</b>), and multiple Proud Boys
-                ultimately ended up <a href="https://web.archive.org/web/20201213043848/https://www.the-sun.com/news/1959359/million-maga-march-dc-trump-steal-election-stabbing/">
-                getting stabbed</a>.
+                timestamps <b>7:48</b> and <b>33:29</b>) after multiple undisciplined Proud Boys
+                broke formation and ran off to fight with nearby counter-protesters. Ultimately, four Proud Boys ended up
+                <a href="https://web.archive.org/web/20201213043848/https://www.the-sun.com/news/1959359/million-maga-march-dc-trump-steal-election-stabbing/">
+                <b>getting stabbed</b></a>.
                 <br><br>
-                <b>Enrique Tarrio</b> also stated on multiple occasions that the purpose of attending the January 6 rally in DC
-                was to <b>field test</b> these new <b>MOSD</b> rallying policies. For example, in the 
+                <div class="message">
+                    Enrique Tarrio <span class="in-reply">[in <a href="https://youtu.be/9HY3IVStIJc?t=2161">MOSD Zoom meeting at timestamp 36:01</a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]:</span>
+                        Yeah, um, to touch on that subject, staying together is probably like the most important thing. <b>We had so many 
+                        fucking people go off on their own. That's one of the - that's actually the biggest problem that we had. Uh, I spend - and this includes in most
+                        rallies, but it's more controllable when it's a smaller group - I spend most of my time in rallies fucking
+                        bringing people back. I'm just fucking corralling everybody, right? Trying to keep everybody from
+                        doing something stupid.</b> If there's one dude, there's, there's a thousand of us dude, like we could literally fucking 
+                        stampede over this dude without using our hand and just walk over them and it's over.
+                        So, um, your throttle control is important and listening is really fucking important. Please. So I
+                        can't stress that enough. That's the most important part here, gentlemen.
+                        </i>
+                        <div class='timestamp'>12/30/2020</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Jeremy Bertino <span class="in-reply">[in <a href="https://youtu.be/9HY3IVStIJc?t=2209">MOSD Zoom meeting at timestamp 36:50</a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: <b>And learning how to stay in fucking formation</b>.
+                        </i>
+                        <div class='timestamp'>12/30/2020</div>
+                    </div>
+                </div>
+            
+                The new <b>MOSD</b> chapter was designed to address these issues, and <b>Enrique Tarrio</b> stated on multiple occasions that the purpose of attending the January 6 rally in DC
+                was to <b>field test</b> the new <b>MOSD</b> rallying policies. For example, in the 
                 <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf"><b>MOSD Main Telegram group chat</b></a>, Tarrio
-                stated <b><i>“we are going to be using the 6th as a test”</i></b>, and that <b>MOSD</b> members would be
+                stated <b><i>“we are going to be using the 6th as a test”</i></b> and that the <b>MOSD</b> chapter would be
                 running <i>“training exercises”</i> during <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">
                 <i>“the 5th at night and 6th throughout the day”</i></a> (see post from 12/28/2020 at 11:25:22 AM).
                 This is consistent with <b>Tarrio's</b> statement
                 during the <a href="https://www.youtube.com/watch?v=9HY3IVStIJc"><b>MOSD Zoom meeting</b></a> (timestamp <b>17:35</b>) 
-                explaining that <i>“As of right now, the plans for the sixth is just to remain as nucleus”</i>. 
+                explaining that <i>“As of right now, the plans for the sixth is just to remain as a nucleus”</i>. 
                 Essentially, <b>Tarrio</b> wanted to use the Jan 6 rally as an opportunity to <b>test drive the new MOSD</b> chapter by trying to navigate the 
                 streets of DC as a cohesive, disciplined, well-oiled infantry, organized into 10 man squads orbiting a single “nucleus”:
                 <br><br>
                 <div class="message">
-                    Enrique Tarrio <span class="in-reply">[in <a href="https://sigsegv1980.github.io/j6/ProudBoys-2020-12-30-MOSDZoomMeetingTranscript.pdf">MOSD Zoom meeting</a> at timestamp 17:35]</span>:
+                    Enrique Tarrio <span class="in-reply">[in <a href="https://youtu.be/9HY3IVStIJc?t=1051">MOSD Zoom meeting at timestamp 17:31</a>]</span>:
                     <div class = "message-body">
                         <i>
-                        [Transcribed audio]: So you're going to familiarize yourself that night with those 10 people,
-                        and those 10 people you're going to roll with together. <b>As of right now, the plans for the sixth is just to remain as nucleus,</b>
+                        <span class="bracket-text">[Transcribed audio]</span>: So you're going to familiarize yourself that night with those 10 people,
+                        and those 10 people you're going to roll with together. <b>As of right now, the plans for the sixth is just to remain as a nucleus,</b>
                         um, so, I'll uh, I'll give the floor to whoever wants it. 
                         </i>
                         <div class='timestamp'>12/30/2020</div>
                     </div>
                 </div>
                 <div class="message">
-                    Charles Donohoe (YutYut Cowabunga) <span class="in-reply">[in <a href="https://sigsegv1980.github.io/j6/ProudBoys-2020-12-30-MOSDZoomMeetingTranscript.pdf">MOSD Zoom meeting</a> at timestamp 18:06]</span>:
+                    Charles Donohoe (YutYut Cowabunga) <span class="in-reply">[in <a href="https://youtu.be/9HY3IVStIJc?t=1081">MOSD Zoom meeting at timestamp 18:01</a>]</span>:
                     <div class = "message-body">
                         <i>
-                        [Transcribed audio]: Um, and... but even with the big nucleus - roll as a nucleus,
+                        <span class="bracket-text">[Transcribed audio]</span>: Um, and... but even with the big nucleus — roll as a nucleus,
                         I suggest, Enrique, that we still put it into 10 man squad, that way we have full 100% accountability,
                         so nobody goes missing.
                         </i>
@@ -530,10 +775,10 @@
                     </div>
                 </div>
                 <div class="message">
-                    Enrique Tarrio <span class="in-reply">[in <a href="https://sigsegv1980.github.io/j6/ProudBoys-2020-12-30-MOSDZoomMeetingTranscript.pdf">MOSD Zoom meeting</a> at timestamp 18:18]</span>:
+                    Enrique Tarrio <span class="in-reply">[in <a href="https://youtu.be/9HY3IVStIJc?t=1093">MOSD Zoom meeting at timestamp 18:13</a>]</span>:
                     <div class = "message-body">
                         <i>
-                        [Transcribed audio]: Definitely. Definitely - that's what I said. <b>Even though we're staying together as a squad,
+                        <span class="bracket-text">[Transcribed audio]</span>: Definitely. Definitely — that's what I said. <b>Even though we're staying together as a squad,
                         we're still going to split up into those 10 groups.</b>
                         </i>
                         <div class='timestamp'>12/30/2020</div>
@@ -546,7 +791,2225 @@
                 to attack the Capitol.
             </td>
         </tr>
-    
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/20/20<br>4:06 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDChat-2020-12-20_2021-1-4.pdf">MOSD (Leadership) Telegram Group</a> (Govt Exhibit 501-4):
+                </div>
+                <div class="message">
+                    Joe Biggs:
+                    <div class = "message-body">
+                        found this
+                        <div class='timestamp'>12/20/2020 4:06:51 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Joe Biggs:
+                    <div class = "message-body">
+                        <a href="https://bulletsafe.com">https://bulletsafe.com</a>
+                        <div class='timestamp'>12/20/2020 4:06:52 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Joe Biggs:
+                    <div class = "message-body">
+                        yeah I dont want plates, just a stab vest
+                        <div class='timestamp'>12/20/2020 4:17:33 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    John Charles Stewart (Johnny Blackbeard):
+                    <div class = "message-body">
+                        I have a concealed lvl3a+ with stab and
+                        spike level 2. Based on recent events I wont
+                        be wearing my plates anymore. It will be
+                        straight up stab vest
+                        <div class='timestamp'>12/20/2020 4:19:03 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/26/20<br>3:30:15 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-SkullAndBonesChat-2020-9-29_2021-1-4.pdf">Skull And Bones Telegram Group</a> (Govt Exhibit 500-69):
+                </div>
+                <div class="message">
+                    Enrique Tarrio (Enrique Florida Pb):
+                    <div class = "message-body">
+                    This chapter will be hand selected
+                    members. The purpose is to discourage and
+                    remove new fags and aggressive members
+                    from attending national events.
+                    <br><br>
+                    I see this becoming on issue in the future
+                    and I believe this is the best compromise
+                    we can come up with to hold unruly
+                    members accountable at these events.
+                    <br><br>
+                    Rally boys will always be a thing...we just need to be able 
+                    to control and harness ourselves in these large numbers.
+                    <div class='timestamp'>12/26/2020 3:30:15 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/27/20<br>2:45 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDProspectsSmall.pdf">MOSD Prospects Telegram Group</a> (Govt Exhibit 513-1):
+                </div>
+                <div class="message">
+                    Jeremy Bertino (Noble Beard The Immortal):
+                    <div class = "message-body">
+                        <a href="https://forms.gle/DofGT5YGSJbioo5Q7">https://forms.gle/DofGT5YGSJbioo5Q7</a> If
+                        you haven’t filled this out please do then
+                        I will add you too the main chat for the
+                        new chapter. The Ministry of Self
+                        Defense. This will be a leadership role at
+                        all national events. Once filled out
+                        screen shot and post here. Then I will
+                        add you
+                        <div class='timestamp'>12/27/2020 2:45:47 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Jeremy Bertino (Noble Beard The Immortal):
+                    <div class = "message-body">
+                        Every damn time
+                        <div class='timestamp'>12/27/2020 2:49:47 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        Gentleman. This is a new nationally
+                        approved chapter. You don't have to
+                        leave your current chapter in order to be
+                        in this one. The rules here are more
+                        strict than others.
+                        <div class='timestamp'>12/27/2020 2:50:53 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        My self and noblebeard are your regional
+                        commanders. You must follow orders to
+                        be in this chapter. No excessive arguing
+                        and no shitposting. This is a professional
+                        business only chapter for organizing and
+                        running security for national events.
+                        OPSEC is key. Screenshots and
+                        forwarding of messages are strictly
+                        forbidden. Once you have filled out and
+                        sent the application DM us and we will
+                        add you to the national chat. UHURU!
+                        <div class='timestamp'>12/27/2020 2:55:32 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/27/20<br>6:32:33 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    BrotherHunter Jake Phillips:
+                    <div class = "message-body">
+                        So what's the first thing on the docket?
+                        <div class='timestamp'>12/27/2020 6:32:33 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Enrique Tarrio (Enrique Florida Pb):
+                    <div class = "message-body">
+                        Not get stabbed
+                        <div class='timestamp'>12/27/2020 6:33:40 PM</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    BrotherHunter Jake Phillips:
+                    <div class = "message-body">
+                        Im a big fan of that. We're running a perimeter of 5-2 man grey man security groups at our rally on the 6th to prevent just that. 
+                        Also told all my attendees to get stab proof shirts if they can afford it, plate carriers if they can't.
+                        <div class='timestamp'>12/27/2020 6:36:01 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/27/20<br>10:56 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    Rotten:
+                    <div class = "message-body">
+                        I have everything, multiple plate carriers. Plates, full soft inserts, med pack filled with all kinds of shit. 
+                        Kevlar helmet, bunp helmet, mouth guard that kinds of stuff. Although I try to minimize what I wear, lots of gear 
+                        to protect you seems like a good idea till you have to do anything important or with any speed.
+                        <div class='timestamp'>12/27/2020 10:56:32 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Rotten:
+                    <div class = "message-body">
+                        Knowing that they try to stab you under your vest means thinking outside the box a little tho
+                        <div class='timestamp'>12/27/2020 10:57:53 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/28/20<br>1:04 AM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    Rotten:
+                    <div class = "message-body">
+                        We need to be better organized. Instead of marching in a giant unit that's easy to cut off of we split into groups 
+                        with coms and GPS tracking we can control our forces better.
+                        <div class='timestamp'>12/28/2020 1:04:14 AM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/28/20<br>12:27 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    THE GREEK FOVCPB:
+                    <div class = "message-body">
+                        Also ran across these two items as well with the respect to the long sleeve shirt it's my understanding that is cut 
+                        proof but not sure how it would hold up to an actual stabbing not sure if the material will hold up to the pressure 
+                        of the point of the knife 
+                        <div class='timestamp'>12/28/2020 12:27:57 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/28/20<br>2:25:22 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    Enrique Tarrio (Enrique Florida Pb):
+                    <div class = "message-body">
+                        As of right now...<br><br>
+                        The DC trip will consist of two groups. None of which can be in colors.<br><br>
+                        1. The first group of guys have been invited to a special chapter within the organization. If you haven't been invited...please be patient. 
+                        We are growing the group slowly.<br><br>
+                        2. The second group consists of PBs that are just attending the event. You can coordinate with other PBs and do whatever you guys want.   
+                        Group 1 and group 2 will not have any interaction with each other on the 5th at night and 6th throughout the day. We are running a training 
+                        exercise at those times.<br><br>
+                        Group 2 is still expected to conduct themselves as gentlemen and always keep themselves in a self defense mindset at all times.<br><br>  
+                        They way we do national rallies will change drastically over the course of the next couple months. After the 6th you will have to be part 
+                        of group 1 to attend national events.
+                        <div class='timestamp'>12/28/2020 2:25:22 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/29/20<br>12:54:49 AM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    Travis Vancouver PB:
+                    <div class = "message-body">
+                        Can anyone give me a few hotels too look into for that down town core area.
+                        <div class='timestamp'>12/29/2020 12:54:49 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Redman aka Saint Christopher of CapCity:
+                    <div class = "message-body">
+                        MI is at the Renaissance on 9th
+                        <div class='timestamp'>12/29/2020 12:56:12 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Travis Vancouver PB:
+                    <div class = "message-body">
+                        Awesome thank you.... do you know where the main events/rallies normally happen at?? 
+                        <div class='timestamp'>12/29/2020 1:11:53 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Redman aka Saint Christopher of CapCity:
+                    <div class = "message-body">
+                        Freedom Plaza at noon is where our guys will be. Either I or another member from Michigan
+                        will be with this group. While a couple stay back and lead our chapter.
+                        <div class='timestamp'>12/29/2020 1:18:31 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Enrique Florida Pb:
+                    <div class = "message-body">
+                        If they’re rolling with us make sure they're in here
+                        <div class='timestamp'>12/29/2020 1:27:08 AM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/29/20<br>7:57 AM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    Ash Barkoz ba:
+                    <div class = "message-body">
+                        Brothers are going to get lost and find themselves alone if we don't have some
+                        distinguishing mark
+                        <div class='timestamp'>12/29/2020 7:57:49 AM</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Gilbert:
+                    <div class = "message-body">
+                        I like this idea we need something so we can tell who is who ? @NobleLead
+                        @Noblebeard @SSGBiggs69
+                        <div class='timestamp'>12/29/2020 8:14:17 AM</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Ash Barkoz ba:
+                    <div class = "message-body">
+                        How about these around our necks
+                        <div class='timestamp'>12/29/2020 8:58:42 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Ash Barkoz ba:
+                    <div class = "message-body">
+                        <a href="https://www.amazon.com/Tough-Headwear-Paisley-Bandana-Single/dp/B07FKTTTPG/ref=mp_s_a_1_3">
+                        https://www.amazon.com/Tough-Headwear-Paisley-Bandana-Single/dp/BO7FKMLKVW/ref=mp_s_a_1_3?dchild=1&keywords=orange+bandanas&qid=1609250288&sprefix=orange+ban&sr=8-3
+                        </a>
+                        <div class='timestamp'>12/29/2020 8:58:46 AM</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Ash Barkoz ba:
+                    <div class = "message-body">
+                        We should have 1 no matter the group, the last thing I want Is to have one brother get lost
+                        and start asking people around them if they are proud boys
+                        <div class='timestamp'>12/29/2020 9:06:10 AM</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Johnny Blackbeard:
+                    <div class = "message-body">
+                        This should never happen if the orders are followed. No one should ever be caught out or
+                        this entire thing has failed
+                        <div class='timestamp'>12/29/2020 9:06:10 AM</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Ash Barkoz ba:
+                    <div class = "message-body">
+                        It has happened and will happen, some guy goes to take a piss and before you know he’s marching with antifa 
+                        <div class='timestamp'>12/29/2020 9:18:52 AM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/29/20<br>10:54 AM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    RedBeard… THE Original!:
+                    <div class = "message-body">
+                        I know most of the events will be centered around freedom plaza....is anyone staying at the Marriott hotel that is right 
+                        next to the place? Just looking to book a place that will be around where guys are staying
+                        <div class='timestamp'>12/29/2020 10:54:23 AM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/29/20<br>2:15 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-Main-2020-12-27_2021-1-4.pdf">MOSD MAIN</a> (Govt Exhibit 503-17):
+                </div>
+                <div class="message">
+                    Vito (il Duce) Russo:
+                    <div class = "message-body">
+                        <i>
+                        [Transcript of voice message]: This? This right here? This could grow some  legs. Think about it. If we all went in as ‘Tifa, somehow using 
+                        their fucking shit to identify ourselves amongst each other, everyone wearing red arm bands, everyone wearing, uh, 
+                        yellow fucking hammer and sickle on their shirts. And then roll up with  ‘Tifa and beat the motherfuck out of them? 
+                        This could grow some legs… just sayin’.
+                        </i>
+                        <div class='timestamp'>12/29/2020 2:15:29 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Vito (il Duce) Russo:
+                    <div class = "message-body">
+                        This could break some legs..."just sayin"👌
+                        <div class='timestamp'>12/29/2020 2:17:12 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Vito (il Duce) Russo:
+                    <div class = "message-body">
+                        In minecraft, of course
+                        <div class='timestamp'>12/29/2020 2:17:24 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/30/20<br>3:28 AM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    Brien James:
+                    <div class = "message-body">
+                        I believe we have the chance to work on things that will get less people hurt. Less people arrested. 
+                        While at the same time making us more prepared and effective. It's gonna take some patience and a lot 
+                        of work brother. Don't give in too quick. 
+                        <div class='timestamp'>12/30/2020 3:28:33 AM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/30/20<br>7:08 AM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    Dick Sweats:
+                    <div class = "message-body">
+                        what is Biggs leadership of exactly ? Who elected him ? This is something i have yet to
+                        discover the answer to .<br><br>
+                        Watching his video yesterday, well a highlight of it, he is claiming himself and other leaders made the decision to not go in 
+                        colors... I was under the impression this was done because
+                        DC chapter has requested this and we were honoring this. I personally think showing up out
+                        of colors is more dangerous, but! respect the chapters request and the plan here.<br><br>
+                        And doesn't this sort of contradict the rest of us being quiet .
+                        <div class='timestamp'>12/30/2020 7:08:51 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    SirLancelot:
+                    <div class = "message-body">
+                        My understanding is that it was out of respect for DC chapter as well
+                        <div class='timestamp'>12/30/2020 7:08:51 AM</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Noble Beard The Immortal [<span class="in-reply">in reply to Dick Sweats and SirLancelot</span>]:
+                    <div class = "message-body">
+                        Do we need to tell the world that's why? No. We can get antifa riled up and scared. Joe has an audience and 
+                        we can use that to get messages and disinformation to the other side. Gotta think bigger bro. We know why we 
+                        aren't going in colors. But the enemy doesn’t need to quick. 
+                        <div class='timestamp'>12/30/2020 7:09:32 AM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/30/20<br>1:39 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    Pedro (Q-Tip) Homelander:
+                    <div class = "message-body">
+                        That’s how people got stabbed.<br>
+                        One guy saying shit and 30 pbs go after him.<br>
+                        We cannot be the aggressor like that.<br><br>
+                        We just need to stay in formation and don’t let anyone that is not a PB within the group.<br>
+                        We also cannot just hang in the streets like we did in front of Harris. 
+                        <div class='timestamp'>12/30/2020 1:39:13 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/30/20<br>3:38 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    Abuelo:
+                    <div class = "message-body">
+                        Same here I was going to rallies all alone in Boston fighting against antifa the PBs saw me and ask me to join club was still 
+                        very small back then thought that was why we are here but others say we are just a drinking club and I always say that's BS
+                        <div class='timestamp'>12/30/2020 3:38:06 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/30/20<br>7:13 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    Thad PB:
+                    <div class = "message-body">
+                        We should ABSOLUTELY have rules of engagement revised with both Antifa/blm and also integration SOP’s for 
+                        normy “allies” and especially press during events 
+                        <div class='timestamp'>12/30/2020 7:13:29 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/30/20<br>7:43 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    Travis Vancouver PB:
+                    <div class = "message-body">
+                        We should all be meeting the night of the 5th and go over ground rules. We always have done that in Portland and it’s worked well. 
+                        There will always be shit that goes sideways or shit we don’t agree on or that makes us look bad but as long as the masses stick together we good. 
+                        <div class='timestamp'>12/30/2020 7:43:27 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+	
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/30/20<br>7:46 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    Thad PB:
+                    <div class = "message-body">
+                        As far as “investigating” agitators, I think that it is clearly a case by case type situation. Seeing one rainbow shield 
+                        wielding larpist screaming my body my choice is clearly a nothing to see here type situation. However, if we have an active 
+                        body of scout types prowling and regrouping at different points in a March, we do the same and post watches in critical areas 
+                        which may be breached for instance 
+                        <div class='timestamp'>12/30/2020 7:46:28 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/30/20<br>9:06 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://www.youtube.com/watch?v=9HY3IVStIJc">MOSD Briefing Zoom Call Video</a> (see <a href="https://sigsegv1980.github.io/j6/ProudBoys-2020-12-30-MOSDZoomMeetingTranscript.pdf">full transcript</a>):
+                </div>
+                <br>
+
+                <div class = "media_wrap clearfix">
+                    <a class = "video_file_wrap clearfix pull_left" href="https://www.youtube.com/watch?v=9HY3IVStIJc">
+                    <div class = "video_play_bg">
+                        <div class = "video_play"></div>
+                    </div>
+                    <div class="video_duration">1:38:04</div>
+                    <img src="MOSDZoomCall-Screenshot.png">
+                    </a>
+                </div>
+                <br><br>
+
+                <div class="message">
+                    Enrique Tarrio (Noble) <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=1028">timestamp <b>17:08</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: 
+                        We're gonna break you guys down into ten man squads and you guys are gonna, you guys are
+                        gonna be for
+                        the most part, we're gonna stay together, but you guys are gonna make sure that you guys — you ten
+                        guys — are always
+                        together. Um, I don't think as a massive group we should be using markers,
+                        identifying markers, right, because those identifying markers are counterproductive to what we're
+                        trying to do 
+                        at this particular time, right? So you're going to familiarize yourself that night with those 10 people,
+                        and those 10 people
+                        you're going to roll with together. 
+                        <br><br>
+                        As of right now, the plans for the 6th is just to remain as a nucleus,
+                        um, so, I'll uh, I'll give the floor to whoever wants it.
+                        </i>
+                        <div class='timestamp'>Timestamp 17:08</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Charles Donohoe (Yut) <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=1067">timestamp <b>17:47</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: 
+                        All right so with the
+                        10 man squad, the reason we're picking 10 instead of others is you can count the 10 on your two hands,
+                        so if you're that squad leader, you can't, you only count 9, you're fucked up.
+                        Um, and... but even with the big nucleus — roll as a nucleus —
+                        I suggest, Enrique, that we still put it into 10 man squad, that way we have full 100% accountability,
+                        so nobody goes missing.
+                        </i>
+                        <div class='timestamp'>Timestamp 17:47</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Enrique Tarrio (Noble) <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=1093">timestamp <b>18:13</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: Definitely, definitely, that's what I said. Even though we're staying together as a squad,
+                        we're still going to split up into those 10 groups.
+                        </i>
+                        <div class='timestamp'>Timestamp 18:13</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Enrique Tarrio (Noble) <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=1436">timestamp <b>23:56</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: The sixth is a very unique situation because we have lots of Proud Boy groups that are
+                        coming. You could decide — and I put this in the chat — you can decide if you want to be with your chapter or not,
+                        but you
+                        either decide to be with us, or you decide to be with your chapter. And this, and there's no... there's
+                        nothing that's
+                        going to fuck you up, uh, from doing that. Like we're not going to be like, oh, “fuck this guy, he doesn't
+                        like our chapter”. That's fine. You can go with your chapter, right, um, we want to... we're using this as
+                        a training exercise, so we could stay as one fucking unit, right. 
+                        </i>
+                        <div class='timestamp'>Timestamp 23:56</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Aaron Wolkind (Aaron) <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=1704">timestamp <b>28:24</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: Yeah and so, just kind of to clarify and summarize everything, um of
+                        exactly what this is so far, um, so basically you know we all saw what happened, you know, on the 12th
+                        in DC. We were really disorganized and there was a lot of problems that kind of came from that disorganization.
+                        </i>
+                        <div class='timestamp'>Timestamp 28:24</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Aaron Wolkind (Aaron) <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=1770">timestamp <b>29:30</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: Um, another big
+                        thing of this is, you know, with a thousand Proud Boys in DC, you know, we were together sometimes,
+                        we're all over the place sometimes, but there was no way to control, you know, um, there's no control
+                        over that. So hopefully with this, with this new structure in place, what we'll be able to do is, it'll give us the
+                        freedom and
+                        flexibility to break off into modular elements where you can have smaller teams
+                        that can maybe go two blocks over without everybody just following you know, you know, the guys
+                        — and now you have 700 guys going, you know, two blocks over, just because they see the guy next to him moving.
+                        You know, now
+                        we'll have a little bit more
+                        control where we can send elements in different directions and different places to do different things
+                        and not necessarily in
+                        an offensive manner, but just generally speaking, so we can have that that kind of
+                        control.
+                        </i>
+                        <div class='timestamp'>Timestamp 29:30</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Charles Donohoe (Yut) <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=1922">timestamp <b>32:02</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: Um, this is
+                        something that we all need to talk about, but the escalation of force — obviously we're the ministry is
+                        self-defense, so escalation of force isn't going to be to go out and attack. Um, it's going to be
+                        more of like a bodyguard system. So obviously we'll be around
+                        the marketing team, a.k.a. the dudes that get
+                        all the press and stuff like that, and basically be a bodyguard service for the mission that they're trying
+                        to accomplish. 
+                        <br><br>
+                        But that being said, there's also going to be smaller teams that go out and do things
+                        like recon and quick reaction force in case somebody gets jammed up in a bind, and also to provide
+                        information back to that main element. So as of now, I think we all agree on
+                        this with the escalation of force — it's in strictly a defensive mode.
+                        Um, unless the threat is so imminent that you believe that your life is in danger. What do you
+                        think?
+                        </i>
+                        <div class='timestamp'>Timestamp 32:02</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Enrique Tarrio (Noble) <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=1984">timestamp <b>33:04</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: Yeah, I mean, every situation calls for something different. You know, like
+                        we're, I think uh, on the verbal sense in the, in the media
+                        sense, me and Biggs has got it on lock where we know exactly what we're gonna say that'll
+                        piss off the media.
+                        <br><br>
+                        Uh, and you can translate that to on the grounds. Now I'm not saying, now I'm not saying to
+                        go ahead and fucking talk shit — go ahead and talk shit as long as it, you know, keep it fucking
+                        professional but
+                        we're never gonna be the ones to cross the police barrier or cross something in order to get to
+                        somebody.
+                        We're always going to be the one standing back, right, um, and we're always going to be the ones to
+                        fucking
+                        defend and we've
+                        been really good at it. 
+                        <br><br>
+                        We've been — let's be honest —  we've been really good at that, um,
+                        but what I saw on Saturday was like a fucking pool of fucking unchained pit bulls
+                        just running into every situation, right. If we don't run into the situation
+                        and we just chill, we'll be there.
+                        </i>
+                        <div class='timestamp'>Timestamp 33:04</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Enrique Tarrio (Noble) <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=2058">timestamp <b>34:19</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: Yeah, you know, so just,
+                        granted by that fact, we
+                        need to chill, we need to relax. Um, we need to get our... all of our guys home,
+                        right, and one thing that we don't — we're talking about a lot of serious shit right here — but one
+                        thing that we can't forget is to have
+                        fun, right? To enjoy ourselves out there, enjoy the boys, get fucking hammered, get trashed, um...
+                        Those are things that, that, we...
+                        </i>
+                        <div class='timestamp'>Timestamp 34:19</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Jeremy Bertino (@Noblebeard) <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=2081">timestamp <b>34:41</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: And don't get stabbed.
+                        </i>
+                        <div class='timestamp'>Timestamp 34:41</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Enrique Tarrio (Noble) <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=2083">timestamp <b>34:43</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: And don't get stabbed — which Jeremy broke that rule, um, a couple of times, um...
+                        </i>
+                        <div class='timestamp'>Timestamp 34:43</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Jeremy Bertino (@Noblebeard): <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=2095">timestamp <b>34:55</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: But yeah, touching on what you were saying, um, what I noticed was 
+                        just everyone was like uh, hyper on edge um, at that last rally. And you know what we're trying to avoid 
+                        by doing this is like that cowboy shit where people are running off, you know like, when we were leaving 
+                        the Freedom Plaza, I saw the dudes in the fucking skirts running off fucking down then we had to fucking 
+                         chase them down, and it breaks us up, and that's what we're trying to avoid with what we're doing here.
+                        </i>
+                        <div class='timestamp'>Timestamp 34:55</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Enrique Tarrio (Noble) <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=2161">timestamp <b>36:01</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>:
+                        Yeah, um, to touch on that subject, staying together is probably like the most important thing. We had so 
+                        many fucking people go off on their own. That's one of the — that's actually the biggest problem that we had. 
+                        Uh, I spend — and this includes in most rallies, but it's more controllable when it's a smaller group — I spend 
+                        most of my time in rallies fucking bringing people back. I'm just fucking corralling everybody, right? 
+                        Trying to keep everybody from doing something stupid.
+                        <br><br>
+                        If there's one dude — there's, there's a thousand of us dude! — like 
+                        we could literally fucking stampede over this dude without using our hand and just walk over them and 
+                        it's over. So, um, your throttle control is important and listening is really fucking important. Please. So 
+                        I can't stress that enough. That's the most important part here, gentlemen.
+                        </i>
+                        <div class='timestamp'>Timestamp 36:01</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Jeremy Bertino (@Noblebeard) <span class="in-reply">[at <a href="https://youtu.be/9HY3IVStIJc?t=2209">timestamp <b>36:50</b></a>]</span>:
+                    <div class = "message-body">
+                        <i>
+                        <span class="bracket-text">[Transcribed audio]</span>: And learning how to stay in fucking formation.
+                        </i>
+                        <div class='timestamp'>Timestamp 36:50</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+ 
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/30/20<br>10:51 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN-FullChatMessages-2020-12-27_2021-1-1.pdf">MOSD MAIN Telegram Group</a>:
+                </div>
+                <div class="message">
+                    Rotten:
+                    <div class = "message-body">
+                        Since this whole chapter is volunteer, I had a thought on how to keep order. I watched a lot of dumb shit 
+                        go down in DC where Beard was trying to keep the peace and people were pretty much like “fuck him”. Acting 
+                        stupid or putting your bros in danger while performing your duties as part of this chapter should carry severe penalties. 
+                        You dont have to be here and if you're gonna be here you are agreeing to act with some honor and dignity. 
+                        <div class='timestamp'>12/30/2020 10:51:22 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">12/31/20<br>5:28 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-OfficialPresidentsChat-2020-8-7_2020-12-31.pdf">Official Presidents Chat</a> (Govt Exhibit 514-47):
+                </div>
+                <div class="message">
+                    Ben Hagen Cloutmaster:
+                    <div class = "message-body">
+                        If u say we aren’t wearing colors, they will target normal people
+                        <div class='timestamp'>12/31/2020 5:28:42 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Aaron POYB (B Ham Leader):
+                    <div class = "message-body">
+                        I agree and not only that, now antifa knows any destruction they do, they can just say it was proudboys
+                        <div class='timestamp'>12/31/2020 5:28:46 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/2/21<br>3:22 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-ExportedTelegramChatMOSDOp/messages.html#go_to_message163">MOSD Ops</a>:
+                </div>
+                <div class="message">
+                    Joe Bigs:
+                    <div class = "message-body">
+                        Well. Here's the thing. We all have beards for the most part and antifa don't
+                        <div class='timestamp'>1/2/2021 3:22 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    The Vidivic <span class='in-reply'>[in reply to <b>Joe Bigs</b>]</span>:
+                    <div class = "message-body">
+                        Yeah I'm just going to bring a ski mask
+                        <div class='timestamp'>1/2/2021 3:23 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Fifty 1 <span class='in-reply'>[in reply to <b>Joe Bigs</b>]</span>:
+                    <div class = "message-body">
+                        well most of them have not gone through puberty
+                        <div class='timestamp'>1/2/2021 3:23 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    The Vidivic <span class='in-reply'>[in reply to <b>Fifty 1</b>]</span>:
+                    <div class = "message-body">
+                        Most of them never will
+                        <div class='timestamp'>1/2/2021 3:24 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Joe Bigs:
+                    <div class = "message-body">
+                        Well I mean for us to blend in. We will need to cover our beards.
+                        <div class='timestamp'>1/2/2021 3:24 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/2/21<br>8:22 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDChat-2020-12-20_2021-1-4.pdf">MOSD Leadership Chat</a> (Govt Exhibit 501-53):
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        <img src="YutYutCowabungaMOSDMessage-TweetFromHunterCullen.png" style="max-height:600px; max-width:406px;">
+                        <div class='timestamp'>1/2/2021 8:22:56 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        Well fuck I guess I'm going now
+                        <div class='timestamp'>1/2/2021 8:23:06 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Enrique Tarrio (ɴᴏʙʟᴇ ʟᴇᴀᴅ):
+                    <div class = "message-body">
+                        <i>
+                        [Transcript of voice message]: Fuck, you guys get carried away sometimes. All I said was to wear black.
+                        </i>
+                        <div class='timestamp'>1/2/2021 8:23:34 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        <i>
+                        [Transcript of voice message]: [laughing]
+                        </i>
+                        <div class='timestamp'>1/2/2021 8:23:51 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Joe Biggs:
+                    <div class = "message-body">
+                        why are we trending
+                        <div class='timestamp'>1/2/2021 8:24:08 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Joe Biggs:
+                    <div class = "message-body">
+                        we are all in the news
+                        <div class='timestamp'>1/2/2021 8:24:12 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Enrique Tarrio (ɴᴏʙʟᴇ ʟᴇᴀᴅ):
+                    <div class = "message-body">
+                        I don’t see that we’re trending.
+                        <div class='timestamp'>1/2/2021 8:28:29 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Jeremy Bertino (NobleBeard):
+                    <div class = "message-body">
+                        Because we are silent big Dick ninjas
+                        <div class='timestamp'>1/2/2021 8:28:53 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    John Charles Stewart (Johnny Blackbeard):
+                    <div class = "message-body">
+                        I wish
+                        <div class='timestamp'>1/2/2021 8:34:20 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Enrique Tarrio (ɴᴏʙʟᴇ ʟᴇᴀᴅ):
+                    <div class = "message-body">
+                        <i>
+                        [Transcript of voice message]: I wish we were half as cool where we could coordinate something like this. 
+                        If we wanted to. In Minecraft. But the truth is we can’t even get guys to march in the same direction. 
+                        </i>
+                        <div class='timestamp'>1/2/2021 8:35:00 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    John Charles Stewart (Johnny Blackbeard):
+                    <div class = "message-body">
+                        <i>
+                        [Transcript of voice message]: Right? Imagine if anybody actually knew
+                        how fucking retarded our members are. I
+                        wonder if they’d even acknowledge it at this
+                        point. Because of how wrong they will have
+                        to admit they have been for all these years.
+                        </i>
+                        <div class='timestamp'>1/2/2021 8:35:40 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/3/21<br>7:09 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDChat-2020-12-20_2021-1-4.pdf">MOSD Leadership Chat</a> (Govt Exhibit 501-56):
+                </div>
+                <div class="message">
+                    Enrique Tarrio (ɴᴏʙʟᴇ ʟᴇᴀᴅ):
+                    <div class = "message-body">
+                        <i>
+                        [Transcript of voice message]: 
+                        Yeah, let’s do this from the ground tomorrow while I’m in D.C. The problem that I have is, we’re only going to be talking 
+                        about certain aspects of it, but, um, I’m getting so many conflicting issues with, like, stages, locations, and times that, 
+                        um, that I don’t know where to put people. I do know that we gotta be out, uh, very early.
+                        </i>
+                        <div class='timestamp'>1/3/2021 7:09:33 PM</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    John Charles Stewart (Johnny Blackbeard) <span class='in-reply'>[replying to Enrique Tarrio]</span>:
+                    <div class = "message-body">
+                        <i>
+                        [Transcript of voice message]:
+                        Well, I mean, the main operating theater should be out in front of the House of Representatives.
+                        It should be out in front of the Capitol building. That's where the vote is taking place, and
+                        all the objections. So we can ignore the rest of these stages and all that shit, and plan
+                        the operations base around the front entrance to the Capitol building. Um, I strongly
+                        recommend you use the national mall and not Pennsylvania Avenue, though. It's a wide open
+                        space, you can see everything coming from all angles.
+                        </i>
+                        <div class='timestamp'>1/2/2021 7:10:44 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    John Charles Stewart (Johnny Blackbeard):
+                    <div class = "message-body">
+                        <i>
+                        [Transcript of voice message]:
+                        At this point with the, the signals coming out of D.C. Metro, I'd be worried about
+                        them grabbing a Proud Boy or something like that from a fucking side street or, you know, who knows
+                        at this point, they just can't be trusted.
+                        </i>
+                        <div class='timestamp'>1/2/2021 7:11:05 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Zach Rehl (Captain Trump):
+                    <div class = "message-body">
+                        Is @NobleLead still doing a speech? Where is that? These are things that are holding up my thought process for the moment. 
+                        Other than that the captial is a good start
+                        <div class='timestamp'>1/3/2021 7:14:21 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/3/21<br>9:19 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-ExportedTelegramChatMOSDOp/messages.html#go_to_message432">MOSD Ops</a>:
+                </div>
+                <div class="message">
+                    Enrique Tarrio (NOBLE LEAD):
+                    <div class = "message-body">
+                        If your beard is visible, you will stick out like a sore thumb in DC lol. Antifa will identify you as PB in seconds lol
+                        <div class='timestamp'>1/3/2021 9:19 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Pit Bull <span class="in-reply">[in reply to <b>NOBLE LEAD</b>]</span>:
+                    <div class = "message-body">
+                        This is true, most of them still rocking the peach fuzz lol
+                        <div class='timestamp'>1/3/2021 9:20 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Enrique Tarrio (NOBLE LEAD):
+                    <div class = "message-body">
+                        Yup.
+                        <div class='timestamp'>1/3/2021 9:20 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/3/21<br>11:18 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-ExportedTelegramChatMOSDOp/messages.html#go_to_message437">MOSD Ops</a>:
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga) <span class="in-reply">[quoting Enrique Tarrio]</span>:
+                    <div class = "message-body">
+                        <div class="quoted-message">
+                            Enrique Tarrio (NOBLE LEAD):
+                            <div class = "message-body">
+                            Bring Trump/Civilian gear.
+                            <br><br>
+                            Do not bring PB shit at all. Includes anything with laurels.
+                            <br><br>
+                            Also bring a set black bloc gear just in case.
+                            <div class='timestamp'>12/31/2020 11:46:49 PM</div>
+                            </div>
+                        </div>
+                        <div class='timestamp'>1/3/2021 11:18 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Saint Xhristopher <span class="in-reply">[in reply to <b>Charles Donohoe</b>]</span>:
+                    <div class = "message-body">
+                        What level black block?<br>
+                        Just clothes?<br>
+                        Bike helmets, goggles, and cans of soup?
+                        <div class='timestamp'>1/3/2021 9:21 PM</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga) <span class="in-reply">[in reply to <b>Saint Xhristopher</b>]</span>:
+                    <div class = "message-body">
+                        Clothes. There is a potential for a simple and quick mission. That is all.
+                        <div class='timestamp'>1/3/2021 9:23 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/4/21<br>2:21 AM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-ExportedTelegramChatMOSDOp/messages.html#go_to_message488">MOSD Ops</a>:
+                </div>
+                <div class="message">
+                    Richard WD Stomper:
+                    <div class = "message-body">
+                        High lumens it 800+
+                        <div class='timestamp'>1/4/2021 2:21 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Richard WD Stomper:
+                    <div class = "message-body">
+                        They strobe you to blind then attack u
+                        <div class='timestamp'>1/4/2021 2:22 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Richard WD Stomper:
+                    <div class = "message-body">
+                        It's as good if not better than bear spray. You become disoriented as they hit you with bats and shit
+                        <div class='timestamp'>1/4/2021 2:24 AM</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Richard WD Stomper:
+                    <div class = "message-body">
+                        Anyone at night that gets high powered strobed move backwards not forwards. You will be anywhere from 10 seconds to 30 
+                        seconds visually impaired.
+                        <div class='timestamp'>1/4/2021 2:28 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Richard WD Stomper:
+                    <div class = "message-body">
+                        They will swarm you. Anyone that see those little fuckers pulling that shit run up and TKO that MFer. Man or women
+                        <div class='timestamp'>1/4/2021 2:29 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Enrique Tarrio (NOBLE LEAD):
+                    <div class = "message-body">
+                        Should add that to the list
+                        <div class='timestamp'>1/4/2021 2:31 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Deleted Account <span class="in-reply">[in reply to Richard WD Stomper]</span>:
+                    <div class = "message-body">
+                        Gotcha, I know how they do, they tried getting me at night with that once, lol. I got one with with 7100 lumens, you can get one on amazon for $30
+                        <div class='timestamp'>1/4/2021 2:31 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Richard WD Stomper:
+                    <div class = "message-body">
+                        👆🏿
+                        <div class='timestamp'>1/4/2021 2:32 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Richard WD Stomper:
+                    <div class = "message-body">
+                        Also if they stobe you pull out gel pepper spray and send it flying in the strobes direction. You can get 
+                        away as they back up, for other guys behind you to come clean up the trash
+                        <div class='timestamp'>1/4/2021 2:34 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Richard WD Stomper:
+                    <div class = "message-body">
+                        I've had this before they knew what it was. I gave the other one to my favorite nephew. This laser will will burn your eye outash
+                        <div class='timestamp'>1/4/2021 2:36 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Richard WD Stomper:
+                    <div class = "message-body">
+                        <img src="LaserPointer1.jpg">
+                        <div class='timestamp'>1/4/2021 2:37 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Richard WD Stomper:
+                    <div class = "message-body">
+                        U can't look at it without sunglasses on
+                        <div class='timestamp'>1/4/2021 2:39 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Richard WD Stomper:
+                    <div class = "message-body">
+                        <img src="LaserPointer2.jpg">
+                        <div class='timestamp'>1/4/2021 2:41 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Richard WD Stomper:
+                    <div class = "message-body">
+                        I need to charge it
+                        <div class='timestamp'>1/4/2021 2:41 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Enrique Tarrio (NOBLE LEAD) <span class="in-reply">[in reply to Richard WD Stomper]</span>:
+                    <div class = "message-body">
+                        Bring that masterpiece
+                        <div class='timestamp'>1/4/2021 2:43 AM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/4/21<br>2:54 AM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-ExportedTelegramChatMOSDOp/messages.html#go_to_message502">MOSD Ops</a>:
+                </div>
+                <div class="message">
+                    Richard WD Stomper:
+                    <div class = "message-body">
+                        If and I mean if we go lurking after the sun goes down we need a minimum of 2 rows, if not 3. That way the 
+                        firstrow can retreat backwards id needed the secondcrow advance and alternate and so on. Unified fronts are hard to collapse. 
+                        Mayb the front front line takes the cucks passes them to the back while everyone does their jobs
+                        <div class='timestamp'>1/4/2021 2:54 AM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/4/21<br>9:41 AM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-ExportedTelegramChatMOSDOp/messages.html#go_to_message532">MOSD Ops</a>:
+                </div>
+                <div class="message">
+                    Gabriel PB:
+                    <div class = "message-body">
+                        I am taking a knife 🔪 also because fuck ANTIFA twice
+                        <div class='timestamp'>1/4/2021 9:41:43 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    The Vidivic:
+                    <div class = "message-body">
+                        Yo not that it matters but do you know dc
+                        knife rules. Am I good to carry my
+                        Leatherman in district of commieville?
+                        <div class='timestamp'>1/4/2021 9:45:13 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Enrique Tarrio (ɴᴏʙʟᴇ ʟᴇᴀᴅ):
+                    <div class = "message-body">
+                        Negative. Heavy restrictions.
+                        <br><br>
+                        But carry at a risk. Prefer to have one than not
+                        <div class='timestamp'>1/4/2021 10:36:40 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Joe Biggs:
+                    <div class = "message-body">
+                        Negative. Heavy restrictions.
+                        <br><br>
+                        Also. If you have body armor on the outside
+                        and a helmet. You will stick out. Those guys
+                        have their shit covered
+                        <div class='timestamp'>1/4/2021 11:31:26 AM</div>
+                    </div>
+                </div>
+
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/4/21<br>4:15 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-ExportedTelegramChatMOSDOp/messages.html#go_to_message618">MOSD Ops</a>:
+                </div>
+                <div class="message">
+                    Alekos:
+                    <div class = "message-body">
+                        It’s gonna get real interesting at night time can hardly fucking wait
+                        <div class='timestamp'>1/4/2021 4:15 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/4/21<br>4:34 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-ExportedTelegramChatMOSDOp/messages.html#go_to_message628">MOSD Ops</a>:
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        <div class="quoted-message">
+                            Police frequency:
+                            <div class = "message-body">
+                                Meanwhile, in Washington DC -- They're already setting up barricades and blocking off entrances to the demonstration 
+                                area around the White House in Washington, DC. This comes after Mayor Bowser claimed in a press conference today they 
+                                support people's first amendment rights.
+                                <br><br>
+                                <div class = "media_wrap clearfix">
+                                    <a class = "video_file_wrap clearfix pull_left" href="ProudBoys-ExportedTelegramChatMOSDOp/video_files/DC.mp4">
+                                        <div class = "video_play_bg">
+                                            <div class = "video_play"></div>
+                                        </div>
+                                        <div class="video_duration">00:49</div>
+                                        <img src="ProudBoys-ExportedTelegramChatMOSDOp/video_files/DC.mp4_thumb.jpg" style="width:320px; height:180px;">
+                                    </a>
+                                </div>
+                                <div class='timestamp'>1/4/2021 4:05:40 PM</div>
+                            </div>
+                        </div>
+                        <div class='timestamp'>1/4/2021 4:34 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Deleted Account:
+                    <div class = "message-body">
+                        Hopefully its to add boots on ground and presence mitigate Antifa
+                        <div class='timestamp'>1/4/2021 5:11 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/4/21<br>7:47 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN2-2021-1-4_2021-1-5.pdf">MOSD MAIN 2</a> (Govt Exhibit 510-8):
+                </div>
+                <div class="message">
+                    Deplorable51:
+                    <div class = "message-body">
+                        ok so @Noblebeard is Biggs or you giving  us at anypoint tonight what our task is or if its aborted and we ade 
+                        back to just going  as patriots no covert pb shit
+                        <div class='timestamp'>1/4/2021 7:47:00 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/4/21<br>8:57 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN2-2021-1-4_2021-1-5.pdf">MOSD MAIN 2</a> (Govt Exhibit 510-9):
+                </div>
+                <div class="message">
+                    Ethan Nordean (Rufio Panman):
+                    <div class = "message-body">
+                        <i>
+                        [Transcript of voice message]:
+                        [inaudible] we’re planning ahead, uh, as if the rally’s continuing. Ah, as far as what we do tomorrow, 
+                        that’s what we’re trying to figure out. Where Enrique’s gonna be, how extensive this is, uh, and everything [inaudible] 
+                        his charges, so. Right now, I want everybody to stand by and not make any moves. Do not wear colors by any means if 
+                        you’re out on the streets, uh, and just assume the worst. Ah, until you hear from me just basically stand by, if 
+                        you hear any other details please let me know. 
+                        </i>
+                        <div class='timestamp'>1/4/2021 8:57:10 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/5/21<br>9:35 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-NewMOSD-2021-1-4_2021-1-13.pdf">New MOSD</a> (Govt Exhibit 509-24):
+                </div>
+                <div class="message">
+                    Zach Rehl (Captain Trump):
+                    <div class = "message-body">
+                        If we still have plans to break off on teams,
+                        we can pick them there on the spot
+                        obviously
+                        <div class='timestamp'>1/5/2021 9:35:08 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        Everyone needs to meet at the Washington
+                        Monument at 10am tomorrow morning! Do
+                        not be late! Do not wear colors! Details will
+                        be laid out at the pre meeting! Come out at
+                        as patriot! We will be meeting inside the
+                        ropes of the monument on the side facing
+                        the whitehouse.
+                        <div class='timestamp'>1/5/2021 9:36:23 PM</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Zach Rehl (Captain Trump):
+                    <div class = "message-body">
+                        what were some of the objectives agreed on
+                        anyway
+                        <div class='timestamp'>1/5/2021 9:40:46 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/5/21<br>5:22 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-BootsOnTheGroundChat.pdf">Boots On The Ground</a> (Govt Exhibit 512-3):
+                </div>
+                <div class="message">
+                    Joe Biggs:
+                    <div class = "message-body">
+                        Is everyone in this chat here in dc now?
+                        <div class='timestamp'>1/5/2021 5:22:07 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Joe Biggs:
+                    <div class = "message-body">
+                        Woth rufio trying to get numbers so we can make a plan
+                        <div class='timestamp'>1/5/2021 5:22:20 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/5/21<br>5:46 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-BootsOnTheGroundChat.pdf">Boots On The Ground</a>:
+                </div>
+                <div class="message">
+                    Kreeper 2nd* HVNY:
+                    <div class = "message-body">
+                        This is so unorganized! Where is our order?
+                        <div class='timestamp'>1/5/2021 5:46:12 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    El Jefe:
+                    <div class = "message-body">
+                        It's not a pb event 
+                        <div class='timestamp'>1/5/2021 5:46:38 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    El Jefe:
+                    <div class = "message-body">
+                        Why would there be orders
+                        <div class='timestamp'>1/5/2021 5:46:44 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    El Jefe:
+                    <div class = "message-body">
+                        I just wanna have beers with fellas 
+                        <div class='timestamp'>1/5/2021 5:47:23 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Kreeper 2nd* HVNY:
+                    <div class = "message-body">
+                        This isn’t like any other event I’ve attended. Too many questions and not enough answers.
+                        <div class='timestamp'>1/5/2021 5:47:38 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Joe Bigs:
+                    <div class = "message-body">
+                        We still have people coming in.
+                        <div class='timestamp'>1/5/2021 5:51:33 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Kreeper 2nd* HVNY:
+                    <div class = "message-body">
+                        No fuckin plan either 
+                        <div class='timestamp'>1/5/2021 5:51:37 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/5/21<br>5:59 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-BootsOnTheGroundChat.pdf">Boots On The Ground</a> (Govt Exhibit 512-4):
+                </div>
+                <div class="message">
+                    Aaron Wolkind (Aaron Of The Bloody East):
+                    <div class = "message-body">
+                        Washington DC — It's already starting. Antifa/BLM harass a group of guys and mace one when he 
+                        knocks down the umbrella they shoved in his face. Camera person gets phone knocked out of her hands
+                        <div class='timestamp'>1/5/2021 5:59:26 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/5/21<br>7:31 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-BootsOnTheGroundChat.pdf">Boots On The Ground</a> (Govt Exhibit 512-4):
+                </div>
+                <div class="message">
+                    Matthew The People's Chairman Walter:
+                    <div class = "message-body">
+                        Ok you queers what is the fucking plan 
+                        <div class='timestamp'>1/5/2021 7:31:19 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/5/21<br>9:07 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-NewMOSD-2021-1-4_2021-1-13.pdf">New MOSD</a> (Govt Exhibit 509-23):
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        Hey who's boots on ground with a plan RN
+                        <div class='timestamp'>1/5/2021 9:07:00 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        Guys are asking
+                        <div class='timestamp'>1/5/2021 9:07:04 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    John Charles Stewart (Johnny Blackbeard):
+                    <div class = "message-body">
+                        Supposed to be Rufio
+                        <div class='timestamp'>1/5/2021 9:08:15 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        Only him?
+                        <div class='timestamp'>1/5/2021 9:08:24 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    John Charles Stewart (Johnny Blackbeard):
+                    <div class = "message-body">
+                        Have not heard from him in hours though
+                        <div class='timestamp'>1/5/2021 9:08:41 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/5/21<br>9:21 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-NewMOSD-2021-1-4_2021-1-13.pdf">New MOSD</a> (Govt Exhibit 509-23):
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        What's the plan so I can pass it to the MOSD guys
+                        <div class='timestamp'>1/5/2021 9:21:30 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Joe Biggs:
+                    <div class = "message-body">
+                        I gave Enrique a plan. The one I told the
+                        guys and he said he had one.
+                        <div class='timestamp'>1/5/2021 9:22:31 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/5/21<br>11:21 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-BootsOnTheGroundChat.pdf">Boots On The Ground</a> (Govt Exhibit 509-23):
+                </div>
+                <div class="message">
+                    Aaron Wolkind (Aaron Of The Bloody East):
+                    <div class = "message-body">
+                        BLM Antifa thugs attacking Trump supporters in D.C.
+                        <div class='timestamp'>1/5/2021 11:21:12 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Aaron Wolkind (Aaron Of The Bloody East):
+                    <div class = "message-body">
+                        This is the vicious assault by BLM scumbag on Trump supporter in Washington D.C.
+                        <br>
+                        <i>[video attached]</i>
+                        <div class='timestamp'>1/5/2021 11:21:12 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/6/21<br>11:12 AM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-NewMOSD-2021-1-4_2021-1-13.pdf">New MOSD</a> (Govt Exhibit 509-29):
+                </div>
+                <div class="message">
+                    Aaron Wolkind (Aaron Of The Bloody East):
+                    <div class = "message-body">
+                        Tell me what the plan is, I'll spam post it
+                        <div class='timestamp'>1/6/2021 11:12:06 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    John Charles Stewart (Johnny Blackbeard):
+                    <div class = "message-body">
+                        Guys are starting to take their groups off
+                        alone because they cant find leadership
+                        <div class='timestamp'>1/6/2021 11:12:33 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    John Charles Stewart (Johnny Blackbeard):
+                    <div class = "message-body">
+                        Give us a location so we can help you keep
+                        them together
+                        <div class='timestamp'>1/6/2021 11:12:56 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Zach Rehl (Captain Trump):
+                    <div class = "message-body">
+                        <i>
+                        [Transcript of voice message]:
+                        We’re here we’re doing our thing, uhm, at
+                        least, uh, the Mossad guys that showed up.
+                        Uh, as far as anybody else, uh, not really,
+                        not really sure what uh everybody else is
+                        doing as far as like you know the rogue
+                        chapters that came out here, so.
+                        </i>
+                        <div class='timestamp'>1/6/2021 11:21:48 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    John Charles Stewart (Johnny Blackbeard):
+                    <div class = "message-body">
+                        👌
+                        <div class='timestamp'>1/6/2021 11:22:58 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Jeremy Bertino (Noble Beard The Immortal):
+                    <div class = "message-body">
+                        <i>
+                        [Transcript of voice message]:
+                        You guys see any, uh, resistance out there,
+                        or any Antifa presence?
+                        </i>
+                        <div class='timestamp'>1/6/2021 11:23:08 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Zach Rehl (Captain Trump):
+                    <div class = "message-body">
+                        <i>
+                        [Transcript of voice message]:
+                        Uh, not yet, uh just just like like little bits
+                        and pieces here and there, um. But, uh--
+                        <br><br>
+                        [Nordean: We’re going this way, you can
+                        adjust accordingly. We’re turn-- turning
+                        right.]
+                        <br><br>
+                        Yeah uh, we were outed immediately
+                        basically but—
+                        <br><br>
+                        [Nordean: Right side, right side slow down,
+                        left side speed up, right side slow down]
+                        <br><br>
+                        --Yeah, sorry about that but uh yeah yeah
+                        ju-just bits and pieces here and there, it's
+                        nothin crazy.
+                        </i>
+                        <div class='timestamp'>1/6/2021 11:23:08 AM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/6/21<br>11:25 AM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-NewMOSD-2021-1-4_2021-1-13.pdf">New MOSD</a> (Govt Exhibit 509-29):
+                </div>
+                <div class="message">
+                    Jeremy Bertino (Noble Beard The Immortal):
+                    <div class = "message-body">
+                        Any media
+                        <div class='timestamp'>1/6/2021 11:25:10 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Jeremy Bertino (Noble Beard The Immortal):
+                    <div class = "message-body">
+                        Following you guys?
+                        <div class='timestamp'>1/6/2021 11:25:17 AM</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga) <span class="in-reply">[in reply to Jeremy Bertino]</span>:
+                    <div class = "message-body">
+                        Yeah a lot
+                        <div class='timestamp'>1/6/2021 11:27:25 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Aaron Wolkind (Aaron Of The Bloody East):
+                    <div class = "message-body">
+                        Should try and lose them
+                        <div class='timestamp'>1/6/2021 11:29:50 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Aaron Wolkind (Aaron Of The Bloody East):
+                    <div class = "message-body">
+                        They know you're PB's?
+                        <div class='timestamp'>1/6/2021 11:30:09 AM</div>
+                    </div>
+                </div>
+                <div class = "ellipsis"></div>
+                <div class="message">
+                    Zach Rehl (Captain Trump) <span class="in-reply">[in reply to Aaron Wolkind]</span>:
+                    <div class = "message-body">
+                        Instantly, whole time, lol
+                        <div class='timestamp'>1/6/2021 11:50:28 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Jeremy Bertino (Noble Beard The Immortal) <span class="in-reply">[in reply to Zach Rehl]</span>:
+                    <div class = "message-body">
+                        Who? Do you know?
+                        <div class='timestamp'>1/6/2021 11:51:43 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Zach Rehl (Captain Trump) <span class="in-reply">[in reply to Jeremy Bertino]</span>:
+                    <div class = "message-body">
+                        Media, normies, etc. we were masked up at
+                        first too, they still knew. Not sure if dudes
+                        were telling people or what
+                        <div class='timestamp'>1/6/2021 11:52:42 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Jeremy Bertino (Noble Beard The Immortal) <span class="in-reply">[in reply to Zach Rehl]</span>:
+                    <div class = "message-body">
+                        Possibly
+                        <div class='timestamp'>1/6/2021 11:53:03 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Aaron Wolkind (Aaron Of The Bloody East) <span class="in-reply">[in reply to Zach Rehl]</span>:
+                    <div class = "message-body">
+                        You just radiate fascism Zach
+                        <div class='timestamp'>1/6/2021 11:53:20 AM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/6/21<br>12:16 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-NewMOSD-2021-1-4_2021-1-13.pdf">New MOSD</a> (Govt Exhibit 509-30):
+                </div>
+                <div class="message">
+                    John Charles Stewart (Johnny Blackbeard):
+                    <div class = "message-body">
+                        <i>
+                        [Transcript of voice message]:
+                        I know some of the guys are, they seem to
+                        be a little upset but, what I’m hearing is,
+                        uh, the Ministry is together – uh, maybe not
+                        exactly as we initially planned, but I think
+                        Rufio, Joe, and Zach are doing the best they
+                        can with the cards that they were dealt. We
+                        need to do the AAR and, uh, let the guys
+                        speak, and uh they can talk about what
+                        went well and what didn’t go well, and, uh,
+                        we can make adjustments for the next time.
+                        And then, make sure they understand, you
+                        know, this was the first one. Uh, we had
+                        quite a fucking hiccup thrown in, um, with
+                        Enrique being arrested, me being down,
+                        Jeremy being down, Aaron not being able to
+                        make it, uh-- I think Yut is on the ground as
+                        well, I didn’t mean to leave you out of
+                        there, Yut. You guys are doing the best you
+                        can with the situation that you have, so,
+                        let’s just do the AAR and pivot next time, I
+                        guess.
+                        </i>
+                        <div class='timestamp'>1/6/2021 12:16:29 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/6/21<br>12:17 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSD-MAIN2-2021-1-4_2021-1-5.pdf">MOSD MAIN 2</a> (Govt Exhibit 510-32):
+                </div>
+                <div class="message">
+                    Do you want total war?:
+                    <div class = "message-body">
+                        Lol. This is a mirror of the 12th. Exact same plan.
+                        <div class='timestamp'>1/6/2021 12:17:00 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Do you want total war?:
+                    <div class = "message-body">
+                        I left. I’m eating and chilling with my chapter
+                        <div class='timestamp'>1/6/2021 12:17:27 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Jeremy Bertino (Noble Beard The Immortal):
+                    <div class = "message-body">
+                        Not watching Trump?
+                        <div class='timestamp'>1/6/2021 12:17:48 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Do you want total war?:
+                    <div class = "message-body">
+                        No. We decided to March like miles away
+                        <div class='timestamp'>1/6/2021 12:18:42 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/6/21<br>3:45 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-BootsOnTheGroundChat.pdf">Boots On The Ground</a> (Govt Exhibit 512-11):
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        Conflict Observer, 'Disclose TV', on twitter:
+                        <br><br>
+                        #URGENT<br>
+                        — Virginia National Guard and 200 state
+                        troopers are now being deployed to
+                        Washington DC.
+                        <div class='timestamp'>1/6/2021 3:45:31 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        Trump ordering National Guard to attack...
+                        Trump supporters?
+                        <br><br>
+                        Conflict Observer, 'Disclose TV', on twitter:
+                        <br><br>
+                        #BREAKING<br>
+                        — President Trump orders the deployment
+                        of the National Guard
+                        <div class='timestamp'>1/6/2021 3:45:42 PM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Matthew The People's Chairman Walter:
+                    <div class = "message-body">
+                        Ummm I don't think the plan was to attacked, damage, and attempt to control government building.
+                        <br><br>
+                        I believe Trump is saying FAFO 
+                        <div class='timestamp'>1/6/2021 3:48:33 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/6/21<br>5:09 PM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-BootsOnTheGroundChat.pdf">Boots On The Ground</a> (Govt Exhibit 512-13):
+                </div>
+                <div class="message">
+                    Zach Rehl (Captain Trump):
+                    <div class = "message-body">
+                        That was NOT what I expected to happen today, 😂. All from us showing up and starting some chants and getting the normies all riled up
+                        <div class='timestamp'>1/6/2021 5:09:19 PM</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/7/21<br>9:22 AM</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-NewMOSD-2021-1-4_2021-1-13.pdf">New MOSD</a> (Govt Exhibit 509-40):
+                </div>
+                <div class="message">
+                    John Charles Stewart (Johnny Blackbeard):
+                    <div class = "message-body">
+                        I don't think there ever was really a plan. I know I had no input if there was. We were caught off guard for sure.
+                        <div class='timestamp'>1/7/2021 9:22:12 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Jeremy Bertino (Noble Beard The Immortal):
+                    <div class = "message-body">
+                        Lmfao
+                        <div class='timestamp'>1/7/2021 9:23:20 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Jeremy Bertino (Noble Beard The Immortal):
+                    <div class = "message-body">
+                        There was definitely not enough planning for
+                        this rally. We were busy trying to set this thing up.
+                        <div class='timestamp'>1/7/2021 9:23:55 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        Well for starters there was only like 20
+                        MOSD guys even there
+                        <div class='timestamp'>1/7/2021 9:24:30 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Charles Donohoe (YutYut Cowabunga):
+                    <div class = "message-body">
+                        Everybody bailed
+                        <div class='timestamp'>1/7/2021 9:24:38 AM</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Jeremy Bertino (Noble Beard The Immortal):
+                    <div class = "message-body">
+                        Yes. Not enough people
+                        <div class='timestamp'>1/7/2021 9:24:44 AM</div>
+                    </div>
+                </div>
+
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+        <tr class="ro3">
+	        <td class="date-col"><p id="anc1"><a class = 'anchor-link' href="#anc1">1/20/21</a></p></td>
+	        <td class="ce17">
+                <div class = 'full-context'>
+                From <a href="https://sigsegv1980.github.io/j6/ProudBoys-MOSDLeaders-Jan9-Chat.pdf">MOSD Leaders - Jan 9 Chat</a> (Nordean Exhibit 102):
+                </div>
+                <div class="message">
+                    Zach Rehl (Captain Trump):
+                    <div class = "message-body">
+                        This FBI affidavit for Biggs, it's, of course, a steaming pile of dog shit that tries to make it seem 
+                        like the Capitol shit was planned.
+                        <br><br>
+                        <i>[<a href="https://sigsegv1980.github.io/j6/2021-01-19-USAvBiggs-Affidavit.pdf">Link to affidavit</a>]</i>
+                        <div class='timestamp'>1/21/2021</div>
+                    </div>
+                </div>
+                <div class="message">
+                    Ethan Nordean (Rufio Panman) <span class="in-reply">[in reply to Zach Rehl]</span>:
+                    <div class = "message-body">
+                        What the fuck?
+                        <div class='timestamp'>1/21/2021</div>
+                    </div>
+                </div>
+            </td>
+	        <td class="ce9">
+
+            </td>
+        </tr>
+
+
+
+
+
+
     </table>
     </div>
     </div>
